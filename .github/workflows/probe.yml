@@ -1,0 +1,27 @@
+name: Sonde des sources
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/probe.yml", "probe-urls.txt"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Télécharger
+        run: |
+          mkdir -p /tmp/p; i=0
+          while read -r u; do
+            [ -z "$u" ] && continue; i=$((i+1)); f=$(printf "%03d" $i)
+            code=$(curl -sL -m 25 -A "Mozilla/5.0 (X11; Linux x86_64) Chrome/124 Safari/537.36" -H "Accept-Language: fr" -o /tmp/p/$f.txt -w '%{http_code} %{content_type} %{url_effective}' "$u" || echo ERR)
+            echo "$f $code $u" | tee -a /tmp/p/_index.txt
+          done < probe-urls.txt
+      - name: Publier
+        run: |
+          git config user.name "actus-bot"; git config user.email "actions@users.noreply.github.com"
+          git checkout -q --orphan probe && git rm -rq --cached . && find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -r /tmp/p/. . && git add -A . && git commit -qm "Sonde $(date -u +%FT%TZ)" && git push -fq origin probe
