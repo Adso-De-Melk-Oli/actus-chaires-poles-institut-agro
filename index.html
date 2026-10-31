@@ -55,6 +55,19 @@ h1 .sep{font-weight:300;opacity:.55;margin:0 .08em}
 .subtitle{margin:6px 0 0;font-size:15px;color:var(--muted);font-weight:500}
 .pill.group{font-weight:650}
 .pill.group + .pill:not(.group){margin-left:6px}
+/* 12 pastilles : sur ordinateur, sur plusieurs lignes sous le sélecteur et la recherche ;
+   sur téléphone, une ligne qui défile, avec un fondu qui signale la suite */
+@media (min-width:701px){
+  .bar .wrap{row-gap:10px}
+  .search{margin-left:auto}
+  .pills{order:3;flex:1 1 100%;flex-wrap:wrap;overflow:visible}
+  .pill.group + .pill:not(.group){margin-left:0}
+}
+@media (max-width:700px){
+  .pills{flex:1 1 100%;order:3;-webkit-mask-image:linear-gradient(90deg,#000 0,#000 calc(100% - 36px),transparent);mask-image:linear-gradient(90deg,#000 0,#000 calc(100% - 36px),transparent);padding-right:28px;scroll-padding-inline:16px}
+  .pills.at-end{-webkit-mask-image:none;mask-image:none}
+  .search{flex:1 1 auto}
+}
 .mast-side{display:flex;align-items:center;gap:12px}
 .updated{font-size:13px;color:var(--muted);text-align:right;font-variant-numeric:tabular-nums}
 .refresh{all:unset;cursor:pointer;width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:var(--surface);box-shadow:var(--shadow);color:var(--accent);transition:transform .15s}
@@ -324,6 +337,10 @@ function renderPills(){
   const items = [["all","Toutes",null,pool.length,true], ...Object.keys(GROUPS).map(g=>[g,GROUPS[g].label,null,pool.filter(a=>inFilter(a,g)).length,true]), ...ORDER.map(k=>[k,SOURCES[k].label,SOURCES[k].color,SOURCES[k].linkOnly?"↗":(counts[k]||0),false])];
   $("#pills").innerHTML = items.map(([k,l,c,n,g]) =>
     `<button class="pill${g?" group":""}" type="button" data-k="${k}" aria-pressed="${state.filter===k}" style="${c?`--c:var(${c})`:""}">${c?'<span class="dot"></span>':""}${esc(l)}<span class="n">${n}</span></button>`).join("");
+  // téléphone : la pastille choisie reste visible dans la ligne qui défile
+  const on = $("#pills .pill[aria-pressed=true]"), box = $("#pills");
+  if(on && box.scrollWidth > box.clientWidth){ const l = on.offsetLeft - box.offsetLeft; if(l < box.scrollLeft || l + on.offsetWidth > box.scrollLeft + box.clientWidth) box.scrollLeft = l - 16; }
+  pillsEdge();
 }
 
 function render(){
@@ -445,6 +462,9 @@ $("#seg").addEventListener("click", e => {
   document.querySelectorAll("#seg button").forEach(x => x.setAttribute("aria-pressed", x===b));
   render(); window.scrollTo({top:0,behavior:"smooth"});
 });
+function pillsEdge(){ const b = $("#pills"); b.classList.toggle("at-end", b.scrollLeft + b.clientWidth >= b.scrollWidth - 4); }
+$("#pills").addEventListener("scroll", pillsEdge, {passive:true});
+addEventListener("resize", pillsEdge);
 let qT; $("#q").addEventListener("input", e => {clearTimeout(qT); qT=setTimeout(()=>{state.q=e.target.value;render()},120)});
 
 let lastLoad = Date.now();
