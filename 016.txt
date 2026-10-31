@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html  lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://analytics-sc.institut-agro.fr/" : "https://analytics-sc.institut-agro.fr/");_paq.push(["setSiteId", "66"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<link rel="apple-touch-icon" sizes="180x180" href="/sites/vigne-vin.institut-agro.fr/files/favicons/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/sites/vigne-vin.institut-agro.fr/files/favicons/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/sites/vigne-vin.institut-agro.fr/files/favicons/favicon-16x16.png"/>
+<link rel="manifest" href="/sites/vigne-vin.institut-agro.fr/files/favicons/site.webmanifest"/>
+<link rel="mask-icon" href="/sites/vigne-vin.institut-agro.fr/files/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+<meta name="msapplication-TileColor" content="#da532c"/>
+<meta name="theme-color" content="#ffffff"/>
+<meta name="favicon-generator" content="Drupal responsive_favicons + realfavicongenerator.net" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="unavailable_after: Thursday, 21-Oct-27 23:59:59 CEST" />
+<link rel="alternate" hreflang="fr" href="https://vigne-vin.institut-agro.fr/fr/toutes-les-actualites/150-deg-anniversaire-de-la-collection-ampelographique-de-vassal-montpellier" />
+<link rel="canonical" href="https://vigne-vin.institut-agro.fr/fr/toutes-les-actualites/150-deg-anniversaire-de-la-collection-ampelographique-de-vassal-montpellier" />
+<link rel="shortlink" href="https://vigne-vin.institut-agro.fr/fr/node/513" />
+
+
+    <title>150 ° Anniversaire de la Collection ampelographique de Vassal-Montpellier | Pôle Vigne &amp; Vin</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/bootstrap_paragraphs/css/bootstrap-paragraphs.min.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/bootstrap_paragraphs/css/bootstrap-paragraphs-columns.min.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/bootstrap_paragraphs/css/bootstrap-paragraphs-colors.min.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/libraries/cookiesjsr/dist/cookiesjsr.min.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/themes/custom/bootstrap_subtheme_ao_site_satellite/css/bootstrap.min.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/themes/custom/bootstrap_subtheme_ao_site_satellite/css/style.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/themes/custom/bootstrap_subtheme_ao_site_satellite/css/fonts.css?tltr7k" />
+<link rel="stylesheet" media="all" href="/themes/custom/bootstrap_subtheme_ao_site_satellite/css/academicons.min.css?tltr7k" />
+<link rel="stylesheet" media="all" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"fr\/","currentPath":"node\/513","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"matomo":{"disableCookies":false,"trackMailto":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":true,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(le lien est externe)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"Ce lien vous dirige vers un site externe. Nous ne sommes pas responsables de son contenu.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"bootstrap":{"forms_has_error_value_toggle":1},"cookies":{"cookiesjsr":{"config":{"cookie":{"name":"cookiesjsr","expires":34128000000,"domain":"","sameSite":"Lax","secure":false},"library":{"libBasePath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist","libPath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist\/cookiesjsr.min.js","scrollLimit":0},"callback":{"method":"post","url":"\/fr\/cookies\/consent\/callback.json","headers":[]},"interface":{"openSettingsHash":"#editCookieSettings","showDenyAll":true,"denyAllOnLayerClose":false,"settingsAsLink":true,"availableLangs":["en","fr"],"defaultLang":"fr","groupConsent":false,"cookieDocs":false}},"services":{"functional":{"id":"functional","services":[{"key":"functional","type":"functional","name":"Cookies requis","info":{"value":"\u003Cp\u003EFallback\u003C\/p\u003E\r\n","format":"full_html"},"uri":"https:\/\/vigne-vin.institut-agro.fr\/fr\/politique-de-cookies","needConsent":false}],"weight":1},"video":{"id":"video","services":[{"key":"video","type":"video","name":"Vid\u00e9os h\u00e9berg\u00e9es sur YouTube ou Vimeo","info":{"value":"","format":"full_html"},"uri":"https:\/\/policies.google.com\/privacy","needConsent":true}],"weight":40}},"translation":{"langcode":"fr","bannerText":"Ce site utilise des cookies et vous donne le contr\u00f4le sur ce que vous souhaitez activer. Ces cookies sont destin\u00e9s \u00e0 am\u00e9liorer votre exp\u00e9rience de navigation. Vous pouvez personnaliser les r\u00e9glages d\u0027acceptation des cookies pour ce site maintenant, ou \u00e0 tout moment depuis la page \u0022G\u00e9rer les cookies\u0022. Pour accepter leur utilisation, il vous suffit de cliquer sur \u0022Tout accepter\u0022.","privacyPolicy":"Politique de cookies","privacyUri":"\/fr\/politique-de-cookies","imprint":"","imprintUri":"","cookieDocs":"","cookieDocsUri":"","officialWebsite":"Voir le site officiel","denyAll":"Tout refuser","alwaysActive":"Toujours actif","settings":"G\u00e9rer les cookies","acceptAll":"Tout accepter","requiredCookies":"Cookies requis","cookieSettings":"G\u00e9rer les cookies","close":"Fermer","readMore":"Lire la suite","allowed":"autoris\u00e9","denied":"refus\u00e9","settingsAllServices":"Param\u00e8tres pour tous les services","saveSettings":"Enregistrer","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Company","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accepter tous les cookies","functional":{"title":"Cookies obligatoires","details":"Ce site utilise des cookies n\u00e9cessaires \u00e0 son bon fonctionnement qui ne peuvent pas \u00eatre d\u00e9sactiv\u00e9s.\r\n"},"video":{"title":"Vid\u00e9os","details":"Ces cookies d\u00e9pos\u00e9s via le service de partage de vid\u00e9os YouTube ou Vimeo vous permettent de visionner les contenus multim\u00e9dia."}}},"cookiesTexts":{"langcode":"fr","bannerText":"Ce site utilise des cookies et vous donne le contr\u00f4le sur ce que vous souhaitez activer. Ces cookies sont destin\u00e9s \u00e0 am\u00e9liorer votre exp\u00e9rience de navigation. Vous pouvez personnaliser les r\u00e9glages d\u0027acceptation des cookies pour ce site maintenant, ou \u00e0 tout moment depuis la page \u0022G\u00e9rer les cookies\u0022. Pour accepter leur utilisation, il vous suffit de cliquer sur \u0022Tout accepter\u0022.","privacyPolicy":"Politique de cookies","privacyUri":"\/node\/193","imprint":"","imprintUri":"","cookieDocs":"","cookieDocsUri":"","officialWebsite":"Voir le site officiel","denyAll":"Tout refuser","alwaysActive":"Toujours actif","settings":"G\u00e9rer les cookies","acceptAll":"Tout accepter","requiredCookies":"Cookies requis","cookieSettings":"G\u00e9rer les cookies","close":"Fermer","readMore":"Lire la suite","allowed":"autoris\u00e9","denied":"refus\u00e9","settingsAllServices":"Param\u00e8tres pour tous les services","saveSettings":"Enregistrer","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Company","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accepter tous les cookies"},"services":{"functional":{"uuid":"dcb411a6-d98a-457c-a4b0-2805e592b6b5","langcode":"fr","status":true,"dependencies":[],"id":"functional","label":"Cookies requis","group":"functional","info":{"value":"\u003Cp\u003EFallback\u003C\/p\u003E\r\n","format":"full_html"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"https:\/\/vigne-vin.institut-agro.fr\/fr\/politique-de-cookies","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"Ce contenu est bloqu\u00e9 car les cookies n\u0027ont pas \u00e9t\u00e9 accept\u00e9s.","placeholderAcceptText":"Accepter uniquement ces cookies"},"video":{"uuid":"f3a46b98-7255-4424-9f05-d6e6e755a7fb","langcode":"fr","status":true,"dependencies":{"enforced":{"module":["cookies_video"]}},"_core":{"default_config_hash":"sSU9xaVzp6lMB3DXSy0j-GJMPQx67_xI3_AQuJRaLa0"},"id":"video","label":"Vid\u00e9os h\u00e9berg\u00e9es sur YouTube ou Vimeo","group":"video","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"https:\/\/policies.google.com\/privacy","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"Ce contenu est bloqu\u00e9 car les cookies n\u0027ont pas \u00e9t\u00e9 accept\u00e9s.","placeholderAcceptText":"Accepter uniquement ces cookies"}},"groups":{"functional":{"uuid":"819ecc11-d124-4597-bf56-60eda9c1706b","langcode":"fr","status":true,"dependencies":[],"id":"functional","label":"Functional","weight":1,"title":"Cookies obligatoires","details":"Ce site utilise des cookies n\u00e9cessaires \u00e0 son bon fonctionnement qui ne peuvent pas \u00eatre d\u00e9sactiv\u00e9s.\r\n"},"performance":{"uuid":"a3a7099a-13b1-46f1-b4ce-d7c0e122800e","langcode":"fr","status":true,"dependencies":[],"_core":{"default_config_hash":"Jv3uIJviBj7D282Qu1ZpEQwuOEb3lCcDvx-XVHeOJpw"},"id":"performance","label":"Performance","weight":30,"title":"Cookies de performance","details":"Ces cookies recueillent de fa\u00e7on anonyme des donn\u00e9es servant \u00e0 mieux comprendre le comportement des visiteurs \u00e0 des fins d\u2019analyses, d\u2019am\u00e9lioration et d\u2019optimisation de la performance du site."},"social":{"uuid":"41114e9d-ff51-4aab-86cf-3cc2d79671c6","langcode":"fr","status":true,"dependencies":[],"_core":{"default_config_hash":"vog2tbqqQHjVkue0anA0RwlzvOTPNTvP7_JjJxRMVAQ"},"id":"social","label":"Social Plugins","weight":20,"title":"Social Plugins","details":"Comments managers facilitate the filing of comments and fight against spam."},"tracking":{"uuid":"6f289669-6e13-4a4e-b566-1c383eb3f600","langcode":"fr","status":true,"dependencies":[],"_core":{"default_config_hash":"_gYDe3qoEc6L5uYR6zhu5V-3ARLlyis9gl1diq7Tnf4"},"id":"tracking","label":"Suivi","weight":10,"title":"Mesure d\u2019audience","details":"Ces cookies permettent de g\u00e9n\u00e9rer des statistiques anonymes de fr\u00e9quentation du site via Google Analytics (le nombre de visites, les pages les plus vues, etc.). Ces donn\u00e9es contribuent \u00e0 identifier d\u0027\u00e9ventuels dysfonctionnements sur le site et \u00e0 am\u00e9liorer la qualit\u00e9 de nos services."},"video":{"uuid":"9bbceb3b-c671-4487-aede-aa453829e00f","langcode":"fr","status":true,"dependencies":[],"_core":{"default_config_hash":"w1WnCmP2Xfgx24xbx5u9T27XLF_ZFw5R0MlO-eDDPpQ"},"id":"video","label":"Vid\u00e9os","weight":40,"title":"Vid\u00e9os","details":"Ces cookies d\u00e9pos\u00e9s via le service de partage de vid\u00e9os YouTube ou Vimeo vous permettent de visionner les contenus multim\u00e9dia."}}},"user":{"uid":0,"permissionsHash":"fd4c32f8aa930006a172170247157eab919e882eebad4978b12c62a890319a3a"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.13.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.3.22"></script>
+<script src="/sites/vigne-vin.institut-agro.fr/files/languages/fr_NHXPcyBW_YujvdnsKNcfKqDAeNIFChmReuDpKsF51d8.js?tltr7k"></script>
+<script src="/core/misc/drupal.js?v=9.3.22"></script>
+<script src="/core/misc/drupal.init.js?v=9.3.22"></script>
+<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?tltr7k"></script>
+<script src="/themes/contrib/bootstrap/js/attributes.js?tltr7k"></script>
+<script src="/themes/contrib/bootstrap/js/theme.js?tltr7k"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/jquery.min.1.11.1.js?tltr7k"></script>
+<script src="/core/misc/debounce.js?v=9.3.22"></script>
+<script src="/core/misc/announce.js?v=9.3.22"></script>
+<script src="/core/misc/message.js?v=9.3.22"></script>
+<script src="/themes/contrib/bootstrap/js/misc/message.js?tltr7k"></script>
+<script src="/modules/contrib/cookies/js/cookiesjsr.conf.js?v=9.3.22" defer></script>
+
+  </head>
+  <body class="path-node page-node-type-news has-glyphicons">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Aller au contenu principal
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+          <header>
+      <nav class="navbar navbar-inverse">
+        <div class="container">         
+          <div class="navbar-header-top">            
+                                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#langues" title="Langue"><span class="fa fa-globe fa-2x"></span></button>
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#rechercher" title="Rechercher"><span class="fa fa-search fa-2x"></span></button>
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"><span class="sr-only">Toggle navigation</span><span class="fa fa-bookmark fa-2x" ></span></button>
+                      </div>
+
+          <div class="collapse navbar-collapse">
+              <nav role="navigation" aria-labelledby="block-header-top-navigation-fr-menu" id="block-header-top-navigation-fr">
+            
+  <h2 class="visually-hidden" id="block-header-top-navigation-fr-menu">Header Top Navigation Fr</h2>
+  
+
+        
+              <ul class="nav navbar-nav navbar-right">
+                            <li>
+        <a href="https://www.institut-agro.fr/">L&#039;Institut Agro</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+          </div> 
+        </div>
+      </nav>
+
+          <nav role="navigation" aria-labelledby="block-header-top-navigation-collapse-fr-menu" id="block-header-top-navigation-collapse-fr">
+            
+  <h2 class="visually-hidden" id="block-header-top-navigation-collapse-fr-menu">Header Top Navigation Collapse Fr</h2>
+  
+
+        
+<div id="bs-example-navbar-collapse-1" class="collapse text-center">
+              <ul class="list-group">
+                            <li class="list-group-item">
+        <a href="https://www.institut-agro.fr/">L&#039;Institut Agro</a>
+                  </li>
+        </ul>
+  
+
+
+</div>
+
+
+  </nav>
+
+<div id="rechercher" class="collapse text-center">
+ 	  		
+            <form action="/search/nodes" id="search-block-form" method="get" role="search">
+<div class="form-group"><input class="input-sm" id="edit-keys" name="keys" placeholder="Rechercher sur le site" type="text" /><button class="btn btn-search" type="submit"><i class="fa fa-search"> </i></button></div>
+</form>
+      
+	</div>
+
+
+
+
+  
+
+      <div class="container"> 
+
+        <div class="row">
+          
+                   
+            <div class="col-md-11 col-sm-11 text-right">
+<form action="/search/nodes" class="navbar-form  navbar-collapse collapse" id="search-block-form" method="get" role="search">
+<div class="form-group"><input class="input-sm" id="edit-keys" name="keys" placeholder="Rechercher sur le site" type="text" /><button class="btn btn-search" type="submit"><i class="fa fa-search"> </i></button></div>
+</form>
+</div>
+
+      
+  
+
+
+          
+          
+                     
+            <ul class="social-network social-circle icons-position">
+	<li><a class="icoLinkedin" href="https://www.linkedin.com/company/l-institut-agro/" title="Linkedin"><i class="fa fa-linkedin"> </i></a></li>
+</ul>
+
+      
+  
+
+
+          
+        </div> 
+
+        <div class="row banner vertical-align">
+          <div class="col-lg-4 col-md-4 col-sm-4">
+                   
+            <p><a data-entity-type="" data-entity-uuid="" href="/fr"><img alt="logo du Pôle Vigne &amp; Vin de l'Institut Agro" data-entity-type="" data-entity-uuid="" data-image-style="format_1_1_large_200x200_image_style" src="/files/images/logos/header/logo-pole-vigne-vin-endossement-marianne.png" /></a></p>
+
+      
+  
+
+
+          </div> 
+          <div class="col-lg-8 col-md-8 col-sm-8 banner-title">
+              
+  
+            <h1><strong>Former • Innover • Transformer</strong></h1>
+
+      
+
+
+
+
+          </div>   
+        </div>
+
+        
+        <div class="row menu">
+          <div class="col-md-12 col-sm-12">
+            <div class="nav navbar-inverse navbar-right" role="navigation" aria-label="Menu principal">
+
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu-principal">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+              </div>   
+        
+                                          <div class="navbar-collapse collapse" id="menu-principal">
+                    
+
+        
+              <ul class="nav navbar-nav">
+                            <li>
+        <a href="/fr/presentation" data-drupal-link-system-path="node/238">Présentation</a>
+                  </li>
+                        <li>
+        <a href="/fr/equipe" data-drupal-link-system-path="node/106">Équipe</a>
+                  </li>
+                        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="">Formation <span class="caret"></span></a>
+                                   <ul class="dropdown-menu">
+                            <li>
+        <a href="/fr/ingenieur" data-drupal-link-system-path="node/240">Ingénieur</a>
+                  </li>
+                        <li>
+        <a href="/fr/licence-bachelor" data-drupal-link-system-path="node/180">Licence - bachelor</a>
+                  </li>
+                        <li>
+        <a href="/fr/master-et-dno" data-drupal-link-system-path="node/239">Master et DNO</a>
+                  </li>
+                        <li>
+        <a href="/fr/doctorat" data-drupal-link-system-path="node/110">Doctorat</a>
+                  </li>
+                        <li>
+        <a href="/fr/autres-formations-et-formation-continue" data-drupal-link-system-path="node/245">Autres formations et formation continue</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="">Recherche <span class="caret"></span></a>
+                                   <ul class="dropdown-menu">
+                            <li>
+        <a href="/fr/dispositifs-de-recherche" data-drupal-link-system-path="node/223">Dispositifs de recherche</a>
+                  </li>
+                        <li>
+        <a href="/fr/theses" data-drupal-link-system-path="node/225">Thèses</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="">Innovation &amp; Transfert <span class="caret"></span></a>
+                                   <ul class="dropdown-menu">
+                            <li>
+        <a href="/fr/expertise" data-drupal-link-system-path="node/220">Expertise</a>
+                  </li>
+                        <li>
+        <a href="/fr/unites-mixtes-technologiques" data-drupal-link-system-path="node/242">Unités mixtes technologiques</a>
+                  </li>
+                        <li>
+        <a href="/fr/chaires-partenariales" data-drupal-link-system-path="node/243">Chaires partenariales</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="">International <span class="caret"></span></a>
+                                   <ul class="dropdown-menu">
+                            <li>
+        <a href="/fr/formation" data-drupal-link-system-path="node/221">Formation</a>
+                  </li>
+                        <li>
+        <a href="/fr/recherche" data-drupal-link-system-path="node/464">Recherche</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li>
+        <a href="/fr/agenda" data-drupal-link-system-path="node/107">Agenda</a>
+                  </li>
+        </ul>
+  
+
+
+  
+
+
+              </div>
+                          
+            </div>
+          </div>       
+        </div>
+
+      </div>
+    </header>
+  
+  <main role="main">
+    <section class="content-page-banner">
+      <div class="container">
+        <div class="row">
+
+                                              <div class="content-page-banner-title text-center" role="heading">
+                    
+            <h1 class="page-header">Actualité</h1>
+
+      
+
+              </div>
+                              </div>
+      </div>
+    </section>
+
+
+    <div class="container">
+      <div class="row">
+                                                    <nav aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="sr-only">Fil d'Ariane</h2>
+      <ol class="breadcrumb">
+                 <li >
+                          <a href="/fr">Accueil</a>
+                      </li>
+                  <li >
+                          <a href="/fr/toutes-les-actualites">Toutes les actualités</a>
+                      </li>
+                  <li >
+                          150 ° Anniversaire de Collection ampelographique de Vassal-Montpellier
+                      </li>
+              </ol>
+  </nav>
+
+
+
+                            </div>
+    </div>
+
+                  <section class="article">
+        <div class="container">
+          <div class="row">
+            <div  class="col-md-9 col-sm-12">
+
+                              
+                             
+                                                                  
+                                 
+                                               <a id="main-content"></a>
+                      <section id="block-cookiesui" class="block block-cookies block-cookies-ui-block clearfix">
+  
+    
+
+        
+<div id="cookiesjsr"></div>
+
+  </section>
+
+<div data-drupal-messages-fallback class="hidden"></div>
+   
+
+
+
+            <article class="field field--name-title field--type-string field--label-hidden is-unpublished clearfix"><div class="row-news"><h2>150 ° Anniversaire de la Collection ampelographique de Vassal-Montpellier </h2>
+      
+
+  
+
+  
+    
+
+   
+            <p>Retour sur une aventure scientifique et humaine exceptionnelle.</p></div>
+      
+            <div class="row-news"><p>  <img src="/sites/vigne-vin.institut-agro.fr/files/images/actualites/bandeaux-pole-vigne-vin%20-%20Retour%20des%20150%20%C3%A8%20anniv%20de%20Vassal%20copie_0.jpg" width="1140" height="290" alt="Journée Vassal-Montpellier - Vignoble Pierre Galet" loading="lazy" typeof="foaf:Image" class="img-responsive" />
+
+</p></div>
+      
+     
+
+
+
+
+
+
+
+<div class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--531">
+  <div class="paragraph__column">
+        
+            <h4>150 ans de ressources génétiques de la vigne : la collection de Montpellier-Vassal, un patrimoine vivant pour la viticulture de demain</h4>
+
+<p>Plus de 150 participants se sont réunis le 7 octobre 2026 à l’Institut Agro Montpellier pour célébrer un siècle et demi de collecte et conservation des ressources génétiques de la vigne. De la création des premières collections par <strong>Gustave Foëx et Camille Saintpierre</strong> en 1876 aux avancées de la génétique moderne, <strong>cette journée a retracé une aventure scientifique et humaine exceptionnelle</strong>.<strong> </strong>Un anniversaire tourné vers l’avenir et les partenariats nationaux, <strong>avec le transfert engagé de la collection de Vassal vers l'unité INRAE de Pech Rouge (Gruissan, Aude).</strong><br />
+<br />
+<strong>Une histoire collective qui traverse cinq générations</strong><br />
+<strong>C’est en 1876</strong>, au cœur de la crise du phylloxéra, que <strong>Gustave Foëx,</strong> professeur à l’École d’agriculture de Montpellier, initie les premières collections de vignes sur le site de la Gaillarde. L’objectif prioritaire est alors d’identifier, d’observer et de comparer les variétés afin de mieux comprendre leur diversité et de contribuer à la recherche de solutions face aux maladies et aux ravageurs.<br />
+Cette démarche pionnière ouvre la voie à une longue tradition de viticulture scientifique montpelliéraine. Ce furent ensuite <strong>Pierre Viala, et Louis Ravaz</strong>, qui contribuèrent au <strong>développement</strong> <strong>des connaissances ampélographiques</strong> et à la transmission de ce patrimoine végétal. Les collections s’enrichissent progressivement et les méthodes d’observation et de description des variétés à fruits et de porte-greffes se perfectionnent.<br />
+En 1949, sous l’impulsion de <strong>Jean Branas</strong>, l<strong>a collection quitte l’École d’agriculture pour le domaine INRAE de Vassal,</strong> près de Marseillan (Hérault), dont les sols sableux offrent des conditions particulièrement favorables à la conservation des vignes (absence de la forme racinaire du phylloxéra et des nématodes vecteurs de la virose du court-noué).</p>
+
+<p><br />
+Au cours de la seconde moitié du XXe siècle, les travaux décisifs de<strong> Paul Truel et les contributions de Pierre Galet, Denis Boubals </strong>et de nombreuses équipes de chercheurs et de techniciens participent à <strong>enrichir, identifier et caractériser</strong> les ressources conservées. Ces travaux constituent un socle majeur pour l'ampélographie et la connaissance des cépages et variétés de vigne. <strong>Cette œuvre collective </strong>se poursuit aujourd’hui <strong>grâce à l’engagement d’INRAE, de l’Institut Agro Montpellier, de l’Institut Français de la Vigne et du Vin (IFV) et du réseau national des 40 partenaires français de la sélection de la vigne.</strong><br />
+<br />
+<strong>De l’ampélographie à la génétique moderne : un patrimoine scientifique au service de la filière</strong><br />
+Au fil des générations, la collection est passée d’un outil d’observation et d’identification des cépages  à une infrastructure scientifique de référence internationale, associant les connaissances ampélographiques traditionnelles aux méthodes de génétique moléculaire.<br />
+<br />
+Elle représente aujourd’hui un centre de ressources génétiques et documentaires exceptionnel pour la vigne :</p>
+
+<ul>
+	<li><strong>Environ 8 500 accessions,</strong> conservant une grande diversité de cépages, porte-greffes, variétés hybrides et espèces sauvages.</li>
+	<li><strong>Plus d’une cinquantaine de pays d’origine</strong>, illustrant la dimension internationale de la collection.</li>
+	<li><strong>Plus de 14 000 dossiers d’herbier</strong>, témoins de l’histoire des observations et identifications.</li>
+	<li><strong>Près de 40 partenaires professionnels</strong>, réunis au sein du réseau national des <em>«Partenaires de la Sélection Vigne»</em>.</li>
+</ul>
+
+<p><br />
+<strong>L’identification moléculaire</strong> <strong>permet</strong> désormais de mieux <strong>distinguer les variétés, de rechercher leurs liens de parenté et de fiabiliser les connaissances </strong>acquises au fil du temps. <strong>La numérisation des archives</strong> facilite également l’accès à ce patrimoine documentaire, participe à sa sécurisation et à sa transmission.<br />
+Cette diversité constitue <strong>un réservoir précieux pour la recherche à la fois pour la recherche fondamentale ou appliquée,</strong> <strong>la redécouverte de cépages patrimoniaux </strong>et l<strong>es programmes de sélection et de création variétale</strong>. Elle <strong>contribue</strong> notamment à rechercher <strong>des solutions pour adapter la vigne aux évolutions climatiques,</strong> aux pressions sanitaires et aux attentes professionnelles et sociétales. Elle offre des ressources pour rechercher de nouvelles aptitudes à la sécheresse, mieux résister aux maladies, faire faire évoluer les périodes de maturité ou encore préserver l’identité des vins et des territoires. <strong>La diversité génétique constitue donc un levier majeur d’adaptation. L'enjeu n'est donc pas seulement de conserver les cépages d'hier, mais de maintenir ouvertes les possibilités de la viticulture de demain par la sélection de variétés anciennes ou de nouvelles obtentions.</strong><br />
+<br />
+<strong>Conserver la diversité génétique, c’est ainsi préserver des possibilités d’innovation pour les générations futures.</strong><br />
+<strong>De Vassal à Pech Rouge : une nouvelle étape pour sécuriser la collection</strong><br />
+Après 150 ans d’histoire, la collection s’apprête à franchir une nouvelle étape majeure avec son transfert progressif vers l’unité expérimentale INRAE de Pech Rouge, située à Gruissan, dans le massif de la Clape dans le département de l'Aude.<br />
+Face aux risques de salinisation et de submersion marine qui menacent le domaine de Vassal installé sur le cordon littoral de la méditerranée,<strong> ce projet vise à sécuriser durablement la collection ampélographique.</strong><br />
+<strong>Cette opération de grande ampleur, programmée sur près de dix ans,</strong> nécessite un important travail préalable <strong>d’assainissement de maladies virales, de multiplication et de sécurisation des plants avant leur implantation sur les 11 hectares réservés à la collection à Pech-Roug</strong>e. Les premières plantations sur le nouveau site sont prévues début 2029. <strong>Plus qu’un déménagement, ce transfert représente la continuité d’une mission engagée en 1876</strong> : protéger durablement la diversité de la vigne tout en maintenant sa disponibilité pour la recherche et les professionnels de la filière.<br />
+<br />
+<strong>Plus de 150 participants pour célébrer cet anniversaire des 150 ans ! </strong><br />
+Organisée le 7 octobre 2026 sur le campus de La Gaillarde de l’Institut Agro Montpellier, <strong>par INRAE, l’Institut Agro Montpellier, l’IFV et le réseau des Partenaires de la Sélection Vigne</strong>, la journée technique intitulée <em>« La collection de Vassal-Montpellier et ses partenaires : 150 ans de conservation des ressources génétiques au service de la viticulture </em>» a rencontré un vif succès, réunissant de nombreux des enseignants, des chercheurs, des ingénieurs, des techniciens, des sélectionneurs, des pépiniéristes et des viticulteurs. <br />
+<br />
+<strong>Une matinée pour revenir sur l’histoire de la collection, le rôle des différents acteurs de la conservation et les défis scientifiques de demain</strong>. La table ronde organisée sur le thème <em>« De la collection aux vignerons »</em> a notamment <strong>illustré les synergies entre la recherche, les conservatoires régionaux et les professionnels de la sélection de la vigne</strong>. L’après-midi, quatre ateliers ont donné une dimension concrète à ces échanges : visite du vignoble pédagogique et expérimental Pierre Galet du campus de l’Institut Agro Montpellier, découverte des ressources numériques et documentaires, présentation des applications de la diversité génétique pour la recherche et enfin dégustation de vins issus de cépages patrimoniaux redécouverts et de nouvelles obtentions variétales.</p>
+
+<p><strong>Cette journée a surtout rappelé que les 150 ans de Vassal-Montpellier célèbrent bien davantage qu’une collection de cépages : ils témoignent de cinq générations de coopération entre enseignants, chercheurs, conservateurs, techniciens, sélectionneurs, pépiniéristes et viticulteurs.</strong><br />
+<br />
+Un grand merci à l’ensemble des intervenants partenaires, organisateurs et participants pour leur mobilisation et leur contribution à la réussite de cet événement.</p>
+
+<p> </p>
+
+      
+  </div>
+</div>
+
+  
+
+     
+      
+  
+
+      <div class="author row-news">
+            Publié le : <span>21/10/2026</span>      </div>
+  
+  
+</article>
+
+
+
+                                  
+            </div>
+      
+                                                           <aside class="col-md-3 col-sm-12" role="complementary">
+                       	<section>
+	  
+	  	  
+	  		
+      
+
+
+
+	  	</section>	<section>
+	  
+	  		<h5 class="block-title">Contact</h5>
+	  	  
+	  		
+  
+	<div class="contact-box">
+   <p>Pôle Vigne et Vin<br />
+L'Institut Agro</p>
+
+<p><a href="mailto:vigne-vin@institut-agro.fr">vigne-vin@institut-agro.fr</a></p>
+
+</div>
+
+  
+
+
+	  	</section>
+
+                 </aside>
+                             
+          </div>
+        </div>
+      </section>
+      
+    
+  </main>
+
+      <footer class="footer" role="contentinfo">
+      <div class="container">
+        <div class="row">
+        <div class="col-sm-2 col-md-3 col-lg-2 adresse">
+              
+  
+            <p><a href="/fr"><img alt="logo IA" class="img-responsive" data-entity-type="" data-entity-uuid="" data-image-style="format_1_1_large_200x200_image_style" src="/files/images/logos/footer/logo-institut-agro-blanc.png" /></a></p>
+
+      
+
+
+
+
+          </div> 
+          <div class="col-sm-2 col-md-3 col-lg-2 adresse">
+              
+  
+            <p>L'Institut Agro Dijon<br />
+26, bd Docteur Petitjean<br />
+21079 Dijon Cedex<br />
+France</p>
+
+<p>L'Institut Agro Montpellier<br />
+2 place Pierre Viala<br />
+34060 Montpellier<br />
+France</p>
+
+<p>L'Institut Agro Rennes-Angers<br />
+65, rue de Saint-Brieuc<br />
+CS 84215<br />
+35042 Rennes Cedex<br />
+France</p>
+
+<p><a href="mailto:contact@institut-agro.fr">contact@institut-agro.fr</a></p>
+
+      
+
+
+
+
+          </div>
+          <div class="col-sm-2 col-md-2 col-lg-2 menu-footer">
+              <nav role="navigation" aria-labelledby="block-menu-footer-fr-menu" id="block-menu-footer-fr">
+            
+  <h2 class="visually-hidden" id="block-menu-footer-fr-menu">Pied de page fr</h2>
+  
+
+        
+              <ul class="list-unstyled">
+                            <li>
+        <a href="/fr/mentions-legales" data-drupal-link-system-path="node/2">Mentions légales</a>
+                  </li>
+                        <li>
+        <a href="/fr/politique-de-cookies" data-drupal-link-system-path="node/193">Politique de cookies</a>
+                  </li>
+                        <li>
+        <a href="#editCookieSettings">Gérer les cookies</a>
+                  </li>
+                        <li>
+        <a href="/fr/plan-du-site" data-drupal-link-system-path="node/198">Plan du site</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-connexion-menu" id="block-connexion">
+            
+  <h2 class="visually-hidden" id="block-connexion-menu">Connexion</h2>
+  
+
+        
+              <ul class="list-unstyled">
+                            <li>
+        <a href="/fr/caslogin" data-drupal-link-system-path="caslogin">Se connecter</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-6 partners">
+              
+  
+            <div class="row">
+<div class="col-md-4 col-sm-6 col-xs-4">
+<p>Sous tutelle des ministères</p>
+</div>
+
+<div class="col-md-8 col-sm-6 col-xs-8">
+<ul class="list-unstyled list-inline">
+	<li><a href="https://agriculture.gouv.fr/"><img alt="Logo du ministère en charge de l'agriculture" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo_maaf.png" /></a></li>
+	<li><a href="http://www.enseignementsup-recherche.gouv.fr/"><img alt="Logo du ministère de l'enseignement supérieur et de la recherche" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo_menesr.png" /></a></li>
+</ul>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-4 col-sm-6 col-xs-4">
+<p>Membre</p>
+</div>
+
+<div class="col-md-8 col-sm-6 col-xs-8">
+<ul class="list-unstyled list-inline">
+	<li><a href="https://www.cge.asso.fr/"><img alt="Logo CGE" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo-cge.png" /></a></li>
+	<li><a href="http://www.cdefi.fr/"><img alt="Logo CDEFI" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo-cdefi.png" /></a></li>
+	<li><a href="https://www.agreenium.fr/"><img alt="Logo Agreenium" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo-agreenium.png" /></a></li>
+	<li><a href="https://www.euroleague-study.org/en"><img alt="Logo ELLS" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo-ells.png" /></a></li>
+</ul>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-4 col-sm-6 col-xs-4">
+<p>Labellisé</p>
+</div>
+
+<div class="col-md-8 col-sm-6 col-xs-8">
+<ul class="list-unstyled list-inline">
+	<li><a href="https://cirses.fr/presentation-du-label-ddrs"><img alt="Logo Label DD&amp;RSE" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo-label-ddrs.png" /></a></li>
+</ul>
+</div>
+</div>
+
+      
+
+
+
+
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 copyright">
+              
+  
+            <ul class="list-inline">
+	<li><a class="icon" href="https://www.linkedin.com/company/l-institut-agro/" title="Linkedin"><i class="fa fa-linkedin"> </i></a></li>
+</ul>
+
+      
+
+
+
+
+ 	  		
+            <p>© 2026 - <a href="https://www.institut-agro.fr/" title="L'Institut Agro">L'Institut Agro - Institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement</a></p>
+
+      
+	
+
+
+
+          </div>
+        </div>
+      </div>
+    </footer>
+  
+  </div>
+
+    
+    <script src="/modules/contrib/matomo/js/matomo.js?v=9.3.22"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/bootstrap.min.js?tltr7k"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/js_jquery.isotope.min.js?tltr7k"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/bootstrap-tabcollapse.js?tltr7k"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/bootstrap-tablink.js?tltr7k"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/js_photo_gallery.js?tltr7k"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/js_portfolio.js?tltr7k"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/js_tabcollapse.js?tltr7k"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/js_bootstrap.dropdown.hover.js?tltr7k"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/js_uc_accordion.js?tltr7k"></script>
+<script src="/themes/custom/bootstrap_subtheme_ao_site_satellite/js/js_multi-carousel.js?tltr7k"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=9.3.22"></script>
+<script src="https://cdn.jsdelivr.net/gh/jfeltkamp/cookiesjsr@1/dist/cookiesjsr-preloader.min.js" defer></script>
+
+    
+  </body>
+</html>

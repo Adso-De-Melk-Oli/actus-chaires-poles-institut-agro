@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="fr-FR" class="html_stretched responsive av-preloader-disabled  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky_disabled html_header_shrinking_disabled html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_6804 av-cookies-consent-show-message-bar av-cookies-cookie-consent-enabled av-cookies-can-opt-out av-cookies-user-needs-accept-button avia-cookie-check-browser-settings av-no-preview av-default-lightbox html_text_menu_active av-mobile-menu-switch-default">
+<head>
+<meta charset="UTF-8" />
+<meta name="robots" content="index, follow" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Colloque sur les protections physiques : filets et autres dispositifs de couverture - Chaire d&#039;entreprises vigne et vin</title>
+
+				<script type='text/javascript'>
+
+				function avia_cookie_check_sessionStorage()
+				{
+					//	FF throws error when all cookies blocked !!
+					var sessionBlocked = false;
+					try
+					{
+						var test = sessionStorage.getItem( 'aviaCookieRefused' ) != null;
+					}
+					catch(e)
+					{
+						sessionBlocked = true;
+					}
+
+					var aviaCookieRefused = ! sessionBlocked ? sessionStorage.getItem( 'aviaCookieRefused' ) : null;
+
+					var html = document.getElementsByTagName('html')[0];
+
+					/**
+					 * Set a class to avoid calls to sessionStorage
+					 */
+					if( sessionBlocked || aviaCookieRefused )
+					{
+						if( html.className.indexOf('av-cookies-session-refused') < 0 )
+						{
+							html.className += ' av-cookies-session-refused';
+						}
+					}
+
+					if( sessionBlocked || aviaCookieRefused || document.cookie.match(/aviaCookieConsent/) )
+					{
+						if( html.className.indexOf('av-cookies-user-silent-accept') >= 0 )
+						{
+							 html.className = html.className.replace(/\bav-cookies-user-silent-accept\b/g, '');
+						}
+					}
+				}
+
+				avia_cookie_check_sessionStorage();
+
+			</script>
+			<meta name="description" content="Le 5 novembre 2026 à L&#039;Institut Agro Montpellier">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://www.chaire-vigne-et-vin.fr/plongez-dans-le-rapport-dactivite-2024-de-la-fondation-de-linstitut-agro-2-2/">
+<meta property="og:url" content="https://www.chaire-vigne-et-vin.fr/plongez-dans-le-rapport-dactivite-2024-de-la-fondation-de-linstitut-agro-2-2/">
+<meta property="og:site_name" content="Chaire d&#039;entreprises vigne et vin">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:type" content="article">
+<meta property="article:author" content="">
+<meta property="article:publisher" content="">
+<meta property="article:section" content="Actualités">
+<meta property="og:title" content="Colloque sur les protections physiques : filets et autres dispositifs de couverture - Chaire d&#039;entreprises vigne et vin">
+<meta property="og:description" content="Le 5 novembre 2026 à L&#039;Institut Agro Montpellier">
+<meta property="og:image" content="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/09/2026_07_SaveTheDate_affiche_Couvrir-pour-produire_100dpi.jpg">
+<meta property="og:image:secure_url" content="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/09/2026_07_SaveTheDate_affiche_Couvrir-pour-produire_100dpi.jpg">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="360">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Colloque sur les protections physiques : filets et autres dispositifs de couverture - Chaire d&#039;entreprises vigne et vin">
+<meta name="twitter:description" content="Le 5 novembre 2026 à L&#039;Institut Agro Montpellier">
+<meta name="twitter:image" content="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/09/2026_07_SaveTheDate_affiche_Couvrir-pour-produire_100dpi.jpg">
+<link rel="alternate" type="application/rss+xml" title="Chaire d&#039;entreprises vigne et vin &raquo; Flux" href="https://www.chaire-vigne-et-vin.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Chaire d&#039;entreprises vigne et vin &raquo; Flux des commentaires" href="https://www.chaire-vigne-et-vin.fr/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.chaire-vigne-et-vin.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chaire-vigne-et-vin.fr%2Fplongez-dans-le-rapport-dactivite-2024-de-la-fondation-de-linstitut-agro-2-2%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.chaire-vigne-et-vin.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chaire-vigne-et-vin.fr%2Fplongez-dans-le-rapport-dactivite-2024-de-la-fondation-de-linstitut-agro-2-2%2F&#038;format=xml" />
+
+<!-- google webfont font replacement -->
+
+			<script type='text/javascript'>
+
+				(function() {
+
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= 'https://fonts.googleapis.com/css?family=Allerta%7CRaleway&display=auto';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+
+			</script>
+			<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+ 
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.chaire-vigne-et-vin.fr/wp-includes/css/dist/block-library/style.min.css?ver=7.1.4' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--metallic-red: #b02b2c;--wp--preset--color--maximum-yellow-red: #edae44;--wp--preset--color--yellow-sun: #eeee22;--wp--preset--color--palm-leaf: #83a846;--wp--preset--color--aero: #7bb0e7;--wp--preset--color--old-lavender: #745f7e;--wp--preset--color--steel-teal: #5f8789;--wp--preset--color--raspberry-pink: #d65799;--wp--preset--color--medium-turquoise: #4ecac2;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 1rem;--wp--preset--font-size--medium: 1.125rem;--wp--preset--font-size--large: 1.75rem;--wp--preset--font-size--x-large: clamp(1.75rem, 3vw, 2.25rem);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1130px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-color{color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-color{color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-color{color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-color{color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-color{color: var(--wp--preset--color--aero) !important;}.has-old-lavender-color{color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-color{color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-color{color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-color{color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-background-color{background-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-background-color{background-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-background-color{background-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-background-color{background-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-background-color{background-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-background-color{background-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-background-color{background-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-background-color{background-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-background-color{background-color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-border-color{border-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-border-color{border-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-border-color{border-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-border-color{border-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-border-color{border-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-border-color{border-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-border-color{border-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-border-color{border-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-border-color{border-color: var(--wp--preset--color--medium-turquoise) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='eeb-css-frontend-css' href='https://www.chaire-vigne-et-vin.fr/wp-content/plugins/email-encoder-bundle/assets/css/style.css?ver=54d4eedc552c499c4a8d6b89c23d3df1' media='all' />
+<link rel='stylesheet' id='avia-merged-styles-css' href='https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/dynamic_avia/avia-merged-styles-170a4039c7df6e412c05364d3006fe79---687604e9d2990.css' media='all' />
+<link rel='stylesheet' id='avia-single-post-6804-css' href='https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/dynamic_avia/avia_posts_css/post-6804.css?ver=ver-1791897628' media='all' />
+<script id="jquery-core-js" src="https://www.chaire-vigne-et-vin.fr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.chaire-vigne-et-vin.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="eeb-js-frontend-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/plugins/email-encoder-bundle/assets/js/custom.js?ver=2d37aa1530beb8634b12ca51eeda0b4b"></script>
+<script id="avia-js-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia-js.js?ver=6.0.4"></script>
+<script id="avia-compat-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia-compat.js?ver=6.0.4"></script>
+<link rel="https://api.w.org/" href="https://www.chaire-vigne-et-vin.fr/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.chaire-vigne-et-vin.fr/wp-json/wp/v2/posts/6804" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.chaire-vigne-et-vin.fr/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.4" />
+<link rel='shortlink' href='https://www.chaire-vigne-et-vin.fr/?p=6804' />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Chaire d&#039;entreprises vigne et vin RSS2 Feed" href="https://www.chaire-vigne-et-vin.fr/feed/" />
+<link rel="pingback" href="https://www.chaire-vigne-et-vin.fr/xmlrpc.php" />
+<!--[if lt IE 9]><script src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="https://www.supagro.fr/wordpress/chaire-vigne-et-vin/files/2022/08/flavicon.png" type="image/png">
+<meta name="generator" content="Elementor 4.3.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<style type="text/css">
+		@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+		src: url('https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+		url('https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+		url('https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'),
+		url('https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg'),
+		url('https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot'),
+		url('https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype');
+		} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+		</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 6.0.4
+Installed: enfold
+AviaFramework Version: 5.6
+AviaBuilder Version: 5.3
+aviaElementManager Version: 1.0.1
+- - - - - - - - - - -
+ChildTheme: Enfold Child Vigne et vin
+ChildTheme Version: 1.0
+ChildTheme Installed: enfold
+
+- - - - - - - - - - -
+ML:256-PU:63-PLA:13
+WP:7.1.4
+Compress: CSS:all theme files - JS:disabled
+Updates: enabled - token has changed and not verified
+PLAu:12
+-->
+</head>
+
+<body id="top" class="wp-singular post-template-default single single-post postid-6804 single-format-standard wp-theme-enfold wp-child-theme-enfold-child-vv stretched sidebar_shadow rtl_columns av-curtain-numeric allerta raleway  avia-responsive-images-support elementor-default elementor-kit-1700" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_slim av_header_sticky_disabled av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_bottom_nav_disabled  av_header_border_disabled' aria-label="Header" data-av_shrink_factor='50' role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo avia-standard-logo'><a href='https://www.chaire-vigne-et-vin.fr/' class='' aria-label='Chaire d&#039;entreprises vigne et vin' ><img src="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2022/08/logo_chaire-300x96.png" height="100" width="300" alt='Chaire d&#039;entreprises vigne et vin' title='' /></a></span><nav class='main_menu' data-selectname='Sélectionner une page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul role="menu" class="menu av-main-nav" id="avia-menu"><li role="menuitem" id="menu-item-1093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-top-level menu-item-top-level-1"><a href="https://www.chaire-vigne-et-vin.fr/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Accueil</span><span class="avia-menu-subtext">https://www.chaire-vigne-et-vin.fr/?p=1093</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-2"><a href="https://www.chaire-vigne-et-vin.fr/la-chaire-vigne-vin/chaire-entreprise-vigne-vin/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">La chaire vigne et vin</span><span class="avia-menu-subtext">https://www.chaire-vigne-et-vin.fr/?p=650</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li role="menuitem" id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/la-chaire-vigne-vin/chaire-entreprise-vigne-vin/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Présentation</span></a></li>
+	<li role="menuitem" id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/la-chaire-vigne-vin/gouvernance/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Gouvernance</span></a></li>
+	<li role="menuitem" id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/la-chaire-vigne-vin/equipe/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">L’équipe</span></a></li>
+</ul>
+</li>
+<li role="menuitem" id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-3"><a href="https://www.chaire-vigne-et-vin.fr/membres/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Membres</span><span class="avia-menu-subtext">https://www.chaire-vigne-et-vin.fr/?p=158</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-4"><a href="https://www.chaire-vigne-et-vin.fr/activites/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Activités</span><span class="avia-menu-subtext">https://www.chaire-vigne-et-vin.fr/?p=43</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li role="menuitem" id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://www.chaire-vigne-et-vin.fr/activites/recherche/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Recherche</span></a>
+	<ul class="sub-menu">
+		<li role="menuitem" id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/activites/recherche/stages/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Stages</span></a></li>
+		<li role="menuitem" id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/activites/recherche/these/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Thèse</span></a></li>
+		<li role="menuitem" id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/activites/recherche/prix-doctoral/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Prix doctoral</span></a></li>
+	</ul>
+</li>
+	<li role="menuitem" id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://www.chaire-vigne-et-vin.fr/activites/rencontres/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Partage de connaissances</span></a>
+	<ul class="sub-menu">
+		<li role="menuitem" id="menu-item-315" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/activites/rencontres/les-seminaires/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Les séminaires</span></a></li>
+		<li role="menuitem" id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/activites/rencontres/les-60-minutes-de-sciences-partagees/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Les 60 minutes de sciences partagées</span></a></li>
+		<li role="menuitem" id="menu-item-4152" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/les-ateliers-think-tank/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Les ateliers think tank</span></a></li>
+	</ul>
+</li>
+	<li role="menuitem" id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://www.chaire-vigne-et-vin.fr/activites/formation/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Formation</span></a>
+	<ul class="sub-menu">
+		<li role="menuitem" id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/activites/formation/defi-etudiant/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Défi étudiant</span></a></li>
+		<li role="menuitem" id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/activites/formation/soutien-dinitiatives-etudiantes/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Soutien d’initiatives étudiantes</span></a></li>
+		<li role="menuitem" id="menu-item-6289" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.chaire-vigne-et-vin.fr/les-controverses/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Les controverses</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li role="menuitem" id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-5"><a href="https://www.chaire-vigne-et-vin.fr/actualites/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Actualités</span><span class="avia-menu-subtext">https://www.chaire-vigne-et-vin.fr/?p=41</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://www.chaire-vigne-et-vin.fr/contacts/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Contacts</span><span class="avia-menu-subtext">https://www.chaire-vigne-et-vin.fr/?p=40</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special" role="menuitem"><a aria-label="Rechercher" href="?s=" rel="nofollow" data-avia-search-tooltip="
+&lt;search&gt;
+	&lt;form role=&quot;search&quot; action=&quot;https://www.chaire-vigne-et-vin.fr/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+		&lt;div&gt;
+			&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; title=&quot;Entrez au moins 3 caractères pour afficher une liste de résultats ou cliquez pour aller sur la page des résultats de recherche pour tous les afficher&quot; /&gt;
+			&lt;input type=&quot;search&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; aria-label=&#039;Rechercher&#039; placeholder=&#039;Rechercher&#039; required /&gt;
+					&lt;/div&gt;
+	&lt;/form&gt;
+&lt;/search&gt;
+" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Rechercher</span></a></li><li class="av-burger-menu-main menu-item-avia-special " role="menuitem">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+<div class="header_bg"></div>
+<!-- end header -->
+</header>
+
+	<div id='main' class='all_colors' data-scroll-offset='0'>
+
+	<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title '><a href='https://www.chaire-vigne-et-vin.fr/plongez-dans-le-rapport-dactivite-2024-de-la-fondation-de-linstitut-agro-2-2/' rel='bookmark' title='Lien permanent : Colloque sur les protections physiques : filets et autres dispositifs de couverture'  itemprop="headline" >Colloque sur les protections physiques : filets et autres dispositifs de couverture</a></h1><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail" ><span class="trail-before"><span class="breadcrumb-title">Vous êtes ici :</span></span> <span  itemscope="itemscope" itemtype="https://schema.org/BreadcrumbList" ><span  itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement" ><a itemprop="url" href="https://www.chaire-vigne-et-vin.fr" title="Chaire d&#039;entreprises vigne et vin" rel="home" class="trail-begin"><span itemprop="name">Accueil</span></a><span itemprop="position" class="hidden">1</span></span></span> <span class="sep">/</span> <span  itemscope="itemscope" itemtype="https://schema.org/BreadcrumbList" ><span  itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement" ><a itemprop="url" href="https://www.chaire-vigne-et-vin.fr/politique-de-confidentialite/" title="Politique de confidentialité"><span itemprop="name">Politique de confidentialité</span></a><span itemprop="position" class="hidden">2</span></span></span> <span class="sep">/</span> <span  itemscope="itemscope" itemtype="https://schema.org/BreadcrumbList" ><span  itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement" ><a itemprop="url" href="https://www.chaire-vigne-et-vin.fr/category/actualites/"><span itemprop="name">Actualités</span></a><span itemprop="position" class="hidden">3</span></span></span> <span class="sep">/</span> <span class="trail-end">Colloque sur les protections physiques : filets et autres dispositifs de...</span></div></div></div></div><div   class='main_color container_wrap_first container_wrap fullsize'  ><div class='container av-section-cont-open' ><main  role="main" itemscope="itemscope" itemtype="https://schema.org/Blog"  class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-6804'><div class='entry-content-wrapper clearfix'><div  class='flex_column av-9nrjl-433dc2cc7ff9e5f00177e1ff4470fbaf av_one_half  avia-builder-el-0  el_before_av_one_half  avia-builder-el-first  first flex_column_div  '     ><section  class='av_textblock_section av-md7hu2qf-60175e9ef754b3287cf48cb348fd2525 '   itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost" ><div class='avia_textblock'  itemprop="text" ><p><img fetchpriority="high" decoding="async" class="alignnone  wp-image-6813" src="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/09/2026_07_affiche_Couvrir-pour-produire_V3.jpg" alt="" width="646" height="913" srcset="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/09/2026_07_affiche_Couvrir-pour-produire_V3.jpg 500w, https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/09/2026_07_affiche_Couvrir-pour-produire_V3-212x300.jpg 212w, https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/09/2026_07_affiche_Couvrir-pour-produire_V3-499x705.jpg 499w" sizes="(max-width: 646px) 100vw, 646px" /></p>
+</div></section></div>
+<div  class='flex_column av-279zb5-38b29951a40a5bb391d863950680310f av_one_half  avia-builder-el-2  el_after_av_one_half  el_before_av_one_full  flex_column_div  '     ><section  class='av_textblock_section av-md7hkpz1-653ad56608a9013128263364e80aea0c '   itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost" ><div class='avia_textblock'  itemprop="text" ><h1>Couvrir pour produire :<br />
+promesses et limites des protections physiques</h1>
+<h5><em>Regards croisés sur les innovations en viticulture et arboriculture</em></h5>
+<p><strong>5 novembre 2026 – 8h30-16h30</strong></p>
+<p><strong>Lieu :</strong> L’Institut Agro Montpellier, 2 place Pierre Viala, 34060 Montpellier.</p>
+<p>Au cœur des débats : filets, bâches et panneaux photovoltaïques.</p>
+<p>Face à l’intensification des aléas climatiques et à la nécessaire réduction des intrants phytosanitaires, les protections physiques apparaissent comme un levier d’adaptation pour la viticulture et l’arboriculture. En protégeant les cultures contre la grêle, le gel, les fortes chaleurs, la sécheresse, les insectes ravageurs ou encore certaines maladies, ces dispositifs suscitent un intérêt croissant.</p>
+<p>Mais quelles sont leurs performances réelles ? À quel coût ? Quels effets ont-ils sur le fonctionnement des couverts végétaux, les pratiques culturales et l’organisation du travail ?</p>
+<p>Au-delà des aspects techniques et agronomiques, ce colloque explorera également les questions environnementales et sociétales qu’ils soulèvent : pollution plastique, impacts sur les paysages et la biodiversité, ou encore compatibilité avec les appellations d’origine protégée.</p>
+<p>En croisant retours d’expérience de terrain et résultats de projets de recherche menés dans les filières viticole et arboricole, ce colloque proposera un regard critique sur les promesses des protections physiques, leurs limites et les conditions nécessaires à leur déploiement à grande échelle.</p>
+</div></section></div>
+<div  class='flex_column av-2q6yc4-ef67b8297bd9a64205f009b786f48d86 av_one_full  avia-builder-el-4  el_after_av_one_half  el_before_av_button  first flex_column_div  column-top-margin'     ><section  class='av_textblock_section av-mtv9ylfv-e3a85be8e7fb945d04cfdf24bef12f03 '   itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost" ><div class='avia_textblock'  itemprop="text" ><p>Ce colloque est organisé par la <a href="https://fondation-institut-agro.fr/nos-programmes-d-action/acteurs-et-moteurs-des-transformations/nos-chaires/chaire-innovarbo/" target="_blank" rel="noopener">chaire Innov’Arbo</a> et la chaire d’entreprises vigne et vin.</p>
+<p><strong>Inscription gratuite mais obligatoire. Nombre de places limité.</strong></p>
+</div></section></div>
+<div  class='avia-button-wrap av-mtv9zt6p-db4849f1ac1b10cbb0ea54bfe987d421-wrap avia-button-center  avia-builder-el-6  el_after_av_one_full  el_before_av_button '><a href='https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/10/Programme.pdf'  class='avia-button av-mtv9zt6p-db4849f1ac1b10cbb0ea54bfe987d421 av-link-btn avia-icon_select-no avia-size-medium avia-position-center avia-color-light'   aria-label="Programme"><span class='avia_iconbox_title' >Programme</span></a></div>
+<div  class='avia-button-wrap av-mtva13z6-b33711f13db466f2031e7e3747fc083c-wrap avia-button-center  avia-builder-el-7  el_after_av_button  avia-builder-el-last '><a href='https://framaforms.org/colloque-couvrir-pour-produire-promesses-et-limites-des-protections-physiques-regards-croises-sur'  class='avia-button av-mtva13z6-b33711f13db466f2031e7e3747fc083c av-link-btn avia-icon_select-no avia-size-medium avia-position-center avia-color-light'   aria-label="Je m’inscris"><span class='avia_iconbox_title' >Je m’inscris</span></a></div>
+</div></div></main><!-- close content main element --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element -->				<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column av_one_fourth  first el_before_av_one_fourth'><section id="text-2" class="widget clearfix widget_text">			<div class="textwidget"><p>Chaire d&rsquo;entreprises vigne et vin<br />
+Institut Agro Montpellier<br />
+2 place Pierre Viala<br />
+34060 Montpellier &#8211; France<br />
+Tél. : +33 (0) 4 99 61 24 86<br />
+<span id="eeb-312174-456615"></span><script type="text/javascript">(function() {var ml=".glbm0pauy%cseoifr4",mi=";74?22=03A=9<<=:B5<8671A>0@A",o="";for(var j=0,l=mi.length;j<l;j++) {o+=ml.charAt(mi.charCodeAt(j)-48);}document.getElementById("eeb-312174-456615").innerHTML = decodeURIComponent(o);}());</script><noscript>*protected email*</noscript></p>
+</div>
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth el_before_av_one_fourth '><section id="media_image-3" class="widget clearfix widget_media_image"><a href="https://www.institut-agro-montpellier.fr/"><img width="300" height="79" src="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2023/01/Institut-Agro-Montpellier_BLANC-300x79.png" class="image wp-image-1367  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" decoding="async" srcset="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2023/01/Institut-Agro-Montpellier_BLANC-300x79.png 300w, https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2023/01/Institut-Agro-Montpellier_BLANC.png 360w" sizes="(max-width: 300px) 100vw, 300px" /></a><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth el_before_av_one_fourth '><section id="media_image-5" class="widget clearfix widget_media_image"><a href="https://www.inrae.fr"><img width="205" height="65" src="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2022/08/logo_inrae.png" class="image wp-image-100  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" /></a><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth el_before_av_one_fourth '><section id="media_image-6" class="widget clearfix widget_media_image"><a href="https://www.umontpellier.fr/"><img width="260" height="85" src="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2023/01/UM_2022_filet_blanc.png" class="image wp-image-1337  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" /></a><span class="seperator extralight-border"></span></section></div>
+					</div>
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+	
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" aria-label="Copyright and company info" >
+                    <div class='container'>
+
+                        <span class='copyright'>© Copyright - Chaire Vigne et Vin </span>
+
+                        <nav class='sub_menu_socket'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia3-menu"><ul role="menu" class="menu" id="avia3-menu"><li role="menuitem" id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-1"><a href="https://www.chaire-vigne-et-vin.fr/contacts/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Contacts</span><span class="avia-menu-subtext">https://www.chaire-vigne-et-vin.fr/?p=254</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="https://www.chaire-vigne-et-vin.fr/credits-et-mentions-legales/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Crédits et mentions légales</span><span class="avia-menu-subtext">https://www.chaire-vigne-et-vin.fr/?p=253</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy current_page_parent menu-item-top-level menu-item-top-level-3 current-menu-item"><a href="https://www.chaire-vigne-et-vin.fr/politique-de-confidentialite/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Politique de confidentialité</span><span class="avia-menu-subtext">https://www.chaire-vigne-et-vin.fr/?p=256</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+</ul></div></nav>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+
+		<a class='avia-post-nav avia-post-prev with-image' href='https://www.chaire-vigne-et-vin.fr/plongez-dans-le-rapport-dactivite-2024-de-la-fondation-de-linstitut-agro-2/' ><span class="label iconfont" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class="entry-info-wrap"><span class="entry-info"><span class='entry-title'>Découvrez le rapport d&rsquo;activité 2025 de la Fondation de l&rsquo;Institut...</span><span class='entry-image'><img loading="lazy" width="80" height="80" src="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/08/5dc1c070-1191-1838-5a4e-7ce01fe855741-80x80.jpg" class="wp-image-6732 avia-img-lazy-loading-6732 attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/08/5dc1c070-1191-1838-5a4e-7ce01fe855741-80x80.jpg 80w, https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/08/5dc1c070-1191-1838-5a4e-7ce01fe855741-36x36.jpg 36w, https://www.chaire-vigne-et-vin.fr/wp-content/uploads/sites/16/2026/08/5dc1c070-1191-1838-5a4e-7ce01fe855741-180x180.jpg 180w" sizes="(max-width: 80px) 100vw, 80px" /></span></span></span></a><!-- end wrap_all --></div>
+
+<a href='#top' title='Faire défiler vers le haut' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' tabindex='-1'><span class="avia_hidden_link_text">Faire défiler vers le haut</span></a>
+
+<div id="fb-root"></div>
+
+<div class="avia-cookie-consent-wrap" aria-hidden="true"><div class='avia-cookie-consent cookiebar-hidden  avia-cookiemessage-bottom-right'  aria-hidden='true'  data-contents='22cdf6a071f47d88d1818ab61cdcf47b||v1.0' ><div class="container"><p class='avia_cookie_text'>Ce site utilise des cookies. En continuant à parcourir ce site, vous acceptez leur utilisation.</p><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-1  avia-cookie-close-bar '  title="Autorise l’utilisation de cookies, vous pouvez modifier les cookies utilisés dans les réglages" >Accepter</a><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-2 av-extra-cookie-btn  avia-cookie-hide-notification'  title="Ne pas autoriser l’utilisation de cookies - certaines fonctionnalités du site peuvent ne pas marcher correctement." >Refuser</a><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-3 av-extra-cookie-btn  avia-cookie-info-btn '  title="Obtenir + d’infos sur les cookies et choisir ceux que vous autorisez ou non." >Paramétrer</a></div></div><div id='av-consent-extra-info' data-nosnippet class='av-inline-modal main_color avia-hide-popup-close'>
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-av_heading-272209741460402356c4cc5442da9864">
+#top .av-special-heading.av-av_heading-272209741460402356c4cc5442da9864{
+margin:10px 0 0 0;
+padding-bottom:10px;
+}
+body .av-special-heading.av-av_heading-272209741460402356c4cc5442da9864 .av-special-heading-tag .heading-char{
+font-size:25px;
+}
+.av-special-heading.av-av_heading-272209741460402356c4cc5442da9864 .av-subheading{
+font-size:15px;
+}
+</style>
+<div  class='av-special-heading av-av_heading-272209741460402356c4cc5442da9864 av-special-heading-h3 blockquote modern-quote'><h3 class='av-special-heading-tag '  itemprop="headline"  >Confidentialité et Cookies</h3><div class="special-heading-border"><div class="special-heading-inner-border"></div></div></div><br />
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9">
+#top .hr.av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9{
+margin-top:0px;
+margin-bottom:0px;
+}
+.hr.av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9 .hr-inner{
+width:100%;
+}
+</style>
+<div  class='hr av-jhe1dyat-381e073337cc8512c616f9ce78cc22d9 hr-custom hr-left hr-icon-no'><span class='hr-inner inner-border-av-border-thin'><span class="hr-inner-style"></span></span></div><br /><div  class='tabcontainer av-jhds1skt-57ef9df26b3cd01206052db147fbe716 sidebar_tab sidebar_tab_left noborder_tabs'><section class='av_tab_section av_tab_section av-av_tab-8aac9da15081fab55eb3e4a698a21ab2' ><div id='tab-id-1-tab' class='tab active_tab' role='tab' aria-selected="true" tabindex="0" data-fake-id='#tab-id-1' aria-controls='tab-id-1-content' >Comment nous utilisons les cookies</div><div id='tab-id-1-content' class='tab_content active_tab_content' role='tabpanel' aria-labelledby='tab-id-1-tab' aria-hidden="false"><div class='tab_inner_content invers-color' ><p>Nous pouvons demander que les cookies soient mis en place sur votre appareil. Nous utilisons des cookies pour nous faire savoir quand vous visitez nos sites Web, comment vous interagissez avec nous, pour enrichir votre expérience utilisateur, et pour personnaliser votre relation avec notre site Web. </p>
+<p> Cliquez sur les différentes rubriques de la catégorie pour en savoir plus. Vous pouvez également modifier certaines de vos préférences. Notez que le blocage de certains types de cookies peut avoir une incidence sur votre expérience sur nos sites Web et les services que nous sommes en mesure d’offrir.</p>
+</div></div></section><section class='av_tab_section av_tab_section av-av_tab-728314d8e86460d4c36d51b94b831967' ><div id='tab-id-2-tab' class='tab' role='tab' aria-selected="false" tabindex="0" data-fake-id='#tab-id-2' aria-controls='tab-id-2-content' >Cookies obligatoires</div><div id='tab-id-2-content' class='tab_content' role='tabpanel' aria-labelledby='tab-id-2-tab' aria-hidden="true"><div class='tab_inner_content invers-color' ><p>Ces cookies sont strictement nécessaires pour vous délivrer les services disponibles sur notre site et pour utiliser certaines de ses fonctionnalités.</p>
+<p>Du fait que ces cookies sont absolument nécessaires au bon rendu du site, les refuser aura un impact sur la façon dont il fonctionne. Vous pouvez toujours bloquer ou effacer les cookies via les options de votre navigateur et forcer leur blocage sur ce site. Mais le message vous demandant de les accepter/refuser reviendra à chaque nouvelle visite sur notre site.</p>
+<p>Nous respectons votre choix de refuser les cookies mais pour éviter de vous le demander à chaque page laissez nous en utiliser un pour mémoriser ce choix. Vous êtes libre de revenir sur ce choix quand vous voulez et le modifier pour améliorer votre expérience de navigation. Si vous refusez les cookies nous retirerons tous ceux issus de ce domaine.</p>
+<p>Nous vous fournissons une liste de cookies déposés sur votre ordinateur via notre domaine, vous pouvez ainsi voir ce qui y est stocké. Pour des raisons de sécurité nous ne pouvons montrer ou afficher les cookies externes d’autres domaines. Ceux-ci sont accessibles via les options de votre navigateur.</p>
+<div class="av-switch-aviaPrivacyRefuseCookiesHideBar av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-checked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyRefuseCookiesHideBar" class="aviaPrivacyRefuseCookiesHideBar " name="aviaPrivacyRefuseCookiesHideBar" ><span class="toggle-track"></span><span class="toggle-label-content">Cochez pour activer le masquage permanent de la barre d’acceptation / refus des cookies si vous ne les acceptez pas. 2 cookies seront nécessaires pour mémoriser ce choix. Sans quoi le message apparaitrait à nouveau à chaque page ou fenêtre.</span></label></div>
+<div class="av-switch-aviaPrivacyEssentialCookiesEnabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-checked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyEssentialCookiesEnabled" class="aviaPrivacyEssentialCookiesEnabled " name="aviaPrivacyEssentialCookiesEnabled" ><span class="toggle-track"></span><span class="toggle-label-content">Cliquer pour autoriser / refuser les cookies essentiels au site.</span></label></div>
+</div></div></section><section class='av_tab_section av_tab_section av-av_tab-c73e02c28a4881fa48762155c0b24f80' ><div id='tab-id-3-tab' class='tab' role='tab' aria-selected="false" tabindex="0" data-fake-id='#tab-id-3' aria-controls='tab-id-3-content' >Cookies Matomo Analytics</div><div id='tab-id-3-content' class='tab_content' role='tabpanel' aria-labelledby='tab-id-3-tab' aria-hidden="true"><div class='tab_inner_content invers-color' ><p>Ces cookies collectent des informations de manière compilée pour nous aider à comprendre comment notre site est utilisé et combien son performantes nos actions marketing, ou pour nous aider à personnaliser notre site afin d’améliorer votre expérience de navigation.</p>
+<p>Si vous ne souhaitez pas que votre visite soit pistée sur notre site vous pouvez bloquer ce pistage dans votre navigateur ici :</p>
+<p> [matomo_opt_out]</p>
+</div></div></section><section class='av_tab_section av_tab_section av-av_tab-2d2e1d017b72fd9a7d2575c90224ee0c' ><div id='tab-id-4-tab' class='tab' role='tab' aria-selected="false" tabindex="0" data-fake-id='#tab-id-4' aria-controls='tab-id-4-content' >Autres services externes</div><div id='tab-id-4-content' class='tab_content' role='tabpanel' aria-labelledby='tab-id-4-tab' aria-hidden="true"><div class='tab_inner_content invers-color' ><p>Nous utilisons également différents services externes comme Google Webfonts, Google Maps, autres hébergeurs de vidéo. Depuis que ces FAI sont susceptibles de collecter des données personnelles comme votre adresse IP nous vous permettons de les bloquer ici. merci de prendre conscience que cela peut hautement réduire certaines fonctionnalités de notre site. Les changement seront appliqués après rechargement de la page.</p>
+<p>Réglages des polices Google :</p>
+<div class="av-switch-aviaPrivacyGoogleWebfontsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleWebfontsDisabled" class="aviaPrivacyGoogleWebfontsDisabled " name="aviaPrivacyGoogleWebfontsDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Cliquer pour activer/désactiver les polices Google Fonts.</span></label></div>
+<p>Réglages reCAPTCHA :</p>
+<div class="av-switch-aviaPrivacyGoogleReCaptchaDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyGoogleReCaptchaDisabled" class="aviaPrivacyGoogleReCaptchaDisabled " name="aviaPrivacyGoogleReCaptchaDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Cliquer pour activer/désactiver Google reCaptcha.</span></label></div>
+<p>Intégrations de vidéo Vimeo et Youtube :</p>
+<div class="av-switch-aviaPrivacyVideoEmbedsDisabled av-toggle-switch av-cookie-disable-external-toggle av-cookie-save-unchecked av-cookie-default-checked"><label><input type="checkbox" checked="checked" id="aviaPrivacyVideoEmbedsDisabled" class="aviaPrivacyVideoEmbedsDisabled " name="aviaPrivacyVideoEmbedsDisabled" ><span class="toggle-track"></span><span class="toggle-label-content">Cliquez pour activer/désactiver l’incorporation de vidéos.</span></label></div>
+</div></div></section><section class='av_tab_section av_tab_section av-av_tab-8a1a45c80082dee8cba51eef27d991bb' ><div id='tab-id-5-tab' class='tab' role='tab' aria-selected="false" tabindex="0" data-fake-id='#tab-id-5' aria-controls='tab-id-5-content' >Politique de Confidentialité</div><div id='tab-id-5-content' class='tab_content' role='tabpanel' aria-labelledby='tab-id-5-tab' aria-hidden="true"><div class='tab_inner_content invers-color' ><p>Vous pouvez lire plus de détails à propos des cookies et des paramètres de confidentialité sur notre page Politique de Confidentialité. </p>
+<a href='https://www.chaire-vigne-et-vin.fr/politique-de-confidentialite/' target='_blank'>Politique de confidentialité</a>
+</div></div></section></div><div class="avia-cookie-consent-modal-buttons-wrap"><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-4  avia-cookie-close-bar avia-cookie-consent-modal-button'  title="Autorise l’utilisation de cookies, vous pouvez toujours modifier les services et cookies utilisés" >Accepter les réglages</a><a href='#' class='avia-button avia-color-theme-color-highlight avia-cookie-consent-button avia-cookie-consent-button-5 av-extra-cookie-btn avia-cookie-consent-modal-button avia-cookie-hide-notification'  title="Ne pas autoriser l’utilisation de cookies - certaines fonctionnalités sur notre site peuvent ne pas marcher correctement." >Masquer uniquement les notifications</a></div></div></div><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/sites/16/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/enfold-child-vv/*","/wp-content/themes/enfold/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+  <script>
+      // Your function here
+      document.addEventListener("DOMContentLoaded", (event) => {
+      
+        const slides = document.getElementById("custom-agenda").getElementsByClassName("slide-entry");
+
+        for (var i = 0; i < slides.length; i++) {  
+          
+          // Get DOM element
+          let slide_entry = slides.item(i).childNodes;
+          let slide_image = slide_entry[0];
+          let slide_content = slide_entry[1]; 
+          let slide_meta = slide_content.childNodes[1];
+          
+          // Moving
+          slide_image.append(slide_meta);
+          
+          // Styling
+          slide_image.style.position = 'relative';
+          slide_meta.style.position = 'absolute';
+          slide_meta.style.zIndex = '1';
+          slide_meta.style.bottom = '-5px';
+          slide_meta.style.paddingLeft = '5px!important';
+          slide_meta.style.paddingRight = '5px!important';
+        }
+
+      });
+  </script>
+  
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://www.chaire-vigne-et-vin.fr/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ 			<script>
+				( () => {
+					const lazyloadRunObserver = () => {
+						const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+						const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+							entries.forEach( ( entry ) => {
+								if ( entry.isIntersecting ) {
+									let lazyloadBackground = entry.target;
+									if( lazyloadBackground ) {
+										lazyloadBackground.classList.add( 'e-lazyloaded' );
+									}
+									lazyloadBackgroundObserver.unobserve( entry.target );
+								}
+							});
+						}, { rootMargin: '200px 0px 200px 0px' } );
+						lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+							lazyloadBackgroundObserver.observe( lazyloadBackground );
+						} );
+					};
+					const events = [
+						'DOMContentLoaded',
+						'elementor/lazyload/observe',
+					];
+					events.forEach( ( event ) => {
+						document.addEventListener( event, lazyloadRunObserver );
+					} );
+				} )();
+			</script>
+			<script id="avia-waypoints-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/waypoints/waypoints.min.js?ver=6.0.4"></script>
+<script id="avia-default-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia.js?ver=6.0.4"></script>
+<script id="avia-shortcodes-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/shortcodes.js?ver=6.0.4"></script>
+<script id="avia-module-gallery-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=6.0.4"></script>
+<script id="avia-module-slideshow-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=6.0.4"></script>
+<script id="avia-module-slideshow-video-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=6.0.4"></script>
+<script id="avia-module-tabs-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=6.0.4"></script>
+<script id="avia-module-testimonials-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=6.0.4"></script>
+<script id="avia-module-video-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=6.0.4"></script>
+<script id="avia-hamburger-menu-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia-snippet-hamburger-menu.js?ver=6.0.4"></script>
+<script id="avia-parallax-support-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia-snippet-parallax.js?ver=6.0.4"></script>
+<script id="avia-fold-unfold-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia-snippet-fold-unfold.js?ver=6.0.4"></script>
+<script id="avia-popup-js-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=6.0.4"></script>
+<script id="avia-lightbox-activation-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=6.0.4"></script>
+<script id="avia-megamenu-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia-snippet-megamenu.js?ver=6.0.4"></script>
+<script id="avia-footer-effects-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia-snippet-footer-effects.js?ver=6.0.4"></script>
+<script id="avia-widget-js-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=6.0.4"></script>
+<script id="avia-cookie-js-js-extra">
+var AviaPrivacyCookieConsent = {"?":"Usage inconnu","aviaCookieConsent":"L\u2019usage et la m\u00e9morisation des cookies ont \u00e9t\u00e9 accept\u00e9s - restrictions concernant les autres cookies","aviaPrivacyRefuseCookiesHideBar":"Masquer la barre de message des cookies au chargements de page suivants et refuser les cookies si non autoris\u00e9s - l\u2019AviaPrivacyEssentialCookiesEnabled doit \u00eatre activ\u00e9","aviaPrivacyEssentialCookiesEnabled":"Autorise le stockage des cookies essentiels et les autres ainsi que les fonctionnalit\u00e9s si non refus\u00e9","aviaPrivacyVideoEmbedsDisabled":"Ne pas autoriser l\u2019int\u00e9gration de vid\u00e9os","aviaPrivacyGoogleTrackingDisabled":"Ne pas autoriser Google Analytics","aviaPrivacyGoogleWebfontsDisabled":"Ne pas autoriser Google Fonts","aviaPrivacyGoogleMapsDisabled":"Ne pas autoriser Google Maps","aviaPrivacyGoogleReCaptchaDisabled":"Ne pas autoriser Google reCaptcha","aviaPrivacyMustOptInSetting":"Param\u00e8tre pour les utilisateurs qui doivent accepter les cookies et services","PHPSESSID":"Cookie fonctionnel du site - Conserve trace de votre session","XDEBUG_SESSION":"Cookie fonctionnel du site - Cookie de session pour d\u00e9bogage PHP","wp-settings*":"Cookie fonctionnel du site","wordpress*":"Cookie fonctionnel du site","tk_ai*":"Cookie interne \u00e0 la Boutique","woocommerce*":"Cookie interne \u00e0 la Boutique","wp_woocommerce*":"Cookie interne \u00e0 la Boutique","wp-wpml*":"Requis pour g\u00e9rer diff\u00e9rents langages"};
+var AviaPrivacyCookieAdditionalData = {"cookie_refuse_button_alert":"En refusant tous les cookies le site peut ne pas fonctionner tout \u00e0 fait comme pr\u00e9vu. Merci de bien ajuster vos r\u00e9glages et de ne refuser que les cookies ou services vous posant pb. ce message apparaitra \u00e0 chaque changement de page ou d\u2019ouverture d\u2019une nouvelle fen\u00eatre ou onglet.\\n\\nVoulez-vous vraiment continuer ?","no_cookies_found":"Aucun cookie accessible via le domaine","admin_keep_cookies":["PHPSESSID","wp-*","wordpress*","XDEBUG*"],"remove_custom_cookies":[],"no_lightbox":"Une Lightbox est requise pour afficher le popup modal. Merci donc d\u2019activer la Lightbox fournie avec le th\u00e8me ou une autre fournie par vos soins via plugin.\\n\\nVous devrez connecter votre plugin en Javascript avec des fonctions de callbacks - voir avia_cookie_consent_modal_callback dans le fichier enfold\\js\u0007via-snippet-cookieconsent.js "};
+//# sourceURL=avia-cookie-js-js-extra
+</script>
+<script id="avia-cookie-js-js" src="https://www.chaire-vigne-et-vin.fr/wp-content/themes/enfold/js/avia-snippet-cookieconsent.js?ver=6.0.4"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.chaire-vigne-et-vin.fr/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://www.chaire-vigne-et-vin.fr/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<script type='text/javascript'>function av_privacy_cookie_setter( cookie_name ){var cookie_check = jQuery('html').hasClass('av-cookies-needs-opt-in') || jQuery('html').hasClass('av-cookies-can-opt-out');var toggle = jQuery('.' + cookie_name);toggle.each(function(){var container = jQuery(this).closest('.av-toggle-switch');if( cookie_check && ! document.cookie.match(/aviaCookieConsent/) ){this.checked = container.hasClass( 'av-cookie-default-checked' );}else if( cookie_check && document.cookie.match(/aviaCookieConsent/) && ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) && cookie_name != 'aviaPrivacyRefuseCookiesHideBar' ){if( cookie_name == 'aviaPrivacyEssentialCookiesEnabled' ){this.checked = false;}else{this.checked = container.hasClass( 'av-cookie-default-checked' );}}else{if( container.hasClass('av-cookie-save-checked') ){this.checked = document.cookie.match(cookie_name) ? true : false;}else{this.checked = document.cookie.match(cookie_name) ? false : true;}}});jQuery('.' + 'av-switch-' + cookie_name).addClass('active');toggle.on('click', function(){/* sync if more checkboxes exist because user added them to normal page content */var check = this.checked;jQuery('.' + cookie_name).each( function(){this.checked = check;});var silent_accept_cookie = jQuery('html').hasClass('av-cookies-user-silent-accept');if( ! silent_accept_cookie && cookie_check && ! document.cookie.match(/aviaCookieConsent/) || sessionStorage.getItem( 'aviaCookieRefused' ) ){return;}var container = jQuery(this).closest('.av-toggle-switch');var action = '';if( container.hasClass('av-cookie-save-checked') ){action = this.checked ? 'save' : 'remove';}else{action = this.checked ? 'remove' : 'save';}if('remove' == action){document.cookie = cookie_name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';}else{var theDate = new Date();var oneYearLater = new Date( theDate.getTime() + 31536000000 );document.cookie = cookie_name + '=true; Path=/; Expires='+oneYearLater.toGMTString()+';';}});}; av_privacy_cookie_setter('aviaPrivacyRefuseCookiesHideBar');  av_privacy_cookie_setter('aviaPrivacyEssentialCookiesEnabled');  av_privacy_cookie_setter('aviaPrivacyGoogleWebfontsDisabled');  av_privacy_cookie_setter('aviaPrivacyGoogleReCaptchaDisabled');  av_privacy_cookie_setter('aviaPrivacyVideoEmbedsDisabled'); </script></body>
+</html>
+
+
+<!-- Page supported by LiteSpeed Cache 7.9.2 on 2026-10-31 09:45:55 -->

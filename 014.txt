@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Page 2 &#8211; Le Mas Numérique</title>
+	<atom:link href="https://lemasnumerique.agrotic.org/feed/?paged=2" rel="self" type="application/rss+xml" />
+	<link>https://lemasnumerique.agrotic.org/</link>
+	<description>La synergie du numérique pour la viticulture</description>
+	<lastBuildDate>Wed, 13 May 2026 14:01:16 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
+
+<image>
+	<url>https://lemasnumerique.agrotic.org/wp-content/uploads/2017/08/favicon.png</url>
+	<title>Page 2 &#8211; Le Mas Numérique</title>
+	<link>https://lemasnumerique.agrotic.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tenstar Simulation, autre fournisseur de simulateurs agricoles</title>
+		<link>https://lemasnumerique.agrotic.org/mas-numerique/tenstar-simulation-autre-fournisseur-de-simulateurs-agricoles/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tenstar-simulation-autre-fournisseur-de-simulateurs-agricoles</link>
+		
+		<dc:creator><![CDATA[Romain Girardot]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 13:31:42 +0000</pubDate>
+				<category><![CDATA[Mas numérique]]></category>
+		<category><![CDATA[Utilisation des solutions]]></category>
+		<guid isPermaLink="false">https://lemasnumerique.agrotic.org/?p=5716</guid>
+
+					<description><![CDATA[<p>Des lycées techniques utilisent ces simulateurs dédiés à l’apprentissage de la conduite de machines agricoles.</p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/tenstar-simulation-autre-fournisseur-de-simulateurs-agricoles/">Tenstar Simulation, autre fournisseur de simulateurs agricoles</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5716" class="elementor elementor-5716" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-4b76fec e-flex e-con-boxed e-con e-parent" data-id="4b76fec" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-aa631c9 elementor-widget elementor-widget-spacer" data-id="aa631c9" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d6b4931 e-flex e-con-boxed e-con e-parent" data-id="d6b4931" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c157931 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="c157931" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+											<a href="https://tenstarsimulation.com/fr/agriculture/">
+							<img fetchpriority="high" decoding="async" width="1920" height="1080" src="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/tenstar2.jpg" class="attachment-full size-full wp-image-5719" alt="" srcset="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/tenstar2.jpg 1920w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/tenstar2-300x169.jpg 300w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/tenstar2-1024x576.jpg 1024w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/tenstar2-768x432.jpg 768w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/tenstar2-1536x864.jpg 1536w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/tenstar2-1320x743.jpg 1320w" sizes="(max-width: 1920px) 100vw, 1920px" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Simulateur Tenstar - crédit: messe.tv</figcaption>
+										</figure>
+									</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4b7c4348 e-flex e-con-boxed e-con e-parent" data-id="4b7c4348" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5956510 elementor-widget elementor-widget-heading" data-id="5956510" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Tenstar Simulation, autre fournisseur de simulateurs agricoles</h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-da02da1 e-flex e-con-boxed e-con e-parent" data-id="da02da1" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-787b79f elementor-widget elementor-widget-text-editor" data-id="787b79f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Tenstar Simulation développe une gamme de simulateurs dédiés à l’apprentissage de la conduite de machines. Au total, 32 engins sont disponibles en simulation, dont trois principaux en agriculture : <strong>le tracteur, la moissonneuse-batteuse et le manipulateur télescopique.</strong></p><p>Le simulateur se compose d’un poste de conduite complet comprenant un siège à mouvements, un volant, des pédales et plusieurs écrans positionnés à l’avant et à l’arrière. Il peut également être couplé à un casque de réalité virtuelle, renforçant ainsi l’immersion dans l’environnement simulé.</p><p>Ce dispositif présente plusieurs avantages : une sensation de conduite réaliste grâce à l’immersion et aux mouvements du siège, la possibilité d’enregistrer et de rejouer les sessions pour analyser les gestes, ainsi qu’un suivi précis et continu de la progression des apprenants.</p><p>L’entreprise est aujourd’hui largement implantée en France. De nombreux lycées agricoles et techniques ont investi dans ces simulateurs afin de <strong>former les étudiants à la conduite d’engins</strong> en toute sécurité, tout en réduisant les risques et les coûts liés à l’utilisation de machines réelles.</p><p>Site web: <a href="https://tenstarsimulation.com/fr/agriculture/">https://tenstarsimulation.com/fr/</a></p>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9e4b972 e-flex e-con-boxed e-con e-parent" data-id="9e4b972" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1937a36 elementor-widget elementor-widget-button" data-id="1937a36" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://lemasnumerique.agrotic.org/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Accueil</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/tenstar-simulation-autre-fournisseur-de-simulateurs-agricoles/">Tenstar Simulation, autre fournisseur de simulateurs agricoles</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Le Copilote d&#8217;Egrettier pour l&#8217;automatisation du désherbage</title>
+		<link>https://lemasnumerique.agrotic.org/mas-numerique/le-copilote-degrettier-pour-lautomatisation-du-desherbage/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-copilote-degrettier-pour-lautomatisation-du-desherbage</link>
+		
+		<dc:creator><![CDATA[Romain Girardot]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 13:30:24 +0000</pubDate>
+				<category><![CDATA[Mas numérique]]></category>
+		<category><![CDATA[Utilisation des solutions]]></category>
+		<guid isPermaLink="false">https://lemasnumerique.agrotic.org/?p=5707</guid>
+
+					<description><![CDATA[<p>Un outil qui permet l'automatisation et l'optimisation des réglages pour le désherbage sous le rang. </p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/le-copilote-degrettier-pour-lautomatisation-du-desherbage/">Le Copilote d&rsquo;Egrettier pour l&rsquo;automatisation du désherbage</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5707" class="elementor elementor-5707" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-4b76fec e-flex e-con-boxed e-con e-parent" data-id="4b76fec" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-aa631c9 elementor-widget elementor-widget-spacer" data-id="aa631c9" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d6b4931 e-flex e-con-boxed e-con e-parent" data-id="d6b4931" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c157931 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="c157931" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="http://www.egretier.com">
+							<img decoding="async" width="1920" height="680" src="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/04/COPILOTE-EGRETIER-desherbage-automatise-et-intelligent-de-la-vigne.png" class="attachment-full size-full wp-image-5709" alt="" srcset="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/04/COPILOTE-EGRETIER-desherbage-automatise-et-intelligent-de-la-vigne.png 1920w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/04/COPILOTE-EGRETIER-desherbage-automatise-et-intelligent-de-la-vigne-300x106.png 300w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/04/COPILOTE-EGRETIER-desherbage-automatise-et-intelligent-de-la-vigne-1024x363.png 1024w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/04/COPILOTE-EGRETIER-desherbage-automatise-et-intelligent-de-la-vigne-768x272.png 768w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/04/COPILOTE-EGRETIER-desherbage-automatise-et-intelligent-de-la-vigne-1536x544.png 1536w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/04/COPILOTE-EGRETIER-desherbage-automatise-et-intelligent-de-la-vigne-1320x468.png 1320w" sizes="(max-width: 1920px) 100vw, 1920px" />								</a>
+															</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4b7c4348 e-flex e-con-boxed e-con e-parent" data-id="4b7c4348" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5956510 elementor-widget elementor-widget-heading" data-id="5956510" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Le Copilote d'Egrettier pour l'automatisation du désherbage</h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-da02da1 e-flex e-con-boxed e-con e-parent" data-id="da02da1" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-787b79f elementor-widget elementor-widget-text-editor" data-id="787b79f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Développé par Egretier, <strong>Le Copilote</strong> est un système de désherbage mécanique intercep hydraulique automatisé destiné à la vigne. Il intègre une interface numérique embarquée permettant d&rsquo;ajuster les réglages de l&rsquo;outil à la situation.</p><h3>Fonctions intégrées</h3><p>Le Copilote propose plusieurs fonctionnalités :</p><ul><li><strong>recentrage automatique</strong> de l’outil sur le rang</li><li><strong>sécurisation des ceps</strong></li><li><strong>mémorisation des réglages par parcelle</strong></li><li>suivi des conditions de travail</li></ul><h3>Un pilotage en temps réel</h3><p>L’outil est équipé d’un <strong>écran tactile en cabine</strong> permettant de régler et suivre plusieurs paramètres :</p><ul><li>largeur, hauteur et profondeur de travail</li><li>Sensibilité et densité du sol</li><li>réactivité des interceps</li></ul><p>Ces réglages sont ajustables en direct, sans descendre du tracteur.</p><h3>Objectifs</h3><p>L’outil vise à :</p><ul><li>améliorer la <strong>précision du désherbage mécanique</strong></li><li>réduire la <strong>charge de pilotage pour le chauffeur</strong></li><li>faciliter la <strong>répétabilité des interventions</strong></li></ul><h3>À noter</h3><p>Le Copilote a été distingué lors du SITEVI Innovation Awards 2023.</p><p>Une solution qui combine travail du sol et interface numérique pour automatiser une partie des réglages en viticulture.</p><p>Site web et source de l&rsquo;image : <a href="https://www.egretier-viticole.com/fr-fr/desherbage-vigne-le-copilote" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.egretier-viticole.com/fr-fr/desherbage-vigne-le-copilote&amp;source=gmail&amp;ust=1777528909162000&amp;usg=AOvVaw18-tEp8WDlvMQ5yPdj5KBC">https://www.egretier-viticole.<wbr />com/fr-fr/desherbage-vigne-le-<wbr />copilote</a></p><p><u>Contact : <br /></u>Jean Egretier<br />A.V. D&rsquo;Espagne, 11100 Narbonne<br />Tel: +33.468.581.700<br /><a href="http://www.egretier.com/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://www.egretier.com/&amp;source=gmail&amp;ust=1777528909162000&amp;usg=AOvVaw2PMF7RoxYlXhrRLJx9cU49">www.egretier.com</a></p>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9e4b972 e-flex e-con-boxed e-con e-parent" data-id="9e4b972" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1937a36 elementor-widget elementor-widget-button" data-id="1937a36" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://lemasnumerique.agrotic.org/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Accueil</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/le-copilote-degrettier-pour-lautomatisation-du-desherbage/">Le Copilote d&rsquo;Egrettier pour l&rsquo;automatisation du désherbage</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Un OAD pour choisir son porte-greffes</title>
+		<link>https://lemasnumerique.agrotic.org/mas-numerique/un-oad-pour-choisir-son-porte-greffes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=un-oad-pour-choisir-son-porte-greffes</link>
+		
+		<dc:creator><![CDATA[Romain Girardot]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 13:24:58 +0000</pubDate>
+				<category><![CDATA[Mas numérique]]></category>
+		<category><![CDATA[Utilisation des solutions]]></category>
+		<guid isPermaLink="false">https://lemasnumerique.agrotic.org/?p=5730</guid>
+
+					<description><![CDATA[<p>Il compare 17 porte-greffes européens pour des recommandations adaptées au contexte local</p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/un-oad-pour-choisir-son-porte-greffes/">Un OAD pour choisir son porte-greffes</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5730" class="elementor elementor-5730" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-4b76fec e-flex e-con-boxed e-con e-parent" data-id="4b76fec" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-aa631c9 elementor-widget elementor-widget-spacer" data-id="aa631c9" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d6b4931 e-flex e-con-boxed e-con e-parent" data-id="d6b4931" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c157931 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="c157931" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+											<a href="https://www.vinetur.com/fr/2026042899823/researchers-unveil-tool-for-choosing-grapevine-rootstocks.html">
+							<img decoding="async" width="800" height="531" src="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/20260428-215809-4337.jpg" class="attachment-full size-full wp-image-5732" alt="" srcset="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/20260428-215809-4337.jpg 800w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/20260428-215809-4337-300x199.jpg 300w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/05/20260428-215809-4337-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Crédit photo : Vintur</figcaption>
+										</figure>
+									</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4b7c4348 e-flex e-con-boxed e-con e-parent" data-id="4b7c4348" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5956510 elementor-widget elementor-widget-heading" data-id="5956510" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Un OAD pour choisir son porte-greffes</h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-da02da1 e-flex e-con-boxed e-con e-parent" data-id="da02da1" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-787b79f elementor-widget elementor-widget-text-editor" data-id="787b79f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Des chercheurs Italiens ont créé un OAD appelé Vitis ou SR-Vitis, pour aider à choisir ses porte-greffes.&nbsp;Le modèle compare <span style="font-weight: bold; font-size: 1rem;">17 porte-greffes européens </span><span style="font-size: 1rem;">pour recommander une </span><span style="font-style: inherit; font-weight: inherit;">liste de porte-greffes adaptés à la parcelle, en fonction de&nbsp;</span><span style="font-style: inherit; font-weight: inherit;">paramètres saisies en entrée:&nbsp;</span></p>
+<ul>
+<li>profondeur de sol</li>
+<li>texture (argile, sable…)</li>
+<li>calcaire actif</li>
+<li>pH</li>
+<li>salinité</li>
+<li>risque hydrique (sécheresse / engorgement)&nbsp;</li>
+<li>&#8230;</li>
+</ul>
+<div>
+<div><span style="font-size: 1rem;">Bien que testé sur des vignobles italiens, le modèle a pour vocation de s&rsquo;appliquer au niveau Européen.&nbsp;</span><span style="font-size: 1rem; font-style: inherit; font-weight: inherit;">Dans un contexte d&rsquo;évolution du climat et de pression accrue sur le stress hydrique de la vigne, cet outil entend aider les viticulteurs à choisir le matériel le plus adapté en fonction du contexte pedo-climatique local.&nbsp;&nbsp;</span></div>
+</div>
+<div>&nbsp;</div>
+<div>Article de presse : <a href="https://www.vinetur.com/fr/2026042899823/researchers-unveil-tool-for-choosing-grapevine-rootstocks.html">lien</a></div>
+<div>Lien vers la publication scientifique : <a href="https://www.preprints.org/manuscript/202604.1655">lien</a></div>
+<p>L&rsquo;article ne dit pas si l&rsquo;outil est prêt à être commercialisé (TRL?). Affaire à suivre.&nbsp;</p>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9e4b972 e-flex e-con-boxed e-con e-parent" data-id="9e4b972" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1937a36 elementor-widget elementor-widget-button" data-id="1937a36" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://lemasnumerique.agrotic.org/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Accueil</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/un-oad-pour-choisir-son-porte-greffes/">Un OAD pour choisir son porte-greffes</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Une nouvelle station météo installée</title>
+		<link>https://lemasnumerique.agrotic.org/mas-numerique/utilisation-des-solutions/une-nouvelle-station-meteo-installee/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=une-nouvelle-station-meteo-installee</link>
+		
+		<dc:creator><![CDATA[Romain Girardot]]></dc:creator>
+		<pubDate>Thu, 12 Feb 2026 08:25:15 +0000</pubDate>
+				<category><![CDATA[Mas numérique]]></category>
+		<category><![CDATA[Utilisation des solutions]]></category>
+		<guid isPermaLink="false">https://lemasnumerique.agrotic.org/?p=5103</guid>
+
+					<description><![CDATA[<p>Le Mas numérique a investi dans une station météo Weenat qui a été installée au domaine mi-janvier, en remplacement de la station Agriscope. </p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/utilisation-des-solutions/une-nouvelle-station-meteo-installee/">Une nouvelle station météo installée</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">Le Mas numérique a investi dans une station météo Weenat qui a été installée au domaine mi-janvier, en remplacement de la station Agriscope. Elle se compose de : </p>
+<ul class="wp-block-list">
+<li>Le dispositif principal qui embarque par défaut capteurs de température, hygrométrie, et pluviomètre </li>
+<li>Un anémomètre déporté pour mesurer direction et vitesse du vent </li>
+<li>2 capteurs d&rsquo;humectation foliaire qui seront installés en saison sur le rang</li>
+</ul>
+<p class="wp-block-paragraph"><strong>Elle présente plusieurs avantages :</strong></p>
+<ul class="wp-block-list">
+<li>Contrairement à Agriscope, elle est interopérable avec l&rsquo;ensemble des acteurs (ex: OAD) </li>
+<li>Nous pourrons utiliser les données physiques pour le banc d&rsquo;essai des OAD maladies (Mildiou, Oïdium) et comparer avec les données météo d&rsquo;une station virtuelle, pour une même parcelle suivie </li>
+<li>Un + en terme d&rsquo;expérience utilisateur pour Eric: facilité d&rsquo;utilisation, possibilité de paramétrer des alertes « vent » pendant la saison des traitements,&#8230;</li>
+</ul>
+<p class="wp-block-paragraph">La station a été installée sur l&rsquo;Arnel en face du Chapitre. Tous les capteurs « déportés » communiquent en LoRa et ont une autonomie de plusieurs années. </p>
+<p class="wp-block-paragraph"><strong>Coût : <br /></strong>&#8211; 1776€ TTC de matériel (avec 20% de remise « Institution »)<br />&#8211; 201,60€/an TTC abonnement WeenatPlus </p>
+<p class="wp-block-paragraph">
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/utilisation-des-solutions/une-nouvelle-station-meteo-installee/">Une nouvelle station météo installée</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Le nouveau site est en ligne!</title>
+		<link>https://lemasnumerique.agrotic.org/mas-numerique/site-mas-numerique/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=site-mas-numerique</link>
+		
+		<dc:creator><![CDATA[Romain Girardot]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 14:07:07 +0000</pubDate>
+				<category><![CDATA[Mas numérique]]></category>
+		<category><![CDATA[Autres informations]]></category>
+		<guid isPermaLink="false">https://lemasnumerique.agrotic.org/?p=5394</guid>
+
+					<description><![CDATA[<p>Le nouveau site du Mas numérique est en ligne ! Coup de jeune et contenus organisés dans un centre de ressources. </p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/site-mas-numerique/">Le nouveau site est en ligne!</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5394" class="elementor elementor-5394" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-4b76fec e-flex e-con-boxed e-con e-parent" data-id="4b76fec" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-aa631c9 elementor-widget elementor-widget-spacer" data-id="aa631c9" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a042bf0 e-flex e-con-boxed e-con e-parent" data-id="a042bf0" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-9c8f45a e-con-full e-flex e-con e-child" data-id="9c8f45a" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-7c8ef2b e-grid e-con-full e-con e-child" data-id="7c8ef2b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-3ca86a3 elementor-widget elementor-widget-image" data-id="3ca86a3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="358" height="621" src="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/03/Capture-decran-2026-03-02-105417.png" class="attachment-large size-large wp-image-5396" alt="" srcset="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/03/Capture-decran-2026-03-02-105417.png 358w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/03/Capture-decran-2026-03-02-105417-173x300.png 173w" sizes="(max-width: 358px) 100vw, 358px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-b61be72 elementor-widget elementor-widget-image" data-id="b61be72" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="355" height="535" src="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/03/Capture-decran-2026-03-02-105159.png" class="attachment-large size-large wp-image-5398" alt="" srcset="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/03/Capture-decran-2026-03-02-105159.png 355w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/03/Capture-decran-2026-03-02-105159-199x300.png 199w" sizes="(max-width: 355px) 100vw, 355px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c23ebce elementor-widget elementor-widget-image" data-id="c23ebce" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="354" height="559" src="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/03/Capture-decran-2026-03-02-105314.png" class="attachment-large size-large wp-image-5397" alt="" srcset="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/03/Capture-decran-2026-03-02-105314.png 354w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/03/Capture-decran-2026-03-02-105314-190x300.png 190w" sizes="(max-width: 354px) 100vw, 354px" />															</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4b7c4348 e-flex e-con-boxed e-con e-parent" data-id="4b7c4348" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5956510 elementor-widget elementor-widget-heading" data-id="5956510" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Le nouveau site du Mas numérique est en ligne !</h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-da02da1 e-flex e-con-boxed e-con e-parent" data-id="da02da1" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-787b79f elementor-widget elementor-widget-text-editor" data-id="787b79f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Le Mas numérique a un site web tout neuf ! <span style="font-style: inherit; font-weight: inherit;">Les objectifs de cette refonte étaient multiples :  </span></p><ul id="block-99f65ec5-fc05-47bb-b69f-b3d04546b758" class="wp-block-list"></ul><ul class="wp-block-list"><li>mieux référencer le site pour en améliorer sa visibilité et celle des mécènes</li><li>mieux valoriser les actions du projet</li><li>rajeunir l&rsquo;image en proposant un nouveau design </li></ul><p>La grande nouveauté est le <a href="https://lemasnumerique.agrotic.org/ressources/">centre de ressources</a> qui remplace l&rsquo;ancien wiki. Il permet :</p><ul><li>de centraliser tous les compte rendus, points sur les solutions, jeux de données accessibles &#8230;depuis cette page. </li><li>d&rsquo;accéder à ces contenus grâce à la recherche rapide ou les filtres de catégories </li></ul><p>Vous voulez jeter un oeil ? <a href="https://lemasnumerique.agrotic.org/">C&rsquo;est ici ! </a></p>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9e4b972 e-flex e-con-boxed e-con e-parent" data-id="9e4b972" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1937a36 elementor-widget elementor-widget-button" data-id="1937a36" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://lemasnumerique.agrotic.org/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Accueil</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/site-mas-numerique/">Le nouveau site est en ligne!</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Scanorhize de Huméos</title>
+		<link>https://lemasnumerique.agrotic.org/mas-numerique/scanorhize-de-humeos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scanorhize-de-humeos</link>
+		
+		<dc:creator><![CDATA[Romain Girardot]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2026 12:47:31 +0000</pubDate>
+				<category><![CDATA[Mas numérique]]></category>
+		<guid isPermaLink="false">https://lemasnumerique.agrotic.org/?p=5415</guid>
+
+					<description><![CDATA[<p>Un scanner de la vie des sols Lors du dernier Café du Mas, Louis Marot de la start-up Huméos nous a fait la démonstration de son « scanner de la vie du sol ».  Ce service propose un monitoring de la biodiversité des sols et un accompagnement des viticulteurs pour des changements de pratiques, sur la base [&#8230;]</p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/scanorhize-de-humeos/">Scanorhize de Huméos</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5415" class="elementor elementor-5415" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-4b76fec e-flex e-con-boxed e-con e-parent" data-id="4b76fec" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-aa631c9 elementor-widget elementor-widget-spacer" data-id="aa631c9" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d6b4931 e-flex e-con-boxed e-con e-parent" data-id="d6b4931" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c157931 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="c157931" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://humeos.com/">
+							<img loading="lazy" decoding="async" width="1096" height="617" src="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/ServiceHumeos-1.png" class="attachment-full size-full wp-image-5425" alt="" srcset="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/ServiceHumeos-1.png 1096w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/ServiceHumeos-1-300x169.png 300w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/ServiceHumeos-1-1024x576.png 1024w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/ServiceHumeos-1-768x432.png 768w" sizes="(max-width: 1096px) 100vw, 1096px" />								</a>
+															</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4b7c4348 e-flex e-con-boxed e-con e-parent" data-id="4b7c4348" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5956510 elementor-widget elementor-widget-heading" data-id="5956510" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Un scanner de la vie des sols </h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-da02da1 e-flex e-con-boxed e-con e-parent" data-id="da02da1" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-787b79f elementor-widget elementor-widget-text-editor" data-id="787b79f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Lors du dernier Café du Mas, Louis Marot de la start-up Huméos nous a fait la démonstration de son « scanner de la vie du sol ». </p><p>Ce service propose un monitoring de la biodiversité des sols et un accompagnement des viticulteurs pour des changements de pratiques, sur la base de leurs analyses.</p><p>Comment cela fonctionne ? L&rsquo;appareil est une sorte de scanner de bureau détourné qui est enfoncé dans le sol. <span style="font-style: inherit; font-weight: inherit;">Il prend des images à très haute résolution (jusqu&rsquo;à 4800dpi) </span><span style="font-size: 1rem;">sur un format A4. Les images captées permettent d&rsquo;observer :</span></p><ul><li>le développement racinaire sur une série temporelle </li><li><span style="font-style: inherit; font-weight: inherit;">la faune présente dans le sol </span></li><li><span style="font-style: inherit; font-weight: inherit;">les effets de l&rsquo;irrigation (saturation en eau) </span></li></ul><div><p>Les images sont transmises via un boitier communicant, ce qui donne une certaine durée de vie au dispositif (qui peut être laissé dans le sol  plusieurs saisons) et évite la collecte manuelle des données. </p><p>A partir de ces données il est possible d&rsquo;imaginer plusieurs cas d&rsquo;usages: </p><ul><li>étude de la richesse d&rsquo;un sol agricole notamment par le comptage des espèces  </li><li>évaluation de l&rsquo;impact de pratiques agroécologiques sur les sols </li><li>audit et conseil en développement d&rsquo;un « profil » de sol selon les besoins des cultures (par ex: voie bactérienne vs fongique). </li></ul><div>Huméos peaufine son modèle économique. La start-up est à la recherche de terrains et partenaires pour éprouver l&rsquo;outil et le faire évoluer. </div><div> </div></div><p><b>A date, il n&rsquo;est pas encore prévu de tester le dispositif au Mas numérique. </b></p><p>Plus d&rsquo;information sur le <a href="https://humeos.com/">site d&rsquo;Huméos </a></p><p><u style="font-style: inherit; font-weight: inherit;">Contact :<br /></u><span style="font-style: inherit; font-weight: inherit;">William ARDITI<br />+33 7 50 39 58 20<br />william@arditi.fr</span></p><div> </div>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9e4b972 e-flex e-con-boxed e-con e-parent" data-id="9e4b972" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1937a36 elementor-widget elementor-widget-button" data-id="1937a36" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://lemasnumerique.agrotic.org/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Accueil</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/scanorhize-de-humeos/">Scanorhize de Huméos</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Le Nutriscope de Senseen</title>
+		<link>https://lemasnumerique.agrotic.org/mas-numerique/le-nutriscope-de-senseen/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-nutriscope-de-senseen</link>
+		
+		<dc:creator><![CDATA[Romain Girardot]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 10:22:54 +0000</pubDate>
+				<category><![CDATA[Mas numérique]]></category>
+		<category><![CDATA[Utilisation des solutions]]></category>
+		<guid isPermaLink="false">https://lemasnumerique.agrotic.org/?p=5403</guid>
+
+					<description><![CDATA[<p>Le scanner Nutriscope de Senseen Le Nutriscope est un scanner portable de spectrométrie (UV-VIS-NIR) qui permet d’analyser en temps réel la santé et la nutrition des plantes directement à la parcelle. Il mesure simultanément les paramètres “Redox” (pH, potentiel Redox, conductivité, Brix, chlorophylle, indice de stress) et 16 minéraux et oligo-éléments. Grâce à 44 longueurs d’onde (220 [&#8230;]</p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/le-nutriscope-de-senseen/">Le Nutriscope de Senseen</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5403" class="elementor elementor-5403" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-4b76fec e-flex e-con-boxed e-con e-parent" data-id="4b76fec" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-aa631c9 elementor-widget elementor-widget-spacer" data-id="aa631c9" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d6b4931 e-flex e-con-boxed e-con e-parent" data-id="d6b4931" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c157931 elementor-widget elementor-widget-image" data-id="c157931" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1426" height="802" src="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/Senseen_article.png" class="attachment-full size-full wp-image-5406" alt="" srcset="https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/Senseen_article.png 1426w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/Senseen_article-300x169.png 300w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/Senseen_article-1024x576.png 1024w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/Senseen_article-768x432.png 768w, https://lemasnumerique.agrotic.org/wp-content/uploads/2026/02/Senseen_article-1320x742.png 1320w" sizes="(max-width: 1426px) 100vw, 1426px" />															</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4b7c4348 e-flex e-con-boxed e-con e-parent" data-id="4b7c4348" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5956510 elementor-widget elementor-widget-heading" data-id="5956510" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Le scanner Nutriscope de Senseen</h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-da02da1 e-flex e-con-boxed e-con e-parent" data-id="da02da1" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-787b79f elementor-widget elementor-widget-text-editor" data-id="787b79f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Le Nutriscope est un scanner portable de spectrométrie (UV-VIS-NIR) qui permet d’analyser en temps réel la santé et la nutrition des plantes directement à la parcelle. <br /><span style="font-style: inherit; font-weight: inherit;">Il mesure simultanément les paramètres “Redox” (pH, potentiel Redox, conductivité, Brix, chlorophylle, indice de stress) et 16 minéraux et oligo-éléments. <br /></span><span style="font-style: inherit; font-weight: inherit;">Grâce à 44 longueurs d’onde (220 à 1700 nm), il capte les signatures biochimiques des végétaux de façon non destructive. <br /></span><span style="font-style: inherit; font-weight: inherit;">Ses algorithmes d’intelligence artificielle (chimiométrie, deep learning) interprètent instantanément les spectres et fournissent des résultats exploitables.<br /></span><span style="font-style: inherit; font-weight: inherit;">Connecté à une application et un portail web, il offre suivi historique, visualisation des tendances et aide à la décision agronomique.</span></p><p>Senseen met en avant des avantages concurrentiels par rapport à d&rsquo;autres scanners portables: </p><ul><li><strong data-start="903" data-end="950">Analyse multi-paramètres complète en 1 clic</strong> : minéraux + Redox + chlorophylle, contrairement à des outils spécialisés (ex. capteurs uniquement chlorophylle).</li><li><strong data-start="1078" data-end="1125">Mesure non destructive directement au champ</strong> : remplace ou réduit les analyses de sève en laboratoire (gain de temps et de coût).</li><li><b>Son faible coût </b>( 1000 &#8211; 1500€ selon les options). https://senseen.io/boutique/</li></ul><p><span style="font-style: inherit; font-weight: inherit;">Le Mas va financer l&rsquo;achat de l&rsquo;appareil afin de le tester sur le domaine du Chapitre cette année. </span></p><p><span style="font-style: inherit; font-weight: inherit;">Cela répond à un besoin exprimé par le domaine de mieux suivre des dynamiques de millésime en instrumentant un peu plus les parcelles. <br /></span>Le Nutriscope peut être<span style="font-weight: bold;" data-start="1803" data-end="1827"> un outil d’anticipation</span><span data-start="1803" data-end="1827"> intéressant pour la </span>détection précoce des stress avant symptômes visibles, facilitant le pilotage précis de la fertilisation et des traitements.</p><p style="font-size: 16px; font-style: normal; font-weight: 400;"><u style="font-style: inherit; font-weight: inherit;">Contact :<br /></u><span style="font-style: inherit; font-weight: inherit;">Astrid Robette<br /></span><span style="font-style: inherit; font-weight: inherit;">astrid.robette@senseen.io<br /></span><span style="font-style: inherit; font-weight: inherit;">06 99 72 31 03</span></p><div> </div>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9e4b972 e-flex e-con-boxed e-con e-parent" data-id="9e4b972" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1937a36 elementor-widget elementor-widget-button" data-id="1937a36" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://lemasnumerique.agrotic.org/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Accueil</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/le-nutriscope-de-senseen/">Le Nutriscope de Senseen</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Animation Mobilab chez Les Vignobles Foncalieu</title>
+		<link>https://lemasnumerique.agrotic.org/mas-numerique/animation-mobilab-chez-foncalieu/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=animation-mobilab-chez-foncalieu</link>
+		
+		<dc:creator><![CDATA[Romain Girardot]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 16:21:13 +0000</pubDate>
+				<category><![CDATA[Mas numérique]]></category>
+		<category><![CDATA[Mobilab]]></category>
+		<guid isPermaLink="false">https://lemasnumerique.agrotic.org/?p=4671</guid>
+
+					<description><![CDATA[<p>Une journée pour sensibiliser aux outils numériques low tech en viticulture. </p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/animation-mobilab-chez-foncalieu/">Animation Mobilab chez Les Vignobles Foncalieu</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p class="wp-block-paragraph">Le 12 janvier l&rsquo;équipe Mobilab du Mas numérique s&rsquo;est rendue chez Les Vignobles Foncalieu pour sensibiliser techniciens vignobles et viticulteurs aux outils numériques low tech en viticulture. Cet atelier est régulièrement organisé chez nos mécènes avec pour objectifs de :</p>
+<p class="wp-block-paragraph"><strong>💡 Explorer des besoins : </strong>suivi de l&rsquo;humidité dans le sol, qualité de la pulvérisation, suivi d&rsquo;un volume de GNR en cuve…<br /><strong>📶 Découvrir les outils low tech : </strong>capteurs, réseaux de communication, écrans de visualisation<br /><strong>🎓 Mettre en œuvre : </strong>informer sur les formations, tutoriels en ligne et autres ressources pour faire sa propre installation.</p>
+<p class="wp-block-paragraph"><a href="https://lemasnumerique.agrotic.org/mobilab-agrotic/?preview_id=3937&amp;preview_nonce=a47a472bd9&amp;preview=true">Découvrir le Mobilab &gt;</a></p>
+<p class="wp-block-paragraph">
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/animation-mobilab-chez-foncalieu/">Animation Mobilab chez Les Vignobles Foncalieu</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Les prochains évènements à l&#8217;agenda</title>
+		<link>https://lemasnumerique.agrotic.org/mas-numerique/les-prochains-evenements-a-lagenda/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=les-prochains-evenements-a-lagenda</link>
+		
+		<dc:creator><![CDATA[Romain Girardot]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 07:02:37 +0000</pubDate>
+				<category><![CDATA[Mas numérique]]></category>
+		<category><![CDATA[Visites]]></category>
+		<guid isPermaLink="false">https://lemasnumerique.agrotic.org/?p=2875</guid>
+
+					<description><![CDATA[<p>Visites de professionnels, journées techniques, portes-ouvertes...Le point sur l'agenda.</p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/les-prochains-evenements-a-lagenda/">Les prochains évènements à l&rsquo;agenda</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<ul class="wp-block-list">
+<li><strong>Mardi 03 mars à 13h :</strong> Café du Mas avec la présentation de la solution Scanorhize de Humeos (réservé aux mécènes du projet) </li>
+
+
+
+<li><strong>Jeudi 23 avril : </strong>séminaire de la Chaire AgroTIC à Montpellier. Plus d&rsquo;infos à venir.</li>
+
+
+
+<li><strong>Mardi 09 juillet :</strong> journée technique « les innovations autour de la pulvérisation » au domaine du Chapitre. Plus d&rsquo;infos à venir.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/les-prochains-evenements-a-lagenda/">Les prochains évènements à l&rsquo;agenda</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Le Mas Numérique est partenaire du projet Agrospace !</title>
+		<link>https://lemasnumerique.agrotic.org/mas-numerique/le-mas-numerique-est-partenaire-du-projet-agrospace/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=le-mas-numerique-est-partenaire-du-projet-agrospace</link>
+		
+		<dc:creator><![CDATA[Romain Girardot]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 06:48:21 +0000</pubDate>
+				<category><![CDATA[Mas numérique]]></category>
+		<category><![CDATA[Autres informations]]></category>
+		<guid isPermaLink="false">https://lemasnumerique.agrotic.org/?p=2872</guid>
+
+					<description><![CDATA[<p>Le Mas Numérique est partenaire du projet européen Agrospace (interreg SUDOE).</p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/le-mas-numerique-est-partenaire-du-projet-agrospace/">Le Mas Numérique est partenaire du projet Agrospace !</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Nous sommes fiers d’annoncer que Le Mas Numérique est partenaire du projet européen Agrospace (interreg SUDOE). Un programme axé sur les « technologies spatiales comme moteur de l&rsquo;innovation dans les zones rurales ».</p>
+
+
+
+<p class="wp-block-paragraph">En tant que site de démonstration de solutions innovantes dédiées à la viticulture dans ce projet, le Mas numérique saisit une belle opportunité de renforcer son rôle clé dans la veille sur les solutions numériques disponibles et le test de leur potentiel pour le secteur viticole. Jusqu&rsquo;en 2027, nos missions comprendront la coordination d&rsquo;une veille sur les solutions spatiales applicables à l&rsquo;agriculture, l&rsquo;expérimentation de dispositifs in-situ et l&rsquo;accueil du public pour valoriser ces initiatives. L&rsquo;association du Mas à ce projet d&rsquo;envergure internationale (Espagne, Italie, Portugal, France) constitue une véritable reconnaissance.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://interreg-sudoe.eu/fr/proyecto-interreg/agrospace/">En savoir plus ></a> </p>
+<p>L’article <a href="https://lemasnumerique.agrotic.org/mas-numerique/le-mas-numerique-est-partenaire-du-projet-agrospace/">Le Mas Numérique est partenaire du projet Agrospace !</a> est apparu en premier sur <a href="https://lemasnumerique.agrotic.org">Le Mas Numérique</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

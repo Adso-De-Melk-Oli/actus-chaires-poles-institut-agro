@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="fr-FR" class="html_stretched responsive av-preloader-disabled  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_7914 av-cookies-no-cookie-consent av-no-preview av-default-lightbox html_text_menu_active av-mobile-menu-switch-default">
+<head>
+<meta charset="UTF-8" />
+<meta name="robots" content="index, follow" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Webinaire &quot;De l&#039;aléa climatique estimé au risque vécu&quot;</title>
+<meta name="description" content="Dans cette vidéo, Nève Cassel, étudiante en master 2 Eau &amp; Agriculture présente les résultats de son stage, encadré par François Colin et Léo Pichon. Le travail a porté sur : 1. l&#039;estimation des aléas climatiques à partir d&#039;indicateurs écoclimatiques pour les sites partenaires de la Chaire AgroSYS 2. la compréhension de la perception du risque climatique et des adaptations mises en place au sein des exploitations agricoles 3. la confrontation des deux données au regard des caractéristiques locales et des adaptations déjà mises en place.">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://agrosys.fr/webinaire-de-lalea-climatique-estime-au-risque-vecu/">
+<meta property="og:url" content="https://agrosys.fr/webinaire-de-lalea-climatique-estime-au-risque-vecu/">
+<meta property="og:site_name" content="Chaire partenariale AgroSYS">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:type" content="article">
+<meta property="article:author" content="">
+<meta property="article:publisher" content="">
+<meta property="article:section" content="A la Une">
+<meta property="og:title" content="Webinaire &quot;De l&#039;aléa climatique estimé au risque vécu&quot;">
+<meta property="og:description" content="Dans cette vidéo, Nève Cassel, étudiante en master 2 Eau &amp; Agriculture présente les résultats de son stage, encadré par François Colin et Léo Pichon. Le travail a porté sur : 1. l&#039;estimation des aléas climatiques à partir d&#039;indicateurs écoclimatiques pour les sites partenaires de la Chaire AgroSYS 2. la compréhension de la perception du risque climatique et des adaptations mises en place au sein des exploitations agricoles 3. la confrontation des deux données au regard des caractéristiques locales et des adaptations déjà mises en place.">
+<meta property="og:image" content="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu-.png">
+<meta property="og:image:secure_url" content="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu-.png">
+<meta property="og:image:width" content="1600">
+<meta property="og:image:height" content="1351">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Webinaire &quot;De l&#039;aléa climatique estimé au risque vécu&quot;">
+<meta name="twitter:description" content="Dans cette vidéo, Nève Cassel, étudiante en master 2 Eau &amp; Agriculture présente les résultats de son stage, encadré par François Colin et Léo Pichon. Le travail a porté sur : 1. l&#039;estimation des aléas climatiques à partir d&#039;indicateurs écoclimatiques pour les sites partenaires de la Chaire AgroSYS 2. la compréhension de la perception du risque climatique et des adaptations mises en place au sein des exploitations agricoles 3. la confrontation des deux données au regard des caractéristiques locales et des adaptations déjà mises en place.">
+<meta name="twitter:image" content="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu-.png">
+<link rel="alternate" type="application/rss+xml" title="Chaire partenariale AgroSYS &raquo; Flux" href="https://agrosys.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Chaire partenariale AgroSYS &raquo; Flux des commentaires" href="https://agrosys.fr/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://agrosys.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fagrosys.fr%2Fwebinaire-de-lalea-climatique-estime-au-risque-vecu%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://agrosys.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fagrosys.fr%2Fwebinaire-de-lalea-climatique-estime-au-risque-vecu%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+ 
+<link rel='stylesheet' id='avia-grid-css' href='https://agrosys.fr/wp-content/themes/enfold/css/grid.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-base-css' href='https://agrosys.fr/wp-content/themes/enfold/css/base.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-layout-css' href='https://agrosys.fr/wp-content/themes/enfold/css/layout.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-audioplayer-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-blog-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-postslider-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-button-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-comments-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-gridrow-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-heading-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-hr-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-masonry-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-siteloader-css' href='https://agrosys.fr/wp-content/themes/enfold/css/avia-snippet-site-preloader.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullsize-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-social-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-tabs-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-module-video-css' href='https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.min.css?ver=6.0.4' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--metallic-red: #b02b2c;--wp--preset--color--maximum-yellow-red: #edae44;--wp--preset--color--yellow-sun: #eeee22;--wp--preset--color--palm-leaf: #83a846;--wp--preset--color--aero: #7bb0e7;--wp--preset--color--old-lavender: #745f7e;--wp--preset--color--steel-teal: #5f8789;--wp--preset--color--raspberry-pink: #d65799;--wp--preset--color--medium-turquoise: #4ecac2;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 1rem;--wp--preset--font-size--medium: 1.125rem;--wp--preset--font-size--large: 1.75rem;--wp--preset--font-size--x-large: clamp(1.75rem, 3vw, 2.25rem);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1130px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-color{color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-color{color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-color{color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-color{color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-color{color: var(--wp--preset--color--aero) !important;}.has-old-lavender-color{color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-color{color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-color{color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-color{color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-background-color{background-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-background-color{background-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-background-color{background-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-background-color{background-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-background-color{background-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-background-color{background-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-background-color{background-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-background-color{background-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-background-color{background-color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-border-color{border-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-border-color{border-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-border-color{border-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-border-color{border-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-border-color{border-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-border-color{border-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-border-color{border-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-border-color{border-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-border-color{border-color: var(--wp--preset--color--medium-turquoise) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='avia-bbpress-css' href='https://agrosys.fr/wp-content/themes/enfold/config-bbpress/bbpress-mod.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='search-filter-plugin-styles-css' href='https://agrosys.fr/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.5.4' media='all' />
+<link rel='stylesheet' id='avia-scs-css' href='https://agrosys.fr/wp-content/themes/enfold/css/shortcodes.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-fold-unfold-css' href='https://agrosys.fr/wp-content/themes/enfold/css/avia-snippet-fold-unfold.min.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css' href='https://agrosys.fr/wp-content/themes/enfold/js/aviapopup/magnific-popup.min.css?ver=6.0.4' media='screen' />
+<link rel='stylesheet' id='avia-lightbox-css' href='https://agrosys.fr/wp-content/themes/enfold/css/avia-snippet-lightbox.min.css?ver=6.0.4' media='screen' />
+<link rel='stylesheet' id='avia-widget-css-css' href='https://agrosys.fr/wp-content/themes/enfold/css/avia-snippet-widget.min.css?ver=6.0.4' media='screen' />
+<link rel='stylesheet' id='avia-dynamic-css' href='https://agrosys.fr/wp-content/uploads/sites/13/dynamic_avia/enfold_child.css?ver=6a635e14f3400' media='all' />
+<link rel='stylesheet' id='avia-custom-css' href='https://agrosys.fr/wp-content/themes/enfold/css/custom.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='avia-style-css' href='https://agrosys.fr/wp-content/themes/enfold-child/style.css?ver=6.0.4' media='all' />
+<script id="jquery-core-js" src="https://agrosys.fr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://agrosys.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="search-filter-plugin-build-js-extra">
+var SF_LDATA = {"ajax_url":"https://agrosys.fr/wp-admin/admin-ajax.php","home_url":"https://agrosys.fr/","extensions":[]};
+//# sourceURL=search-filter-plugin-build-js-extra
+</script>
+<script id="search-filter-plugin-build-js" src="https://agrosys.fr/wp-content/plugins/search-filter-pro/public/assets/js/search-filter-build.min.js?ver=2.5.4"></script>
+<script id="search-filter-plugin-chosen-js" src="https://agrosys.fr/wp-content/plugins/search-filter-pro/public/assets/js/chosen.jquery.min.js?ver=2.5.4"></script>
+<script id="avia-js-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia-js.min.js?ver=6.0.4"></script>
+<script id="avia-compat-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia-compat.min.js?ver=6.0.4"></script>
+<link rel="https://api.w.org/" href="https://agrosys.fr/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://agrosys.fr/wp-json/wp/v2/posts/7914" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://agrosys.fr/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.4" />
+<link rel='shortlink' href='https://agrosys.fr/?p=7914' />
+    <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function() {
+            console.log('Initializing slider...');
+
+            // Initialize custom content visibility
+            var element = document.querySelector('#accroche > .container');
+            if (element) {
+                element.style.opacity = '1';
+            } else {
+                console.log('No element found for accroche');
+            }
+
+            // Initialize AviaSlider if jQuery is available
+            (function($) {
+                "use strict";
+
+                if (typeof $.fn.aviaSlider !== 'undefined') {
+                    $('.avia-slider').aviaSlider({
+                        autoplay: true,
+                        interval: 5,
+                        bg_slider: true
+                    });
+                } else {
+                    console.log('AviaSlider plugin is not available');
+                }
+            })(jQuery);  // Ensure jQuery is passed properly
+
+        });
+    </script>
+        <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function() {
+            (function($) {
+                "use strict";
+
+                if (typeof $.fn.aviaFullscreenSlider !== 'undefined') {
+                    $('.fullscreen-slider').aviaFullscreenSlider({
+                        height: 100,
+                        subtract: '#wpadminbar, #header, #main>.title_container'
+                    });
+                } else {
+                    console.log('AviaFullscreenSlider plugin is not available');
+                }
+            })(jQuery);
+        });
+    </script>
+    <link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Chaire partenariale AgroSYS RSS2 Feed" href="https://agrosys.fr/feed/" />
+<link rel="pingback" href="https://agrosys.fr/xmlrpc.php" />
+<!--[if lt IE 9]><script src="https://agrosys.fr/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="https://agrosys.fr/wp-content/uploads/sites/13/2026/07/favicon-300x290.jpg" type="image/x-icon">
+<link rel="icon" href="https://agrosys.fr/wp-content/uploads/sites/13/2015/12/cropped-signature-AgroSYS-2014-petit-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://agrosys.fr/wp-content/uploads/sites/13/2015/12/cropped-signature-AgroSYS-2014-petit-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://agrosys.fr/wp-content/uploads/sites/13/2015/12/cropped-signature-AgroSYS-2014-petit-180x180.png" />
+<meta name="msapplication-TileImage" content="https://agrosys.fr/wp-content/uploads/sites/13/2015/12/cropped-signature-AgroSYS-2014-petit-270x270.png" />
+<style type="text/css">
+		@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+		src: url('https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+		url('https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+		url('https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'),
+		url('https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg'),
+		url('https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot'),
+		url('https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype');
+		} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+		</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 6.0.4
+Installed: enfold
+AviaFramework Version: 5.6
+AviaBuilder Version: 5.3
+aviaElementManager Version: 1.0.1
+- - - - - - - - - - -
+ChildTheme: Enfold Child
+ChildTheme Version: 1.0
+ChildTheme Installed: enfold
+
+- - - - - - - - - - -
+ML:256-PU:74-PLA:18
+WP:7.1.4
+Compress: CSS:load minified only - JS:load minified only
+Updates: disabled
+PLAu:15
+-->
+</head>
+
+<body id="top" class="wp-singular post-template-default single single-post postid-7914 single-format-standard wp-theme-enfold wp-child-theme-enfold-child stretched rtl_columns av-curtain-numeric avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+<script type="text/javascript" id="bbp-swap-no-js-body-class">
+	document.body.className = document.body.className.replace( 'bbp-no-js', 'bbp-js' );
+</script>
+
+
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_slim av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_bottom_nav_disabled  av_header_border_disabled' aria-label="Header" data-av_shrink_factor='50' role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo avia-standard-logo'><a href='https://agrosys.fr/' class='' aria-label='Chaire partenariale AgroSYS' ><img src="https://agrosys.fr/wp-content/uploads/sites/13/2026/07/logo-agrosys_2022_rvb_couleurs-300x115.png" height="100" width="300" alt='Chaire partenariale AgroSYS' title='' /></a></span><nav class='main_menu' data-selectname='Sélectionner une page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul role="menu" class="menu av-main-nav" id="avia-menu"><li role="menuitem" id="menu-item-1772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-top-level menu-item-top-level-1"><a href="https://agrosys.fr/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">AgroSYS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li role="menuitem" id="menu-item-1194" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://agrosys.fr/accueil-2/la-chaire-agrosys/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Présentation</span></a></li>
+	<li role="menuitem" id="menu-item-3617" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://agrosys.fr/accueil-2/approche-systemique/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Approche systémique</span></a></li>
+	<li role="menuitem" id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://agrosys.fr/accueil-2/ses-membres/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Membres</span></a></li>
+	<li role="menuitem" id="menu-item-3142" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://agrosys.fr/accueil-2/equipe/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Equipe</span></a></li>
+</ul>
+</li>
+<li role="menuitem" id="menu-item-2174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="https://agrosys.fr/ressources/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Travaux</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-3967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-3"><a href="https://agrosys.fr/projets-etudiants/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Concours</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-1845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-4"><a href="https://agrosys.fr/evenements/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">événements</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-1767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-5"><a href="https://agrosys.fr/actualites/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Actualités</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-1198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-6"><a href="https://agrosys.fr/recrutement/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Offres</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special" role="menuitem"><a aria-label="Rechercher" href="?s=" rel="nofollow" data-avia-search-tooltip="
+&lt;search&gt;
+	&lt;form role=&quot;search&quot; action=&quot;https://agrosys.fr/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+		&lt;div&gt;
+			&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; title=&quot;Entrez au moins 3 caractères pour afficher une liste de résultats ou cliquez pour aller sur la page des résultats de recherche pour tous les afficher&quot; /&gt;
+			&lt;input type=&quot;search&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; aria-label=&#039;Rechercher&#039; placeholder=&#039;Rechercher&#039; required /&gt;
+					&lt;/div&gt;
+	&lt;/form&gt;
+&lt;/search&gt;
+" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Rechercher</span></a></li><li class="av-burger-menu-main menu-item-avia-special " role="menuitem">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+<div class="header_bg"></div>
+<!-- end header -->
+</header>
+
+	<div id='main' class='all_colors' data-scroll-offset='88'>
+
+	<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><strong class='main-title entry-title '><a href='https://agrosys.fr/' rel='bookmark' title='Lien permanent : Blog - A la une'  itemprop="headline" >Blog - A la une</a></strong><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail" ><span class="trail-before"><span class="breadcrumb-title">Vous êtes ici :</span></span> <span  itemscope="itemscope" itemtype="https://schema.org/BreadcrumbList" ><span  itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement" ><a itemprop="url" href="https://agrosys.fr" title="Chaire partenariale AgroSYS" rel="home" class="trail-begin"><span itemprop="name">Accueil</span></a><span itemprop="position" class="hidden">1</span></span></span> <span class="sep">/</span> <span  itemscope="itemscope" itemtype="https://schema.org/BreadcrumbList" ><span  itemscope="itemscope" itemtype="https://schema.org/ListItem" itemprop="itemListElement" ><a itemprop="url" href="https://agrosys.fr/category/a-la-une/"><span itemprop="name">A la Une</span></a><span itemprop="position" class="hidden">2</span></span></span> <span class="sep">/</span> <span class="trail-end">Webinaire « De l&rsquo;aléa climatique estimé au risque vécu »</span></div></div></div></div>
+		<div class='container_wrap container_wrap_first main_color sidebar_right'>
+
+			<div class='container template-blog template-single-blog '>
+
+				<main class='content units av-content-small alpha  av-main-single'  role="main" itemscope="itemscope" itemtype="https://schema.org/Blog" >
+
+					<article class="post-entry post-entry-type-standard post-entry-7914 post-loop-1 post-parity-odd post-entry-last single-big with-slider post-7914 post type-post status-publish format-standard has-post-thumbnail hentry category-a-la-une category-actu category-evenements_agrosys thematiques-changements-climatiques thematiques-diversification-des-agrosystemes thematiques-pratiques-durables thematiques-qualite-des-sols thematiques-ressources-en-eau type_de_documents-colloque_seminaire_conference type_de_documents-video"  itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost" ><div class="big-preview single-big"  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><a href="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--1030x870.png" data-srcset="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--1030x870.png 1030w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--300x253.png 300w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--768x648.png 768w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--1536x1297.png 1536w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--1500x1267.png 1500w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--705x595.png 705w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu-.png 1600w" data-sizes="(max-width: 1030px) 100vw, 1030px"  title="Alea estime_Risque percu" ><img loading="lazy" width="845" height="321" src="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--845x321.png" class="wp-image-7896 avia-img-lazy-loading-7896 attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt="" decoding="async" /></a></div><div class="blog-meta"></div><div class='entry-content-wrapper clearfix standard-content'><header class="entry-content-header" aria-label="Post: Webinaire « De l&rsquo;aléa climatique estimé au risque vécu »"><h1 class='post-title entry-title '  itemprop="headline" >Webinaire « De l&rsquo;aléa climatique estimé au risque vécu »<span class="post-format-icon minor-meta"></span></h1><span class="post-meta-infos"><time class="date-container minor-meta updated"  itemprop="datePublished" datetime="2026-09-14T14:57:02+02:00" >14 septembre 2026</time><span class="text-sep">/</span><span class="blog-categories minor-meta">dans <a href="https://agrosys.fr/category/a-la-une/" rel="tag">A la Une</a>, <a href="https://agrosys.fr/category/actu/" rel="tag">Actualités</a>, <a href="https://agrosys.fr/category/evenements_agrosys/" rel="tag">Evénements AgroSYS</a> <a href="https://agrosys.fr/thematiques/changements-climatiques/" rel="tag">Changements climatiques</a>, <a href="https://agrosys.fr/thematiques/diversification-des-agrosystemes/" rel="tag">Diversification des agrosystèmes</a>, <a href="https://agrosys.fr/thematiques/pratiques-durables/" rel="tag">Pratiques durables</a>, <a href="https://agrosys.fr/thematiques/qualite-des-sols/" rel="tag">Qualité des sols</a>, <a href="https://agrosys.fr/thematiques/ressources-en-eau/" rel="tag">Ressources en eau</a> <a href="https://agrosys.fr/type_de_documents/colloque_seminaire_conference/" rel="tag">Colloque / séminaire / conférence</a>, <a href="https://agrosys.fr/type_de_documents/video/" rel="tag">Vidéo</a></span><span class="text-sep">/</span><span class="blog-author minor-meta">par <span class="entry-author-link"  itemprop="author" ><span class="author"><span class="fn"><a href="https://agrosys.fr/author/noirotme/" rel="author">noirotme</a></span></span></span></span></span></header><div class="entry-content"  itemprop="text" ><div class='avia-iframe-wrap'><iframe title="Webinaire &quot;De l&amp;apos;aléa climatique estimé au risque vécu&quot;" width="1500" height="844" src="https://www.youtube.com/embed/4boHRV35zc8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<p>Dans cette vidéo, Nève Cassel, étudiante en master 2 Eau &amp; Agriculture présente les résultats de son stage, encadré par François Colin et Léo Pichon. Le travail a porté sur :<br />
+1. l&rsquo;estimation des aléas climatiques à partir d&rsquo;indicateurs écoclimatiques pour les sites partenaires de la Chaire AgroSYS<br />
+2. la compréhension de la perception du risque climatique et des adaptations mises en place au sein des exploitations agricoles<br />
+3. la confrontation des deux données au regard des caractéristiques locales et des adaptations déjà mises en place.</p>
+<p>Lire le <a href="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/CASSEL_Neve_Memoire_M2EA_25.26.pdf">mémoire associé au stage</a>.</p>
+<p>&nbsp;</p>
+</div><footer class="entry-footer"><div class='av-social-sharing-box av-social-sharing-box-default av-social-sharing-box-fullwidth'><div class="av-share-box"><h5 class='av-share-link-description av-no-toc '>Partager cette publication</h5><ul class="av-share-box-list noLightbox"><li class='av-share-link av-social-link-facebook' ><a target="_blank" aria-label="Partager sur Facebook" href="https://www.facebook.com/sharer.php?u=https://agrosys.fr/webinaire-de-lalea-climatique-estime-au-risque-vecu/&amp;t=Webinaire%20%C2%AB%C2%A0De%20l%E2%80%99al%C3%A9a%20climatique%20estim%C3%A9%20au%20risque%20v%C3%A9cu%C2%A0%C2%BB" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="" data-avia-related-tooltip="Partager sur Facebook" rel="noopener"><span class='avia_hidden_link_text'>Partager sur Facebook</span></a></li><li class='av-share-link av-social-link-twitter' ><a target="_blank" aria-label="Partager sur X" href="https://twitter.com/share?text=Webinaire%20%C2%AB%C2%A0De%20l%E2%80%99al%C3%A9a%20climatique%20estim%C3%A9%20au%20risque%20v%C3%A9cu%C2%A0%C2%BB&amp;url=https://agrosys.fr/?p=7914" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="" data-avia-related-tooltip="Partager sur X" rel="noopener"><span class='avia_hidden_link_text'>Partager sur X</span></a></li><li class='av-share-link av-social-link-pinterest' ><a target="_blank" aria-label="Partager sur Pinterest" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fagrosys.fr%2Fwebinaire-de-lalea-climatique-estime-au-risque-vecu%2F&amp;description=Webinaire%20%C2%AB%C2%A0De%20l%E2%80%99al%C3%A9a%20climatique%20estim%C3%A9%20au%20risque%20v%C3%A9cu%C2%A0%C2%BB&amp;media=https%3A%2F%2Fagrosys.fr%2Fwp-content%2Fuploads%2Fsites%2F13%2F2026%2F09%2FAlea-estime_Risque-percu--705x595.png" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="" data-avia-related-tooltip="Partager sur Pinterest" rel="noopener"><span class='avia_hidden_link_text'>Partager sur Pinterest</span></a></li><li class='av-share-link av-social-link-linkedin' ><a target="_blank" aria-label="Partager sur LinkedIn" href="https://linkedin.com/shareArticle?mini=true&amp;title=Webinaire%20%C2%AB%C2%A0De%20l%E2%80%99al%C3%A9a%20climatique%20estim%C3%A9%20au%20risque%20v%C3%A9cu%C2%A0%C2%BB&amp;url=https://agrosys.fr/webinaire-de-lalea-climatique-estime-au-risque-vecu/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="" data-avia-related-tooltip="Partager sur LinkedIn" rel="noopener"><span class='avia_hidden_link_text'>Partager sur LinkedIn</span></a></li><li class='av-share-link av-social-link-tumblr' ><a target="_blank" aria-label="Partager sur Tumblr" href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fagrosys.fr%2Fwebinaire-de-lalea-climatique-estime-au-risque-vecu%2F&amp;name=Webinaire%20%C2%AB%C2%A0De%20l%E2%80%99al%C3%A9a%20climatique%20estim%C3%A9%20au%20risque%20v%C3%A9cu%C2%A0%C2%BB&amp;description=Dans%20cette%20vid%C3%A9o%2C%20N%C3%A8ve%20Cassel%2C%20%C3%A9tudiante%20en%20master%202%20Eau%20%26%20Agriculture%20pr%C3%A9sente%20les%20r%C3%A9sultats%20de%20son%20stage%2C%20encadr%C3%A9%20par%20Fran%C3%A7ois%20Colin%20et%20L%C3%A9o%20Pichon.%20Le%20travail%20a%20port%C3%A9%20sur%20%3A%201.%20l%E2%80%99estimation%20des%20al%C3%A9as%20climatiques%20%C3%A0%20partir%20d%E2%80%99indicateurs%20%C3%A9coclimatiques%20pour%20les%20sites%20partenaires%20de%20la%20Chaire%20AgroSYS%202.%20la%20compr%C3%A9hension%20de%20la%20perception%20du%20%5B%E2%80%A6%5D" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="" data-avia-related-tooltip="Partager sur Tumblr" rel="noopener"><span class='avia_hidden_link_text'>Partager sur Tumblr</span></a></li><li class='av-share-link av-social-link-vk' ><a target="_blank" aria-label="Partager sur Vk" href="https://vk.com/share.php?url=https://agrosys.fr/webinaire-de-lalea-climatique-estime-au-risque-vecu/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="" data-avia-related-tooltip="Partager sur Vk" rel="noopener"><span class='avia_hidden_link_text'>Partager sur Vk</span></a></li><li class='av-share-link av-social-link-reddit' ><a target="_blank" aria-label="Partager sur Reddit" href="https://reddit.com/submit?url=https://agrosys.fr/webinaire-de-lalea-climatique-estime-au-risque-vecu/&amp;title=Webinaire%20%C2%AB%C2%A0De%20l%E2%80%99al%C3%A9a%20climatique%20estim%C3%A9%20au%20risque%20v%C3%A9cu%C2%A0%C2%BB" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="" data-avia-related-tooltip="Partager sur Reddit" rel="noopener"><span class='avia_hidden_link_text'>Partager sur Reddit</span></a></li><li class='av-share-link av-social-link-mail' ><a  aria-label="Partager par Mail" href='mailto:?subject=Webinaire%20%C2%AB%C2%A0De%20l%E2%80%99al%C3%A9a%20climatique%20estim%C3%A9%20au%20risque%20v%C3%A9cu%C2%A0%C2%BB&#038;body=https://agrosys.fr/webinaire-de-lalea-climatique-estime-au-risque-vecu/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Partager par Mail'><span class='avia_hidden_link_text'>Partager par Mail</span></a></li></ul></div></div></footer><div class='post_delimiter'></div></div><div class="post_author_timeline"></div><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu-.png</span>
+						<span itemprop='height'>1351</span>
+						<span itemprop='width'>1600</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>noirotme</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://agrosys.fr/wp-content/uploads/sites/13/2026/07/logo-agrosys_2022_rvb_couleurs-300x115.png</span>
+						</span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>noirotme</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2026-09-14T14:57:02+02:00" >2026-09-14 14:57:02</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2026-09-14 14:58:25</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Webinaire « De l&rsquo;aléa climatique estimé au risque vécu »</span></span></span></article><div class='single-big'></div>
+
+
+<div class='comment-entry post-entry'>
+
+
+</div>
+
+				<!--end content-->
+				</main>
+
+				<aside class='sidebar sidebar_right   alpha units' aria-label="Sidebar"  role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" ><div class="inner_sidebar extralight-border"><section id="newsbox-2" class="widget clearfix avia-widget-container newsbox"><h3 class="widgettitle">Derniers événements</h3><ul class="news-wrap image_size_widget"><li class="news-content post-format-standard"><div class="news-link"><a class='news-thumb ' title="Lire : A VENIR : Colloque « Perception des risques climatiques »" href="https://agrosys.fr/a-venir-seminaire-perception-des-risques-climatiques/"><img width="36" height="36" src="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-36x36.png" class="wp-image-7932 avia-img-lazy-loading-7932 attachment-widget size-widget wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-36x36.png 36w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-300x300.png 300w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-1030x1030.png 1030w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-80x80.png 80w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-768x768.png 768w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-180x180.png 180w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-705x705.png 705w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire.png 1200w" sizes="auto, (max-width: 36px) 100vw, 36px" /></a><div class="news-headline"><a class='news-title' title="Lire : A VENIR : Colloque « Perception des risques climatiques »" href="https://agrosys.fr/a-venir-seminaire-perception-des-risques-climatiques/">A VENIR : Colloque « Perception des risques climatiques »</a><span class="news-time">14 septembre 2026 - 15 h 09 min</span></div></div></li><li class="news-content post-format-standard"><div class="news-link"><a class='news-thumb ' title="Lire : Webinaire « De l&rsquo;aléa climatique estimé au risque vécu »" href="https://agrosys.fr/webinaire-de-lalea-climatique-estime-au-risque-vecu/"><img width="36" height="36" src="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--36x36.png" class="wp-image-7896 avia-img-lazy-loading-not-7896 attachment-widget size-widget wp-post-image" alt="" decoding="async" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--36x36.png 36w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--80x80.png 80w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--180x180.png 180w" sizes="auto, (max-width: 36px) 100vw, 36px" /></a><div class="news-headline"><a class='news-title' title="Lire : Webinaire « De l&rsquo;aléa climatique estimé au risque vécu »" href="https://agrosys.fr/webinaire-de-lalea-climatique-estime-au-risque-vecu/">Webinaire « De l&rsquo;aléa climatique estimé au risque vécu »</a><span class="news-time">14 septembre 2026 - 14 h 57 min</span></div></div></li><li class="news-content post-format-standard"><div class="news-link"><a class='news-thumb ' title="Lire : Webinaire « Conception de systèmes viticoles agroécologiques » par Elsa Robelot" href="https://agrosys.fr/webinaire-conception-de-systemes-viticoles-agroecologiques-par-elsa-robelot/"><img width="36" height="36" src="https://agrosys.fr/wp-content/uploads/sites/13/2026/07/beauferan2-36x36.jpg" class="wp-image-7794 avia-img-lazy-loading-7794 attachment-widget size-widget wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2026/07/beauferan2-36x36.jpg 36w, https://agrosys.fr/wp-content/uploads/sites/13/2026/07/beauferan2-80x80.jpg 80w, https://agrosys.fr/wp-content/uploads/sites/13/2026/07/beauferan2-180x180.jpg 180w" sizes="auto, (max-width: 36px) 100vw, 36px" /></a><div class="news-headline"><a class='news-title' title="Lire : Webinaire « Conception de systèmes viticoles agroécologiques » par Elsa Robelot" href="https://agrosys.fr/webinaire-conception-de-systemes-viticoles-agroecologiques-par-elsa-robelot/">Webinaire « Conception de systèmes viticoles agroécologiques » par Elsa Robelot</a><span class="news-time">23 juillet 2026 - 15 h 56 min</span></div></div></li><li class="news-content post-format-standard"><div class="news-link"><a class='news-thumb ' title="Lire : Webinaire « Présentation du projet SHARE » par Anne Mérot et Juliette Vincent" href="https://agrosys.fr/webinaire-presentation-du-projet-share-par-anne-merot-et-juliette-vincent/"><img width="36" height="36" src="https://agrosys.fr/wp-content/uploads/sites/13/2026/06/logo-36x36.png" class="wp-image-7665 avia-img-lazy-loading-7665 attachment-widget size-widget wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2026/06/logo-36x36.png 36w, https://agrosys.fr/wp-content/uploads/sites/13/2026/06/logo-80x80.png 80w, https://agrosys.fr/wp-content/uploads/sites/13/2026/06/logo-180x180.png 180w" sizes="auto, (max-width: 36px) 100vw, 36px" /></a><div class="news-headline"><a class='news-title' title="Lire : Webinaire « Présentation du projet SHARE » par Anne Mérot et Juliette Vincent" href="https://agrosys.fr/webinaire-presentation-du-projet-share-par-anne-merot-et-juliette-vincent/">Webinaire « Présentation du projet SHARE » par Anne Mérot et Juliette Vincent</a><span class="news-time">8 juin 2026 - 15 h 41 min</span></div></div></li><li class="news-content post-format-standard"><div class="news-link"><a class='news-thumb ' title="Lire : La Chaire AgroSYS : dix ans d’innovation dans la circulation des savoirs pour la transition agroécologique" href="https://agrosys.fr/la-chaire-agrosys-dix-ans-dinnovation-dans-la-circulation-des-savoirs-pour-la-transition-agroecologique/"><img width="36" height="36" src="https://agrosys.fr/wp-content/uploads/sites/13/2026/02/Logique-intervention-chaire-36x36.jpg" class="wp-image-7451 avia-img-lazy-loading-7451 attachment-widget size-widget wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2026/02/Logique-intervention-chaire-36x36.jpg 36w, https://agrosys.fr/wp-content/uploads/sites/13/2026/02/Logique-intervention-chaire-80x80.jpg 80w, https://agrosys.fr/wp-content/uploads/sites/13/2026/02/Logique-intervention-chaire-180x180.jpg 180w" sizes="auto, (max-width: 36px) 100vw, 36px" /></a><div class="news-headline"><a class='news-title' title="Lire : La Chaire AgroSYS : dix ans d’innovation dans la circulation des savoirs pour la transition agroécologique" href="https://agrosys.fr/la-chaire-agrosys-dix-ans-dinnovation-dans-la-circulation-des-savoirs-pour-la-transition-agroecologique/">La Chaire AgroSYS : dix ans d’innovation dans la circulation des savoirs pour la transition agroécologique</a><span class="news-time">12 février 2026 - 12 h 06 min</span></div></div></li></ul><span class="seperator extralight-border"></span></section></div></aside>
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+				<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column av_one_fourth  first el_before_av_one_fourth'><section id="text-3" class="widget clearfix widget_text"><h3 class="widgettitle">AgroSYS</h3>			<div class="textwidget"><p>Institut Agro Montpellier<br />
+2 place Pierre Viala<br />
+Bât 14 – 1er étage (Mandon)<br />
+34060 MONTPELLIER Cedex 02</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-5318" src="http://agrosys.fr/wp-content/uploads/2022/06/MARQUE-ETAT_INSTITUT-AGRO_Montpellier-02-02-300x72.png" alt="" width="300" height="72" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2022/06/MARQUE-ETAT_INSTITUT-AGRO_Montpellier-02-02-300x72.png 300w, https://agrosys.fr/wp-content/uploads/sites/13/2022/06/MARQUE-ETAT_INSTITUT-AGRO_Montpellier-02-02-1030x247.png 1030w, https://agrosys.fr/wp-content/uploads/sites/13/2022/06/MARQUE-ETAT_INSTITUT-AGRO_Montpellier-02-02-768x184.png 768w, https://agrosys.fr/wp-content/uploads/sites/13/2022/06/MARQUE-ETAT_INSTITUT-AGRO_Montpellier-02-02-600x144.png 600w, https://agrosys.fr/wp-content/uploads/sites/13/2022/06/MARQUE-ETAT_INSTITUT-AGRO_Montpellier-02-02-705x169.png 705w, https://agrosys.fr/wp-content/uploads/sites/13/2022/06/MARQUE-ETAT_INSTITUT-AGRO_Montpellier-02-02-1320x316.png 1320w, https://agrosys.fr/wp-content/uploads/sites/13/2022/06/MARQUE-ETAT_INSTITUT-AGRO_Montpellier-02-02.png 1373w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
+</div>
+		<span class="seperator extralight-border"></span></section><section id="text-2" class="widget clearfix widget_text">			<div class="textwidget"><a href="http://agrosys.fr/index.php/creation-dun-compte/">Création d'un compte</a></br>
+<a href="http://agrosys.fr/index.php/reinitialiser-un-mot-de-passe/">Mot de passe oublié</a></br>
+
+
+
+
+
+ ‎</div>
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth el_before_av_one_fourth '><section class="widget widget_pages"><h3 class='widgettitle'>Pages</h3><ul><li class="page_item page-item-81"><a href="https://agrosys.fr/accueil-2/accueil/">Présentation</a></li>
+<li class="page_item page-item-1771 page_item_has_children"><a href="https://agrosys.fr/">ACCUEIL</a></li>
+<li class="page_item page-item-4448"><a href="https://agrosys.fr/regain/actualites-de-regain/">Actualités de REGAIN</a></li>
+<li class="page_item page-item-5852"><a href="https://agrosys.fr/regain/archives-2021/">Archives 2021</a></li>
+<li class="page_item page-item-5847"><a href="https://agrosys.fr/regain/archives-2022/">Archives 2022</a></li>
+<li class="page_item page-item-5844"><a href="https://agrosys.fr/regain/archives-2023/">Archives 2023</a></li>
+<li class="page_item page-item-797"><a href="https://agrosys.fr/axes-thematiques-2/cultiver-la-qualite-des-sols/">Cultiver la qualité des sols</a></li>
+<li class="page_item page-item-1085"><a href="https://agrosys.fr/accueil-2/la-chaire-agrosys/">La Chaire AgroSYS</a></li>
+<li class="page_item page-item-5855"><a href="https://agrosys.fr/regain/archives-avant-2021/">Plus anciens&#8230;</a></li>
+<li class="page_item page-item-3612"><a href="https://agrosys.fr/accueil-2/approche-systemique/">Approche systémique</a></li>
+<li class="page_item page-item-4453"><a href="https://agrosys.fr/regain/livrables/">Livrables REGAIN</a></li>
+<li class="page_item page-item-243"><a href="https://agrosys.fr/accueil-2/ses-membres/">Membres de la Chaire</a></li>
+<li class="page_item page-item-817"><a href="https://agrosys.fr/axes-thematiques-2/preserver-les-ressources-en-eau-dans-les-agrosystemes/">Préserver les ressources en eau dans les agrosystèmes</a></li>
+<li class="page_item page-item-4456"><a href="https://agrosys.fr/regain/contacts/">Contacts</a></li>
+<li class="page_item page-item-832"><a href="https://agrosys.fr/axes-thematiques-2/refonder-les-systemes-de-culture-sur-la-diversiste/">Refonder les systèmes de culture sur la diversisté</a></li>
+<li class="page_item page-item-4443 page_item_has_children"><a href="https://agrosys.fr/regain/">REGAIN</a></li>
+<li class="page_item page-item-2171"><a href="https://agrosys.fr/ressources/">Travaux</a></li>
+<li class="page_item page-item-882"><a href="https://agrosys.fr/axes-thematiques-2/concevoir-les-filieres-pour-reussir-la-diversification/">Concevoir les filières pour réussir la diversification</a></li>
+<li class="page_item page-item-3923"><a href="https://agrosys.fr/projets-etudiants/">Concours</a></li>
+<li class="page_item page-item-3128"><a href="https://agrosys.fr/accueil-2/equipe/">Equipe</a></li>
+<li class="page_item page-item-6384"><a href="https://agrosys.fr/projets-etudiants-2/">Projets étudiants (sauvegarde)</a></li>
+<li class="page_item page-item-1842"><a href="https://agrosys.fr/evenements/">Evénements AgroSYS</a></li>
+<li class="page_item page-item-889"><a href="https://agrosys.fr/axes-thematiques-2/utiliser-la-biodiversite-fonctionnelle-comme-levier-de-la-durabilite-dans-les-paysages-agricoles/">Utiliser la biodiversité fonctionnelle comme levier de la durabilité dans les paysages agricoles</a></li>
+<li class="page_item page-item-904"><a href="https://agrosys.fr/axes-thematiques-2/integrer-les-solutions-de-biocontrole-dans-les-agrosystemes/">Intégrer les solutions de biocontrôle dans les agrosystèmes</a></li>
+<li class="page_item page-item-1765"><a href="https://agrosys.fr/actualites/">Les Actualités de la Chaire</a></li>
+<li class="page_item page-item-922"><a href="https://agrosys.fr/axes-thematiques-2/developper-les-competences-et-les-outils-pour-laccompagnement-des-agriculteurs-et-la-gestion-des-risques-vers-des-systemes-agricoles-durables/">Développer les compétences et les outils pour l&rsquo;accompagnement des agriculteurs et la gestion des risques vers des systèmes agricoles durables</a></li>
+<li class="page_item page-item-1263"><a href="https://agrosys.fr/axes-thematiques-2/politiques-publiques-et-transition-agro-ecologique/">Politiques publiques et transition agro-écologique</a></li>
+<li class="page_item page-item-1517"><a href="https://agrosys.fr/forum/">Forum</a></li>
+<li class="page_item page-item-192"><a href="https://agrosys.fr/recrutement/">Offres d&#8217;emploi et stage</a></li>
+<li class="page_item page-item-1804"><a href="https://agrosys.fr/mentions-legales/">Mentions légales</a></li>
+<li class="page_item page-item-1528"><a href="https://agrosys.fr/reinitialiser-un-mot-de-passe/">Réinitialiser un mot de passe</a></li>
+<li class="page_item page-item-1526"><a href="https://agrosys.fr/creation-dun-compte/">Création d&rsquo;un compte</a></li>
+<li class="page_item page-item-1867 page_item_has_children"><a href="https://agrosys.fr/axes-thematiques-2/">Axes thématiques</a></li>
+</ul><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth el_before_av_one_fourth '><section id="text-4" class="widget clearfix widget_text">			<div class="textwidget"></div>
+		<span class="seperator extralight-border"></span></section><section id="custom_html-4" class="widget_text widget clearfix widget_custom_html"><h3 class="widgettitle">Réseaux sociaux</h3><div class="textwidget custom-html-widget"><a target="_blank" href="https://www.youtube.com/channel/UC4rfMD0CTlpoWNKysZbLCPA/videos" class="none" onclick="window.open" ><img src="http://agrosys.fr/wp-content/uploads/2017/10/picto_youtube.png" alt="Youtube"> </a>
+
+<a target="_blank" href="https://www.linkedin.com/company/80482679/admin" class="none" onclick="window.open" ><img src="http://agrosys.fr/wp-content/uploads/2022/06/bt_linkedin.png" alt="LinkedIn"> </a>
+
+<a href="https://agrosys.fr/index.php/contacts/" class="none "><img src="http://agrosys.fr/wp-content/uploads/2017/10/picto_email.png" title="" alt="" style=""><span class="image-overlay overlay-type-extern" style="display: none;"><span class="image-overlay-inside"></span></span></a></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth el_before_av_one_fourth '><section class="widget widget_archive"><h3 class='widgettitle'>Archive</h3><ul>	<li><a href='https://agrosys.fr/2026/10/'>octobre 2026</a></li>
+	<li><a href='https://agrosys.fr/2026/09/'>septembre 2026</a></li>
+	<li><a href='https://agrosys.fr/2026/07/'>juillet 2026</a></li>
+	<li><a href='https://agrosys.fr/2026/06/'>juin 2026</a></li>
+	<li><a href='https://agrosys.fr/2026/05/'>mai 2026</a></li>
+	<li><a href='https://agrosys.fr/2026/04/'>avril 2026</a></li>
+	<li><a href='https://agrosys.fr/2026/02/'>février 2026</a></li>
+	<li><a href='https://agrosys.fr/2026/01/'>janvier 2026</a></li>
+	<li><a href='https://agrosys.fr/2025/12/'>décembre 2025</a></li>
+	<li><a href='https://agrosys.fr/2025/10/'>octobre 2025</a></li>
+	<li><a href='https://agrosys.fr/2025/09/'>septembre 2025</a></li>
+	<li><a href='https://agrosys.fr/2025/07/'>juillet 2025</a></li>
+	<li><a href='https://agrosys.fr/2025/05/'>mai 2025</a></li>
+	<li><a href='https://agrosys.fr/2025/04/'>avril 2025</a></li>
+	<li><a href='https://agrosys.fr/2025/01/'>janvier 2025</a></li>
+	<li><a href='https://agrosys.fr/2024/12/'>décembre 2024</a></li>
+	<li><a href='https://agrosys.fr/2024/11/'>novembre 2024</a></li>
+	<li><a href='https://agrosys.fr/2024/09/'>septembre 2024</a></li>
+	<li><a href='https://agrosys.fr/2024/08/'>août 2024</a></li>
+	<li><a href='https://agrosys.fr/2024/07/'>juillet 2024</a></li>
+	<li><a href='https://agrosys.fr/2024/06/'>juin 2024</a></li>
+	<li><a href='https://agrosys.fr/2024/05/'>mai 2024</a></li>
+	<li><a href='https://agrosys.fr/2024/04/'>avril 2024</a></li>
+	<li><a href='https://agrosys.fr/2024/02/'>février 2024</a></li>
+	<li><a href='https://agrosys.fr/2023/12/'>décembre 2023</a></li>
+	<li><a href='https://agrosys.fr/2023/11/'>novembre 2023</a></li>
+	<li><a href='https://agrosys.fr/2023/09/'>septembre 2023</a></li>
+	<li><a href='https://agrosys.fr/2023/08/'>août 2023</a></li>
+	<li><a href='https://agrosys.fr/2023/07/'>juillet 2023</a></li>
+	<li><a href='https://agrosys.fr/2023/04/'>avril 2023</a></li>
+	<li><a href='https://agrosys.fr/2023/03/'>mars 2023</a></li>
+	<li><a href='https://agrosys.fr/2023/02/'>février 2023</a></li>
+	<li><a href='https://agrosys.fr/2023/01/'>janvier 2023</a></li>
+	<li><a href='https://agrosys.fr/2022/12/'>décembre 2022</a></li>
+	<li><a href='https://agrosys.fr/2022/11/'>novembre 2022</a></li>
+	<li><a href='https://agrosys.fr/2022/10/'>octobre 2022</a></li>
+	<li><a href='https://agrosys.fr/2022/09/'>septembre 2022</a></li>
+	<li><a href='https://agrosys.fr/2022/07/'>juillet 2022</a></li>
+	<li><a href='https://agrosys.fr/2022/03/'>mars 2022</a></li>
+	<li><a href='https://agrosys.fr/2022/02/'>février 2022</a></li>
+	<li><a href='https://agrosys.fr/2022/01/'>janvier 2022</a></li>
+	<li><a href='https://agrosys.fr/2021/12/'>décembre 2021</a></li>
+	<li><a href='https://agrosys.fr/2021/11/'>novembre 2021</a></li>
+	<li><a href='https://agrosys.fr/2021/10/'>octobre 2021</a></li>
+	<li><a href='https://agrosys.fr/2021/09/'>septembre 2021</a></li>
+	<li><a href='https://agrosys.fr/2021/07/'>juillet 2021</a></li>
+	<li><a href='https://agrosys.fr/2021/06/'>juin 2021</a></li>
+	<li><a href='https://agrosys.fr/2021/05/'>mai 2021</a></li>
+	<li><a href='https://agrosys.fr/2021/04/'>avril 2021</a></li>
+	<li><a href='https://agrosys.fr/2021/03/'>mars 2021</a></li>
+	<li><a href='https://agrosys.fr/2021/02/'>février 2021</a></li>
+	<li><a href='https://agrosys.fr/2021/01/'>janvier 2021</a></li>
+	<li><a href='https://agrosys.fr/2020/12/'>décembre 2020</a></li>
+	<li><a href='https://agrosys.fr/2020/11/'>novembre 2020</a></li>
+	<li><a href='https://agrosys.fr/2020/10/'>octobre 2020</a></li>
+	<li><a href='https://agrosys.fr/2020/09/'>septembre 2020</a></li>
+	<li><a href='https://agrosys.fr/2020/05/'>mai 2020</a></li>
+	<li><a href='https://agrosys.fr/2020/04/'>avril 2020</a></li>
+	<li><a href='https://agrosys.fr/2020/03/'>mars 2020</a></li>
+	<li><a href='https://agrosys.fr/2020/02/'>février 2020</a></li>
+	<li><a href='https://agrosys.fr/2020/01/'>janvier 2020</a></li>
+	<li><a href='https://agrosys.fr/2019/12/'>décembre 2019</a></li>
+	<li><a href='https://agrosys.fr/2019/11/'>novembre 2019</a></li>
+	<li><a href='https://agrosys.fr/2019/10/'>octobre 2019</a></li>
+	<li><a href='https://agrosys.fr/2019/09/'>septembre 2019</a></li>
+	<li><a href='https://agrosys.fr/2019/07/'>juillet 2019</a></li>
+	<li><a href='https://agrosys.fr/2019/06/'>juin 2019</a></li>
+	<li><a href='https://agrosys.fr/2019/05/'>mai 2019</a></li>
+	<li><a href='https://agrosys.fr/2019/04/'>avril 2019</a></li>
+	<li><a href='https://agrosys.fr/2019/03/'>mars 2019</a></li>
+	<li><a href='https://agrosys.fr/2019/01/'>janvier 2019</a></li>
+	<li><a href='https://agrosys.fr/2018/12/'>décembre 2018</a></li>
+	<li><a href='https://agrosys.fr/2018/10/'>octobre 2018</a></li>
+	<li><a href='https://agrosys.fr/2018/09/'>septembre 2018</a></li>
+	<li><a href='https://agrosys.fr/2018/07/'>juillet 2018</a></li>
+	<li><a href='https://agrosys.fr/2018/06/'>juin 2018</a></li>
+	<li><a href='https://agrosys.fr/2018/05/'>mai 2018</a></li>
+	<li><a href='https://agrosys.fr/2018/04/'>avril 2018</a></li>
+	<li><a href='https://agrosys.fr/2018/03/'>mars 2018</a></li>
+	<li><a href='https://agrosys.fr/2018/02/'>février 2018</a></li>
+	<li><a href='https://agrosys.fr/2018/01/'>janvier 2018</a></li>
+	<li><a href='https://agrosys.fr/2017/12/'>décembre 2017</a></li>
+	<li><a href='https://agrosys.fr/2017/10/'>octobre 2017</a></li>
+	<li><a href='https://agrosys.fr/2017/08/'>août 2017</a></li>
+	<li><a href='https://agrosys.fr/2017/05/'>mai 2017</a></li>
+	<li><a href='https://agrosys.fr/2017/04/'>avril 2017</a></li>
+	<li><a href='https://agrosys.fr/2017/03/'>mars 2017</a></li>
+	<li><a href='https://agrosys.fr/2017/02/'>février 2017</a></li>
+	<li><a href='https://agrosys.fr/2016/12/'>décembre 2016</a></li>
+	<li><a href='https://agrosys.fr/2016/11/'>novembre 2016</a></li>
+	<li><a href='https://agrosys.fr/2016/08/'>août 2016</a></li>
+	<li><a href='https://agrosys.fr/2016/07/'>juillet 2016</a></li>
+	<li><a href='https://agrosys.fr/2016/03/'>mars 2016</a></li>
+	<li><a href='https://agrosys.fr/2016/01/'>janvier 2016</a></li>
+	<li><a href='https://agrosys.fr/2015/12/'>décembre 2015</a></li>
+</ul><span class="seperator extralight-border"></span></section></div>
+					</div>
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+	
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" aria-label="Copyright and company info" >
+                    <div class='container'>
+
+                        <span class='copyright'>© Copyright  - <a href='https://agrosys.fr/'>Chaire partenariale AgroSYS</a> - <a rel='nofollow' href='https://kriesi.at'>Enfold Theme by Kriesi</a></span>
+
+                        <nav class='sub_menu_socket'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia3-menu"><ul role="menu" class="menu" id="avia3-menu"><li role="menuitem" id="menu-item-2349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-1"><a href="https://agrosys.fr/mentions-legales/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Mentions légales</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-2347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="https://agrosys.fr/recrutement/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Offres d&#8217;emploi et stage</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-2353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-3"><a href="http://www.terrenourriciere.org" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Conception Terre Nourricière</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+</ul></div></nav>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+
+		<a class='avia-post-nav avia-post-prev with-image' href='https://agrosys.fr/de-lalea-climatique-estime-au-risque-vecu/' ><span class="label iconfont" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class="entry-info-wrap"><span class="entry-info"><span class='entry-title'>De l&rsquo;aléa climatique estimé au risque vécu : confrontation des échelles...</span><span class='entry-image'><img width="80" height="80" src="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--80x80.png" class="wp-image-7896 avia-img-lazy-loading-not-7896 attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--80x80.png 80w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--36x36.png 36w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Alea-estime_Risque-percu--180x180.png 180w" sizes="auto, (max-width: 80px) 100vw, 80px" /></span></span></span></a><a class='avia-post-nav avia-post-next with-image' href='https://agrosys.fr/a-venir-seminaire-perception-des-risques-climatiques/' ><span class="label iconfont" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class="entry-info-wrap"><span class="entry-info"><span class='entry-image'><img width="80" height="80" src="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-80x80.png" class="wp-image-7932 avia-img-lazy-loading-7932 attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-80x80.png 80w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-300x300.png 300w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-1030x1030.png 1030w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-768x768.png 768w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-36x36.png 36w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-180x180.png 180w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire-705x705.png 705w, https://agrosys.fr/wp-content/uploads/sites/13/2026/09/Post-Seminaire.png 1200w" sizes="auto, (max-width: 80px) 100vw, 80px" /></span><span class='entry-title'>A VENIR : Colloque « Perception des risques climatiques »</span></span></span></a><!-- end wrap_all --></div>
+
+<a href='#top' title='Faire défiler vers le haut' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' tabindex='-1'><span class="avia_hidden_link_text">Faire défiler vers le haut</span></a>
+
+<div id="fb-root"></div>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/sites/13/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/enfold-child/*","/wp-content/themes/enfold/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://agrosys.fr/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://agrosys.fr/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://agrosys.fr/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <script id="avia-waypoints-js" src="https://agrosys.fr/wp-content/themes/enfold/js/waypoints/waypoints.min.js?ver=6.0.4"></script>
+<script id="avia-default-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia.min.js?ver=6.0.4"></script>
+<script id="avia-shortcodes-js" src="https://agrosys.fr/wp-content/themes/enfold/js/shortcodes.min.js?ver=6.0.4"></script>
+<script id="avia-module-audioplayer-js" src="https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.min.js?ver=6.0.4"></script>
+<script id="avia-module-gallery-js" src="https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.min.js?ver=6.0.4"></script>
+<script id="avia-module-isotope-js" src="https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.min.js?ver=6.0.4"></script>
+<script id="avia-module-masonry-js" src="https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.min.js?ver=6.0.4"></script>
+<script id="avia-module-slideshow-js" src="https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.min.js?ver=6.0.4"></script>
+<script id="avia-module-slideshow-video-js" src="https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.min.js?ver=6.0.4"></script>
+<script id="avia-module-tabs-js" src="https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.min.js?ver=6.0.4"></script>
+<script id="avia-module-video-js" src="https://agrosys.fr/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.min.js?ver=6.0.4"></script>
+<script id="jquery-ui-core-js-before">
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+</script>
+<script id="jquery-ui-core-js" src="https://agrosys.fr/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"></script>
+<script id="jquery-ui-datepicker-js" src="https://agrosys.fr/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.14.2"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+//# sourceURL=jquery-ui-datepicker-js-after
+</script>
+<script id="avia-hamburger-menu-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia-snippet-hamburger-menu.min.js?ver=6.0.4"></script>
+<script id="avia-parallax-support-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia-snippet-parallax.min.js?ver=6.0.4"></script>
+<script id="avia-fold-unfold-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia-snippet-fold-unfold.min.js?ver=6.0.4"></script>
+<script id="avia-popup-js-js" src="https://agrosys.fr/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=6.0.4"></script>
+<script id="avia-lightbox-activation-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia-snippet-lightbox.min.js?ver=6.0.4"></script>
+<script id="avia-megamenu-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia-snippet-megamenu.min.js?ver=6.0.4"></script>
+<script id="avia-sticky-header-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia-snippet-sticky-header.min.js?ver=6.0.4"></script>
+<script id="avia-footer-effects-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia-snippet-footer-effects.min.js?ver=6.0.4"></script>
+<script id="avia-widget-js-js" src="https://agrosys.fr/wp-content/themes/enfold/js/avia-snippet-widget.min.js?ver=6.0.4"></script>
+<script id="avia_blocks_front_script-js" src="https://agrosys.fr/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.min.js?ver=6.0.4"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://agrosys.fr/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://agrosys.fr/wp-includes/js/wp-emoji-loader.min.js
+</script>
+</body>
+</html>
+
+
+<!-- Page supported by LiteSpeed Cache 7.9.2 on 2026-10-31 09:45:29 -->

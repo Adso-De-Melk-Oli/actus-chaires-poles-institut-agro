@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Evénements AgroSYS &#8211; Chaire partenariale AgroSYS</title>
+	<atom:link href="https://agrosys.fr/category/evenements_agrosys/feed/" rel="self" type="application/rss+xml" />
+	<link>https://agrosys.fr</link>
+	<description>Ingénierie pour des agrosystèmes durables</description>
+	<lastBuildDate>Fri, 16 Oct 2026 12:38:07 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
+
+<image>
+	<url>https://agrosys.fr/wp-content/uploads/sites/13/2015/12/cropped-signature-AgroSYS-2014-petit-32x32.png</url>
+	<title>Evénements AgroSYS &#8211; Chaire partenariale AgroSYS</title>
+	<link>https://agrosys.fr</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A VENIR : Colloque « Perception des risques climatiques »</title>
+		<link>https://agrosys.fr/a-venir-seminaire-perception-des-risques-climatiques/</link>
+		
+		<dc:creator><![CDATA[noirotme]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 13:09:19 +0000</pubDate>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Evénements AgroSYS]]></category>
+		<guid isPermaLink="false">https://agrosys.fr/?p=7929</guid>
+
+					<description><![CDATA[La Chaire partenariale AgroSYS vous invite le 21 janvier 2027, à l&#8217;Institut Agro Montpellier, au colloque : PERCEPTION DES RISQUES CLIMATIQUES : Comment concilier données scientifiques, indicateurs climatiques et savoirs locaux pour une agriculture résiliente ? L’agriculture est aujourd’hui au première loge du changement climatique. Sur le terrain, face aux aléas de plus en plus [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>La Chaire partenariale AgroSYS vous invite le 21 janvier 2027, à l&rsquo;Institut Agro Montpellier, au colloque :<br />
+<br class="avia-permanent-lb" /></p>
+<p><strong>PERCEPTION DES RISQUES CLIMATIQUES : Comment concilier données scientifiques, indicateurs climatiques et savoirs locaux pour une agriculture résiliente ?</strong></p>
+<p>L’agriculture est aujourd’hui au première loge du changement climatique. Sur le terrain, face aux aléas de plus en plus extrêmes et fréquents la question n’est plus de savoir si le climat change, mais à quelle vitesse nos systèmes de production pourront s’y adapter.<br />
+Le risque climatique ne se résume pas à la météorologie, il nait de la combinaison d’un aléa et de la vulnérabilité du système. Au-delà de la biophysique, le risque est avant tout un construit social : décider de s’adapter, de modifier ses pratiques ou de restructurer intégralement son exploitation agricole dépend de la perception et des moyens disponibles.</p>
+<p>Lors de ce colloque, nous nous intéresserons à l’estimation des aléas climatiques et à leurs perceptions par le monde professionnel. Sont-ils véritablement des moteurs de changement ?</p>
+<p>Au programme :</p>
+<ul>
+<li><em>8h30 : Accueil café</em></li>
+<li>9h : Introduction de la journée</li>
+<li>9h15 : <strong>De l’aléa climatique estimé au risque vécu : confrontation des perceptions aux risques climatiques</strong> &#8211; <em>Nève Cassel</em></li>
+<li>9h45 : <strong>Qu’est ce qu’un indicateur agro ou éco- climatique ?</strong> &#8211; <em>Renan Le Roux (INRAE)</em></li>
+<li>10h15 :<strong> Construction de la perception d</strong><strong>u changement cli</strong><strong>matique ?</strong> &#8211; <em>Intervenant.e à confirmer</em></li>
+<li><em>10h45 : Pause café</em></li>
+<li>11h15 : <strong>Table ronde : Regards croisés de professionnels agricoles sur la perception du changement climatique</strong> &#8211; <em>Intervenant.e.s à confirmer</em></li>
+<li><em>12h30 : Déjeuner</em></li>
+<li>14h : <strong>Ateliers d’analyse de la distorsion entre aléas climatiques estimés et risques perçus</strong>  &#8211; <em>Avis des professionnels</em></li>
+<li>16h : <strong>Exemple d’agroforesterie portugaise</strong> &#8211; <em>Diana Ortiz-Vallejo (INRAE)</em></li>
+<li>16h45 : <strong>Conclusion et perspectives</strong> &#8211;</li>
+<li><em>17h : Fin de la journée</em></li>
+</ul>
+<p>&nbsp;</p>
+<p>Inscription gratuite mais obligatoire. Nombre de place limitée.</p>
+<p><a href="https://framaforms.org/inscription-colloque-perception-des-risques-climatiques-comment-concilier-donnees-scientifiques-1" target="_blank" rel="noopener">Formulaire d&rsquo;inscription</a></p>
+<p><img fetchpriority="high" decoding="async" class=" wp-image-8011 aligncenter" src="https://agrosys.fr/wp-content/uploads/sites/13/2026/10/ProgrammeV3-212x300.png" alt="" width="469" height="664" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2026/10/ProgrammeV3-212x300.png 212w, https://agrosys.fr/wp-content/uploads/sites/13/2026/10/ProgrammeV3-728x1030.png 728w, https://agrosys.fr/wp-content/uploads/sites/13/2026/10/ProgrammeV3-768x1086.png 768w, https://agrosys.fr/wp-content/uploads/sites/13/2026/10/ProgrammeV3-1086x1536.png 1086w, https://agrosys.fr/wp-content/uploads/sites/13/2026/10/ProgrammeV3-1448x2048.png 1448w, https://agrosys.fr/wp-content/uploads/sites/13/2026/10/ProgrammeV3-1060x1500.png 1060w, https://agrosys.fr/wp-content/uploads/sites/13/2026/10/ProgrammeV3-498x705.png 498w, https://agrosys.fr/wp-content/uploads/sites/13/2026/10/ProgrammeV3.png 1587w" sizes="(max-width: 469px) 100vw, 469px" /></p>
+<p><a href="https://agrosys.fr/wp-content/uploads/sites/13/2026/10/ProgrammeV3.pdf" target="_blank" rel="noopener">Programme détaillé</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Webinaire « De l&#8217;aléa climatique estimé au risque vécu »</title>
+		<link>https://agrosys.fr/webinaire-de-lalea-climatique-estime-au-risque-vecu/</link>
+		
+		<dc:creator><![CDATA[noirotme]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2026 12:57:02 +0000</pubDate>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Evénements AgroSYS]]></category>
+		<guid isPermaLink="false">https://agrosys.fr/?p=7914</guid>
+
+					<description><![CDATA[Dans cette vidéo, Nève Cassel, étudiante en master 2 Eau &#38; Agriculture présente les résultats de son stage, encadré par François Colin et Léo Pichon. Le travail a porté sur : 1. l&#8217;estimation des aléas climatiques à partir d&#8217;indicateurs écoclimatiques pour les sites partenaires de la Chaire AgroSYS 2. la compréhension de la perception du [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class='avia-iframe-wrap'><iframe title="Webinaire &quot;De l&amp;apos;aléa climatique estimé au risque vécu&quot;" width="1500" height="844" src="https://www.youtube.com/embed/4boHRV35zc8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<p>Dans cette vidéo, Nève Cassel, étudiante en master 2 Eau &amp; Agriculture présente les résultats de son stage, encadré par François Colin et Léo Pichon. Le travail a porté sur :<br />
+1. l&rsquo;estimation des aléas climatiques à partir d&rsquo;indicateurs écoclimatiques pour les sites partenaires de la Chaire AgroSYS<br />
+2. la compréhension de la perception du risque climatique et des adaptations mises en place au sein des exploitations agricoles<br />
+3. la confrontation des deux données au regard des caractéristiques locales et des adaptations déjà mises en place.</p>
+<p>Lire le <a href="https://agrosys.fr/wp-content/uploads/sites/13/2026/09/CASSEL_Neve_Memoire_M2EA_25.26.pdf">mémoire associé au stage</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Webinaire « Conception de systèmes viticoles agroécologiques » par Elsa Robelot</title>
+		<link>https://agrosys.fr/webinaire-conception-de-systemes-viticoles-agroecologiques-par-elsa-robelot/</link>
+		
+		<dc:creator><![CDATA[noirotme]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2026 13:56:18 +0000</pubDate>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Evénements AgroSYS]]></category>
+		<guid isPermaLink="false">https://agrosys.fr/?p=7791</guid>
+
+					<description><![CDATA[Présentation des résultats de thèse d&#8217;Elsa Robelot encadrée par Marie-Hélène Jeuffroy et Anne Mérot La viticulture est confrontée à de multiples défis environnementaux, économiques et sociaux, qui nécessitent de repenser en profondeur les modes de production. L&#8217;agroécologie constitue une voie prometteuse pour renforcer la durabilité des systèmes viticoles, mais sa mise en œuvre reste complexe. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h1><strong>Présentation des résultats de thèse d&rsquo;Elsa Robelot encadrée par Marie-Hélène Jeuffroy et Anne Mérot</strong></h1>
+<p>La viticulture est confrontée à de multiples défis environnementaux, économiques et sociaux, qui nécessitent de repenser en profondeur les modes de production. L&rsquo;agroécologie constitue une voie prometteuse pour renforcer la durabilité des systèmes viticoles, mais sa mise en œuvre reste complexe. Cette thèse vise à produire des connaissances pour accompagner la transition agroécologique des exploitations viticoles, en combinant l&rsquo;analyse de systèmes existants et la mise en œuvre d&rsquo;une démarche de conception. Trois axes structurent ce travail :<br />
+&#8211; Le premier axe s&rsquo;intéresse aux <strong>changements de pratiques mis en oeuvre dans des exploitations en transition agroécologique</strong>. Vingt-quatre viticulteur·ice·s ont été enquêté·e·s. Les exploitations ont été classées selon leur niveau d&rsquo;agroécologie, à l&rsquo;aide d&rsquo;une grille de caractérisation développée spécifiquement pour la viticulture. Les changements de pratiques ont été analysés en mobilisant le concept de logique d&rsquo;action. Grâce à des indicateurs semi-quantitatifs et qualitatifs, il est possible de montrer comment les viticulteur·ice·s des exploitations les plus agroécologiques raisonnent leurs changements de manière systémique et à l&rsquo;échelle de l&rsquo;ensemble de l&rsquo;exploitation. Ces résultats constituent un appui pour les viticulteur·ice·s et les conseiller·ère·s, en proposant un outil de suivi simple de l&rsquo;avancée dans la transition agroécologique et en identifiant des caractéristiques des raisonnements des changements de pratiques.<br />
+&#8211; Le deuxième axe de la thèse porte sur l&rsquo;<strong>intégration du vitipastoralisme dans les exploitations viticoles</strong>. Ce travail visait à explorer la diversité des pratiques de pâturage et des logiques sous-jacentes à ces pratiques. Vingt-quatre enquêtes ont été menées en France et aux États-Unis, dans une diversité de contextes de production. Des logiques d&rsquo;action génériques ont été identifiées, elles combinent pratiques de pâturage, résultats attendus et contexte de production, ainsi qu&rsquo;une diversité de trajectoires au sein des exploitations enquêtées. Ces résultats fournissent des références mobilisables par d&rsquo;autres viticulteur·ice·s pour concevoir des systèmes viticoles intégrant le pâturage, adaptés à leur contexte de production.<br />
+&#8211; Le troisième axe repose sur une <strong>démarche de conception participative</strong> conduite avec les membres d&rsquo;un domaine viticole. Inspirée de la méthode KCP, un système agroécologique a été co-construit, intégrant des leviers aux dimensions agronomiques, sociales et économiques, réfléchis en cohérence. Ce travail a permis de tirer des enseignements sur la conception de systèmes viticoles et sur la manière de favoriser les raisonnements systémiques lors des démarches de conception participative.</p>
+<p>Article scientifique issus de la thèse <a href="https://agrosys.fr/wp-content/uploads/sites/13/2026/07/Robelot2026.pdf">Elsa Robelot and al. 2026 « Progressing toward agroecology in vineyards through systemic innovation »</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Webinaire « Présentation du projet SHARE » par Anne Mérot et Juliette Vincent</title>
+		<link>https://agrosys.fr/webinaire-presentation-du-projet-share-par-anne-merot-et-juliette-vincent/</link>
+		
+		<dc:creator><![CDATA[noirotme]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 13:41:26 +0000</pubDate>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Evénements AgroSYS]]></category>
+		<guid isPermaLink="false">https://agrosys.fr/?p=7662</guid>
+
+					<description><![CDATA[Présentation du projet de recherche européen SHARE : Soutenir l&#8217;Agriculture Méditerranéenne en Innovant dans les projets Agroforestiers. Retour d&#8217;une enquêtes sur les pratiques de viti-pastoralismes et lancement d&#8217;un Living Lab sur le sujet dans le sud de la France Présentation par Anne Merot agronome chercheuse à l&#8217;UMR AbSYS, et Juliette Vincent, chargée d&#8217;étude.]]></description>
+										<content:encoded><![CDATA[<div class='avia-iframe-wrap'><iframe title="Webinaire présentation SHARE" width="1500" height="844" src="https://www.youtube.com/embed/0LznsFOtiIk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<p>Présentation du projet de recherche européen SHARE : Soutenir l&rsquo;Agriculture Méditerranéenne en Innovant dans les projets Agroforestiers. Retour d&rsquo;une enquêtes sur les pratiques de viti-pastoralismes et lancement d&rsquo;un Living Lab sur le sujet dans le sud de la France</p>
+<p>Présentation par Anne Merot agronome chercheuse à l&rsquo;UMR AbSYS, et Juliette Vincent, chargée d&rsquo;étude.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La Chaire AgroSYS : dix ans d’innovation dans la circulation des savoirs pour la transition agroécologique</title>
+		<link>https://agrosys.fr/la-chaire-agrosys-dix-ans-dinnovation-dans-la-circulation-des-savoirs-pour-la-transition-agroecologique/</link>
+		
+		<dc:creator><![CDATA[noirotme]]></dc:creator>
+		<pubDate>Thu, 12 Feb 2026 11:06:27 +0000</pubDate>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Evénements AgroSYS]]></category>
+		<category><![CDATA[Travaux]]></category>
+		<guid isPermaLink="false">https://agrosys.fr/?p=7448</guid>
+
+					<description><![CDATA[En 2024, à l&#8217;occasion de ces 10ans, la Chaire AgroSYS a réalisé un travail de bilan pour évaluer l&#8217;impact de ses actions sur la transition agroécologique. L&#8217;ensemble des résultat de cette étude est disponible sur cette page. Un article vient d&#8217;être publié dans Agronomie, Environnement &#38; Sociétés au sujet de l&#8217;impact de la chaire sur [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>En 2024, à l&rsquo;occasion de ces 10ans, la Chaire AgroSYS a réalisé un travail de bilan pour évaluer l&rsquo;impact de ses actions sur la transition agroécologique. L&rsquo;ensemble des résultat de cette étude est disponible sur cette <a href="https://agrosys.fr/bilan-de-10-ans-dactivite-de-la-chaire-partenariale-agrosys/">page</a>.</p>
+<p>Un <a href="https://agronomie.asso.fr/aes-15-2-9">article</a> vient d&rsquo;être publié dans <a href="https://agronomie.asso.fr/aes">Agronomie, Environnement &amp; Sociétés</a> au sujet de l&rsquo;impact de la chaire sur l&rsquo;innovation et la circulation des savoirs pour la transition agroécologique.</p>
+<div class="frame-backgroundimage-container">
+<div id="frame-backgroundimage-164" class="frame-backgroundimage frame-backgroundimage-fade">
+<div class="well">
+<p class="text-justify">Créée en 2014 à l’Institut Agro Montpellier, la Chaire AgroSYS<a href="https://agronomie.asso.fr/aes-15-2-9#_ftn1" name="_ftnref1">[1]</a> est un dispositif de partenariat public-privé dédié à la production, au partage et à la diffusion de connaissances et de méthodes en soutien à la transition agroécologique. En articulant recherche académique, formation d’ingénieurs agronomes et approche systémique, elle contribue à renouveler les modes de circulation des savoirs et à co-construire des références agronomiques adaptées à des systèmes agricoles en transformation profonde.</p>
+<p class="text-justify">L’évaluation des dix années d’activité de la Chaire met en lumière un rôle central dans la structuration, la diffusion et la mise en pratique des savoirs nécessaires à la transition agroécologique. À travers l’organisation de 40 actions de diffusion (conférences, séminaires, ateliers) réunissant acteurs agricoles, étudiants, enseignants-chercheurs, la Chaire a permis aux participants d’accéder à des solutions concrètes tout en créant des communautés d’apprentissage favorisant des échanges horizontaux et verticaux de savoirs. Ces initiatives, intégrant sciences académiques et savoirs pratiques, visent spécifiquement les niveaux supérieurs de la transition agroécologique, tels que définis par l’échelle de Gliessman.</p>
+<p class="text-justify">Parmi les actions proposées par la Chaire, les ateliers de terrain étudiants constituent un levier important de formation opérationnelle et ancrée dans un territoire. Les travaux conduits, centrés sur la recherche de solutions applicables aux exploitations et territoires agricoles, ont permis d’accompagner la réduction des intrants, la gestion des bioagresseurs et l’amélioration des performances agroécologiques, tout en soutenant l’adoption de nouvelles pratiques par les agriculteurs. Pour les étudiants, ces expériences renforcent l’apprentissage actif et l’ancrage des connaissances en relation avec des problématiques concrètes d’acteurs professionnels.</p>
+<p class="text-justify">L’approche intégrée de la Chaire se reflète également dans l’évolution des thématiques abordées. Initialement centrées sur la performance agronomique à l’échelle de la parcelle, elles incluent désormais des enjeux globaux, tels que la résilience au changement climatique, la gestion durable des sols et la conception de systèmes alimentaires durables. L’analyse rétrospective souligne cependant des défis associés aux formes de partenariat, notamment la nécessité de maintenir un équilibre entre intérêts privés et intérêt général. La gouvernance de la Chaire devra continuer à faciliter les échanges pour amplifier l&rsquo;implication des diverses parties prenantes et renforcer l’efficience des actions collaboratives.</p>
+<p class="text-justify">En conclusion, la Chaire AgroSYS s’affirme comme un acteur central dans la production et la circulation des savoirs nécessaires à la transition agroécologique. En renforçant son approche collaborative et en adaptant ses actions aux besoins évolutifs des acteurs de terrain, elle pourra consolider son rôle stratégique dans l’accompagnement des transformations agricoles à venir.</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Webinaire « Présentation du projet TALANOA » par Nina Graveline</title>
+		<link>https://agrosys.fr/webinaire-presentation-du-projet-talanoa-par-nina-graveline/</link>
+		
+		<dc:creator><![CDATA[noirotme]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2025 10:18:15 +0000</pubDate>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Evénements AgroSYS]]></category>
+		<guid isPermaLink="false">https://agrosys.fr/?p=7382</guid>
+
+					<description><![CDATA[https://youtu.be/3qeBP7a3zvY Présentation du projet TALANOA Water : dialoguer pour l’adaptation à la rareté de l’eau en agriculture face au changement climatique : participation &#38; modélisation au service d’un territoire audois. Présentation par Nina Graveline chercheure à l&#8217;INRAe &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="https://youtu.be/3qeBP7a3zvY">https://youtu.be/3qeBP7a3zvY</a></p>
+<p>Présentation du projet TALANOA Water : dialoguer pour l’adaptation à la rareté de l’eau en agriculture face au changement climatique : participation &amp; modélisation au service d’un territoire audois. Présentation par Nina Graveline chercheure à l&rsquo;INRAe</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Webinaire « Keyline for Sustainable Agriculture under climate change : Profiles, issues and context of adoption »</title>
+		<link>https://agrosys.fr/webinaire-keyline-for-sustainable-agriculture-under-climate-change-profiles-issues-and-context-of-adoption/</link>
+		
+		<dc:creator><![CDATA[Gabriela Simonet]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 15:39:52 +0000</pubDate>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Evénements AgroSYS]]></category>
+		<guid isPermaLink="false">https://agrosys.fr/?p=7200</guid>
+
+					<description><![CDATA[Dany BLANCHET et Martin PARDON (jeunes diplômés Institut Agro et AgroParisTech) nous ont présenté une restitution du projet Raidwine 2023 (AAP 2023), soutenu par les Chaires AgroSYS, Vigne&#38;Vin et Eau, Agriculture, Changement Climatique (EACC), ainsi que par le Fondation AgroParisTech. Leur présentation contient une synthèse de leur expédition, et un focus sur la technique des [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>Dany BLANCHET</b> et <b>Martin PARDON</b> (jeunes diplômés Institut Agro et AgroParisTech) nous ont présenté une restitution du projet <span id="DWT7599" class="ZmSearchResult"><span id="DWT7607" class="ZmSearchResult">Raidwine</span></span> 2023 (AAP 2023), soutenu par les Chaires AgroSYS, Vigne&amp;Vin et Eau, Agriculture, Changement Climatique (EACC), ainsi que par le Fondation AgroParisTech.</p>
+<p>Leur présentation contient une synthèse de leur expédition, et un focus sur la technique des keylines.</p>
+<p>Découvrez la <a href="https://agrosys.fr/wp-content/uploads/sites/13/2025/10/Presentation_RaidWine_20_10_20251-compressed.pdf">présentation</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Webinaire « Caractérisation des systèmes agroforestiers et besoins de suivi de services écosystémiques associés en exploitations viticoles »</title>
+		<link>https://agrosys.fr/webinaire-caracterisation-des-systemes-agroforestiers-et-besoins-de-suivi-de-services-ecosystemiques-associes-en-exploitations-viticoles/</link>
+		
+		<dc:creator><![CDATA[Gabriela Simonet]]></dc:creator>
+		<pubDate>Tue, 30 Sep 2025 09:53:25 +0000</pubDate>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Evénements AgroSYS]]></category>
+		<guid isPermaLink="false">https://agrosys.fr/?p=7185</guid>
+
+					<description><![CDATA[Dans cette vidéo, El Hadji Niane (étudiant à l’Institut Agro Montpellier) présente les résultats de son stage, encadré par Romane Mettauer (UMR Absys), et portant sur « Caractérisation des systèmes agroforestiers et besoins de suivi de services écosystémiques associés en exploitations viticoles ». Un stage qui a impliqué 13 exploitations des partenaires d&#8217;AgroSYS. Lire le mémoire associé [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class='avia-iframe-wrap'><iframe loading="lazy" title="Webinaire &quot;Caractérisation des systèmes agroforestiers et besoins de suivi services écosystémiques&quot;" width="1500" height="844" src="https://www.youtube.com/embed/HY3CgkFBnQA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<p>Dans cette vidéo, El Hadji Niane (étudiant à l’Institut Agro Montpellier) présente les résultats de son stage, encadré par Romane Mettauer (<a href="https://umr-absys.cirad.fr/">UMR Absys</a>), et portant sur « Caractérisation des systèmes agroforestiers et besoins de suivi de services écosystémiques associés en exploitations viticoles ». Un stage qui a impliqué 13 exploitations des partenaires d&rsquo;AgroSYS.</p>
+<p>Lire le <a href="https://agrosys.fr/caracterisation-des-systemes-agroforestiers-et-besoins-de-suivi-de-services-ecosystemiques-associes-en-exploitations-viticoles/">mémoire associé au stage</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Webinaire « Co-conception et co-évaluation de systèmes viticoles à bas niveaux d’intrants phytosanitaires »</title>
+		<link>https://agrosys.fr/webinaire-co-conception-et-co-evaluation-de-systemes-viticoles-a-bas-niveaux-dintrants-phytosanitaires/</link>
+		
+		<dc:creator><![CDATA[Gabriela Simonet]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2025 14:48:56 +0000</pubDate>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Evénements AgroSYS]]></category>
+		<guid isPermaLink="false">https://agrosys.fr/?p=7134</guid>
+
+					<description><![CDATA[Dans ce webinaire, Aurélie Métay (UMR ABSYS) présente une approche participative visant à réduire l’usage des pesticides en viticulture. Quatre stratégies phytosanitaires ont été expérimentées dans le cadre de la thèse de Mickaël Perez avec les viticulteurs de la coopérative Vinovalie. Retrouvez sa présentation:]]></description>
+										<content:encoded><![CDATA[<p>Dans ce webinaire,<strong> Aurélie Métay</strong> (<a href="https://umr-absys.cirad.fr/" target="_blank" rel="noopener">UMR ABSYS</a>) présente une approche participative visant à réduire l’usage des pesticides en viticulture. Quatre stratégies phytosanitaires ont été expérimentées dans le cadre de la thèse de Mickaël Perez avec les viticulteurs de la coopérative Vinovalie.</p>
+<p>Retrouvez sa présentation:</p>
+<p><a href="https://www.youtube.com/watch?v=VSyGuQhsLv4"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-7143" src="https://agrosys.fr/wp-content/uploads/sites/13/2025/09/25_09_22_image_webinaire_aurelie_metay_chaireVetV-300x171.png" alt="" width="300" height="171" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2025/09/25_09_22_image_webinaire_aurelie_metay_chaireVetV-300x171.png 300w, https://agrosys.fr/wp-content/uploads/sites/13/2025/09/25_09_22_image_webinaire_aurelie_metay_chaireVetV-768x437.png 768w, https://agrosys.fr/wp-content/uploads/sites/13/2025/09/25_09_22_image_webinaire_aurelie_metay_chaireVetV-705x401.png 705w, https://agrosys.fr/wp-content/uploads/sites/13/2025/09/25_09_22_image_webinaire_aurelie_metay_chaireVetV.png 931w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>La Chaire Partenariale AgroSYS célèbre ses 10 ans d’activité </title>
+		<link>https://agrosys.fr/la-chaire-partenariale-agrosys-celebre-ses-10-ans-dactivite-le-partenariat-entre-le-monde-academique-et-socio-professionnel-quel-impact-sur-les-transitions/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2024 08:46:33 +0000</pubDate>
+				<category><![CDATA[A la Une]]></category>
+		<category><![CDATA[Actualités]]></category>
+		<category><![CDATA[Evénements AgroSYS]]></category>
+		<guid isPermaLink="false">https://agrosys.fr/?p=6418</guid>
+
+					<description><![CDATA[Crée en 2014, la Chaire AgroSYS facilite la mise en place de projets au service de la durabilité des agrosystèmes depuis 10 ans ! A cette occasion, nous avons organisé le 28 novembre 2024 un séminaire sur « Le partenariat entre le monde académique et socio-professionnel : quel impact sur les transitions ? » &#160; &#160; [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Crée en 2014, la Chaire AgroSYS facilite la mise en place de projets au service de la durabilité des agrosystèmes depuis 10 ans !</p>
+<p>A cette occasion, nous avons organisé le 28 novembre 2024 un séminaire sur</p>
+<h3 style="text-align: center;"><strong>« Le partenariat entre le monde académique et socio-professionnel : quel impact sur les transitions ? »</strong></h3>
+<p>&nbsp;</p>
+<h4><img loading="lazy" decoding="async" class=" wp-image-6210 alignleft" src="https://agrosys.fr/wp-content/uploads/sites/13/2024/04/schema-300x287.jpg" alt="" width="116" height="111" srcset="https://agrosys.fr/wp-content/uploads/sites/13/2024/04/schema-300x287.jpg 300w, https://agrosys.fr/wp-content/uploads/sites/13/2024/04/schema-1030x986.jpg 1030w, https://agrosys.fr/wp-content/uploads/sites/13/2024/04/schema-768x735.jpg 768w, https://agrosys.fr/wp-content/uploads/sites/13/2024/04/schema-600x574.jpg 600w, https://agrosys.fr/wp-content/uploads/sites/13/2024/04/schema-1536x1470.jpg 1536w, https://agrosys.fr/wp-content/uploads/sites/13/2024/04/schema-2048x1960.jpg 2048w, https://agrosys.fr/wp-content/uploads/sites/13/2024/04/schema-1500x1436.jpg 1500w, https://agrosys.fr/wp-content/uploads/sites/13/2024/04/schema-705x675.jpg 705w, https://agrosys.fr/wp-content/uploads/sites/13/2024/04/schema-1320x1263.jpg 1320w" sizes="auto, (max-width: 116px) 100vw, 116px" /></h4>
+<p>&nbsp;</p>
+<p>Au cours de cet événement, nous avons eu l&rsquo;opportunité d&rsquo;échanger et de débattre sur les enjeux et les défis liés à la collaboration entre mécènes, partenaires publics et privés, enseignants-chercheurs et étudiants, pour témoigner sur la <strong>capacité de ce collectif à œuvrer pour les transitions dans le secteur professionnel et la formation</strong>. Nous avons abordé notamment les différentes formes de partenariat possibles, les bénéfices mutuels et les modèles de coopération qui pourraient émerger.</p>
+<p>&nbsp;</p>
+<p>Ce séminaire a aussi été l&rsquo;occasion de stimuler la réflexion et de favoriser le dialogue entre les différents acteurs impliqués dans les questions des transitions.</p>
+<p>Nous avons également eu  l&rsquo;opportunité de présenter le <strong>bilan de 10 ans d’activité de la Chaire AgroSYS</strong> et le lancement du <strong>Cycle 4</strong> prévu en janvier 2025.</p>
+<p>Retrouvez ici  <a href="https://agrosys.fr/wp-content/uploads/sites/13/2024/11/Programme_10-Ans-AgroSYS.pdf">le Programme</a> et les <a href="https://studio.youtube.com/playlist/PLaLv0XWuyed-UioVq9QoAhWwM14miXT1k/videos">vidéos</a> des interventions.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

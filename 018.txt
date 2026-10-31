@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html  lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://analytics-sc.institut-agro.fr/" : "https://analytics-sc.institut-agro.fr/");_paq.push(["setSiteId", "78"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<link rel="apple-touch-icon" sizes="180x180" href="/sites/alimentation-durable.institut-agro.fr/files/favicons/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/sites/alimentation-durable.institut-agro.fr/files/favicons/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/sites/alimentation-durable.institut-agro.fr/files/favicons/favicon-16x16.png"/>
+<link rel="manifest" href="/sites/alimentation-durable.institut-agro.fr/files/favicons/site.webmanifest"/>
+<link rel="mask-icon" href="/sites/alimentation-durable.institut-agro.fr/files/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+<meta name="msapplication-TileColor" content="#da532c"/>
+<meta name="theme-color" content="#ffffff"/>
+<meta name="favicon-generator" content="Drupal responsive_favicons + realfavicongenerator.net" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <title>Accueil | Pôle Alimentation durable</title>
+    <link rel="stylesheet" media="all" href="/sites/alimentation-durable.institut-agro.fr/files/css/css_WYMHxaZFKQWbANDdGdauJ0HBCMwIDsveYgb9H-Ec0Qg.css" />
+<link rel="stylesheet" media="all" href="/sites/alimentation-durable.institut-agro.fr/files/css/css_j_e_dBsAqiv_m46U7_VEFgK3xfiV5DjQoSwHAWZI_XA.css" />
+<link rel="stylesheet" media="all" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"fr\/","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"matomo":{"disableCookies":false,"trackMailto":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":true,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(le lien est externe)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"Ce lien vous dirige vers un site externe. Nous ne sommes pas responsables de son contenu.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"bootstrap":{"forms_has_error_value_toggle":1},"cookies":{"cookiesjsr":{"config":{"cookie":{"name":"cookiesjsr","expires":34128000000,"domain":"","sameSite":"Lax","secure":false},"library":{"libBasePath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist","libPath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist\/cookiesjsr.min.js","scrollLimit":0},"callback":{"method":"post","url":"\/fr\/cookies\/consent\/callback.json","headers":[]},"interface":{"openSettingsHash":"#editCookieSettings","showDenyAll":true,"denyAllOnLayerClose":false,"settingsAsLink":true,"availableLangs":["en","fr"],"defaultLang":"fr","groupConsent":false,"cookieDocs":false}},"services":{"functional":{"id":"functional","services":[{"key":"functional","type":"functional","name":"Cookies requis","info":{"value":"\u003Cp\u003EFallback\u003C\/p\u003E\r\n","format":"full_html"},"uri":"https:\/\/alimentation.institut-agro-rennes-angers.fr\/fr\/politique-de-cookies","needConsent":false}],"weight":1},"video":{"id":"video","services":[{"key":"video","type":"video","name":"Vid\u00e9os h\u00e9berg\u00e9es sur YouTube ou Vimeo","info":{"value":"","format":"full_html"},"uri":"https:\/\/policies.google.com\/privacy","needConsent":true}],"weight":40}},"translation":{"langcode":"fr","bannerText":"Ce site utilise des cookies et vous donne le contr\u00f4le sur ce que vous souhaitez activer. Ces cookies sont destin\u00e9s \u00e0 am\u00e9liorer votre exp\u00e9rience de navigation. Vous pouvez personnaliser les r\u00e9glages d\u0027acceptation des cookies pour ce site maintenant, ou \u00e0 tout moment depuis la page \u0022G\u00e9rer les cookies\u0022. Pour accepter leur utilisation, il vous suffit de cliquer sur \u0022Tout accepter\u0022.","privacyPolicy":"Politique de cookies","privacyUri":"\/fr\/politique-de-cookies","imprint":"","imprintUri":"","cookieDocs":"","cookieDocsUri":"","officialWebsite":"Voir le site officiel","denyAll":"Tout refuser","alwaysActive":"Toujours actif","settings":"G\u00e9rer les cookies","acceptAll":"Tout accepter","requiredCookies":"Cookies requis","cookieSettings":"G\u00e9rer les cookies","close":"Fermer","readMore":"Lire la suite","allowed":"autoris\u00e9","denied":"refus\u00e9","settingsAllServices":"Param\u00e8tres pour tous les services","saveSettings":"Enregistrer","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Company","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accepter tous les cookies","functional":{"title":"Cookies obligatoires","details":"Ce site utilise des cookies n\u00e9cessaires \u00e0 son bon fonctionnement qui ne peuvent pas \u00eatre d\u00e9sactiv\u00e9s.\r\n"},"video":{"title":"Vid\u00e9os","details":"Ces cookies d\u00e9pos\u00e9s via le service de partage de vid\u00e9os YouTube ou Vimeo vous permettent de visionner les contenus multim\u00e9dia."}}},"cookiesTexts":{"langcode":"fr","bannerText":"Ce site utilise des cookies et vous donne le contr\u00f4le sur ce que vous souhaitez activer. Ces cookies sont destin\u00e9s \u00e0 am\u00e9liorer votre exp\u00e9rience de navigation. Vous pouvez personnaliser les r\u00e9glages d\u0027acceptation des cookies pour ce site maintenant, ou \u00e0 tout moment depuis la page \u0022G\u00e9rer les cookies\u0022. Pour accepter leur utilisation, il vous suffit de cliquer sur \u0022Tout accepter\u0022.","privacyPolicy":"Politique de cookies","privacyUri":"\/node\/193","imprint":"","imprintUri":"","cookieDocs":"","cookieDocsUri":"","officialWebsite":"Voir le site officiel","denyAll":"Tout refuser","alwaysActive":"Toujours actif","settings":"G\u00e9rer les cookies","acceptAll":"Tout accepter","requiredCookies":"Cookies requis","cookieSettings":"G\u00e9rer les cookies","close":"Fermer","readMore":"Lire la suite","allowed":"autoris\u00e9","denied":"refus\u00e9","settingsAllServices":"Param\u00e8tres pour tous les services","saveSettings":"Enregistrer","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Company","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accepter tous les cookies"},"services":{"functional":{"uuid":"e23b1fc4-5425-402a-9562-e85a9ae33481","langcode":"fr","status":true,"dependencies":[],"id":"functional","label":"Cookies requis","group":"functional","info":{"value":"\u003Cp\u003EFallback\u003C\/p\u003E\r\n","format":"full_html"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"https:\/\/alimentation.institut-agro-rennes-angers.fr\/fr\/politique-de-cookies","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"Ce contenu est bloqu\u00e9 car les cookies n\u0027ont pas \u00e9t\u00e9 accept\u00e9s.","placeholderAcceptText":"Accepter uniquement ces cookies"},"video":{"uuid":"f3a46b98-7255-4424-9f05-d6e6e755a7fb","langcode":"fr","status":true,"dependencies":{"enforced":{"module":["cookies_video"]}},"_core":{"default_config_hash":"sSU9xaVzp6lMB3DXSy0j-GJMPQx67_xI3_AQuJRaLa0"},"id":"video","label":"Vid\u00e9os h\u00e9berg\u00e9es sur YouTube ou Vimeo","group":"video","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"https:\/\/policies.google.com\/privacy","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"Ce contenu est bloqu\u00e9 car les cookies n\u0027ont pas \u00e9t\u00e9 accept\u00e9s.","placeholderAcceptText":"Accepter uniquement ces cookies"}},"groups":{"functional":{"uuid":"cbedb562-ce38-4d2e-b60e-1a5fd0e99538","langcode":"fr","status":true,"dependencies":[],"id":"functional","label":"Functional","weight":1,"title":"Cookies obligatoires","details":"Ce site utilise des cookies n\u00e9cessaires \u00e0 son bon fonctionnement qui ne peuvent pas \u00eatre d\u00e9sactiv\u00e9s.\r\n"},"performance":{"uuid":"a3a7099a-13b1-46f1-b4ce-d7c0e122800e","langcode":"fr","status":true,"dependencies":[],"_core":{"default_config_hash":"Jv3uIJviBj7D282Qu1ZpEQwuOEb3lCcDvx-XVHeOJpw"},"id":"performance","label":"Performance","weight":30,"title":"Cookies de performance","details":"Ces cookies recueillent de fa\u00e7on anonyme des donn\u00e9es servant \u00e0 mieux comprendre le comportement des visiteurs \u00e0 des fins d\u2019analyses, d\u2019am\u00e9lioration et d\u2019optimisation de la performance du site."},"social":{"uuid":"41114e9d-ff51-4aab-86cf-3cc2d79671c6","langcode":"fr","status":true,"dependencies":[],"_core":{"default_config_hash":"vog2tbqqQHjVkue0anA0RwlzvOTPNTvP7_JjJxRMVAQ"},"id":"social","label":"Social Plugins","weight":20,"title":"Social Plugins","details":"Comments managers facilitate the filing of comments and fight against spam."},"tracking":{"uuid":"6f289669-6e13-4a4e-b566-1c383eb3f600","langcode":"fr","status":true,"dependencies":[],"_core":{"default_config_hash":"_gYDe3qoEc6L5uYR6zhu5V-3ARLlyis9gl1diq7Tnf4"},"id":"tracking","label":"Suivi","weight":10,"title":"Mesure d\u2019audience","details":"Ces cookies permettent de g\u00e9n\u00e9rer des statistiques anonymes de fr\u00e9quentation du site via Google Analytics (le nombre de visites, les pages les plus vues, etc.). Ces donn\u00e9es contribuent \u00e0 identifier d\u0027\u00e9ventuels dysfonctionnements sur le site et \u00e0 am\u00e9liorer la qualit\u00e9 de nos services."},"video":{"uuid":"9bbceb3b-c671-4487-aede-aa453829e00f","langcode":"fr","status":true,"dependencies":[],"_core":{"default_config_hash":"w1WnCmP2Xfgx24xbx5u9T27XLF_ZFw5R0MlO-eDDPpQ"},"id":"video","label":"Vid\u00e9os","weight":40,"title":"Vid\u00e9os","details":"Ces cookies d\u00e9pos\u00e9s via le service de partage de vid\u00e9os YouTube ou Vimeo vous permettent de visionner les contenus multim\u00e9dia."}}},"user":{"uid":0,"permissionsHash":"ac918bec01a0b0ebe1542e097edee06c992d7216a0cf639914a38f54cf7aa4f7"}}</script>
+<script src="/sites/alimentation-durable.institut-agro.fr/files/js/js_7vec2XoS1LJqEdXSEVghnZZBv7v2T78PLYhh7MMSOBw.js"></script>
+<script src="/modules/contrib/cookies/js/cookiesjsr.conf.js?v=9.3.22" defer></script>
+
+  </head>
+  <body class="path-frontpage has-glyphicons">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Aller au contenu principal
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+          <header>
+      <nav class="navbar navbar-inverse">
+        <div class="container">         
+          <div class="navbar-header-top">            
+                                      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#langues" title="Langue"><span class="fa fa-globe fa-2x"></span></button>
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#rechercher" title="Rechercher"><span class="fa fa-search fa-2x"></span></button>
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"><span class="sr-only">Toggle navigation</span><span class="fa fa-bookmark fa-2x" ></span></button>
+                      </div>
+
+          <div class="collapse navbar-collapse">
+              <nav role="navigation" aria-labelledby="block-header-top-navigation-fr-menu" id="block-header-top-navigation-fr">
+            
+  <h2 class="visually-hidden" id="block-header-top-navigation-fr-menu">Header Top Navigation Fr</h2>
+  
+
+        
+              <ul class="nav navbar-nav navbar-right">
+                            <li>
+        <a href="https://www.institut-agro.fr/fr">L&#039;Institut Agro</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+          </div> 
+        </div>
+      </nav>
+
+          <nav role="navigation" aria-labelledby="block-header-top-navigation-collapse-fr-menu" id="block-header-top-navigation-collapse-fr">
+            
+  <h2 class="visually-hidden" id="block-header-top-navigation-collapse-fr-menu">Header Top Navigation Collapse Fr</h2>
+  
+
+        
+<div id="bs-example-navbar-collapse-1" class="collapse text-center">
+              <ul class="list-group">
+                            <li class="list-group-item">
+        <a href="/fr/tous-les-temoignages">Témoignages</a>
+                  </li>
+                        <li class="list-group-item">
+        <a href="">Découvrir l&#039;Institut Agro Rennes-Angers</a>
+                                  <ul class="list-unstyled">
+                            <li>
+        <a href="https://www.institut-agro-rennes-angers.fr/ecole/decouvrir-agrocampus-ouest/thematiques-missions-organisation">Missions et thématiques</a>
+                  </li>
+                        <li>
+        <a href="https://www.institut-agro-rennes-angers.fr/ecole/implantations/campus-de-rennes">Campus de Rennes</a>
+                  </li>
+                        <li>
+        <a href="https://www.institut-agro-rennes-angers.fr/formation/ingenieurs/ingenieur-agronome">Formation d&#039;ingénieur agronome</a>
+                  </li>
+                        <li>
+        <a href="https://www.institut-agro-rennes-angers.fr/formation/ingenieurs/ingenieur-en-agroalimentaire">Formation d&#039;ingénieur en agroalimentaire</a>
+                  </li>
+                        <li>
+        <a href="https://www.institut-agro-rennes-angers.fr/formation/masters">Offre de masters</a>
+                  </li>
+                        <li>
+        <a href="https://www.institut-agro-rennes-angers.fr/campus/vie-pratique/plans-dacces-et-des-campus">Plans d&#039;accès et des campus</a>
+                  </li>
+        </ul>
+  
+            </li>
+        </ul>
+  
+
+
+</div>
+
+
+  </nav>
+
+<div id="rechercher" class="collapse text-center">
+ 	  		
+            <form action="/search/nodes" id="search-block-form" method="get" role="search">
+<div class="form-group"><input class="input-sm" id="edit-keys" name="keys" placeholder="Rechercher sur le site" type="text" /><button class="btn btn-search" type="submit"><i class="fa fa-search"> </i></button></div>
+</form>
+      
+	</div>
+
+
+
+
+  
+
+      <div class="container"> 
+
+        <div class="row">
+          
+                   
+            <div class="col-md-10 col-sm-10 text-right">
+<form action="/search/nodes" class="navbar-form  navbar-collapse collapse" id="search-block-form" method="get" role="search">
+<div class="form-group"><input class="input-sm" id="edit-keys" name="keys" placeholder="Rechercher sur le site" type="text" /><button class="btn btn-search" type="submit"><i class="fa fa-search"> </i></button></div>
+</form>
+</div>
+
+      
+  
+
+
+         
+          
+                     
+            <div class="col-md-2 col-sm-2 col-xs-12 col-socials">
+<div class="socials">
+<ul class="social-network social-circle icons-position">
+	<li><a class="icoYoutube" href="https://www.youtube.com/@LInstitutAgro" title="Youtube"><i class="fa fa-youtube-play"> </i></a></li>
+	<li><a class="icoLinkedin" href="https://fr.linkedin.com/company/institut-agro" title="Linkedin"><i class="fa fa-linkedin"> </i></a></li>
+</ul>
+</div>
+</div>
+
+      
+  
+
+
+           
+        </div> 
+
+        <div class="row banner vertical-align">
+          <div class="col-lg-4 col-md-4 col-sm-4">
+                   
+            <p><a href="/fr"><img alt="Pôle Alimentation durable de l'Institut Agro" data-entity-type="" data-entity-uuid="" src="/files/images/logos/header/logo-pole-alimentation-durable-endossement-marianne.png" /></a></p>
+
+      
+  
+
+
+          </div> 
+          <div class="col-lg-8 col-md-8 col-sm-8 banner-title">
+              
+  
+            <h1><strong>Former • Innover • Transformer</strong></h1>
+
+      
+
+
+
+
+          </div>   
+        </div>
+
+        
+        <div class="row menu">
+          <div class="col-md-12 col-sm-12">
+            <div class="nav navbar-inverse navbar-right" role="navigation" aria-label="Menu principal">
+
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu-principal">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+              </div>   
+        
+                                          <div class="navbar-collapse collapse" id="menu-principal">
+                    
+
+        
+              <ul class="nav navbar-nav">
+                            <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="">Présentation <span class="caret"></span></a>
+                                   <ul class="dropdown-menu">
+                            <li>
+        <a href="/fr/le-pole-alimentation-durable-de-linstitut-agro" data-drupal-link-system-path="node/327">Missions</a>
+                  </li>
+                        <li>
+        <a href="/fr/gouvernance" data-drupal-link-system-path="node/374">Gouvernance</a>
+                  </li>
+                        <li>
+        <a href="/fr/lalimentation-une-thematique-forte-de-linstitut-agro" data-drupal-link-system-path="node/340">Une thématique forte de l&#039;Institut Agro</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li>
+        <a href="/fr/les-membres-du-pole-alimentation-durable" data-drupal-link-system-path="node/106">Membres du pôle</a>
+                  </li>
+                        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="">Formation <span class="caret"></span></a>
+                                   <ul class="dropdown-menu">
+                            <li>
+        <a href="/fr/formations-dingenieur" data-drupal-link-system-path="node/180">Ingénieur</a>
+                  </li>
+                        <li>
+        <a href="/fr/master-et-mastere" data-drupal-link-system-path="node/362">Master et Mastère</a>
+                  </li>
+                        <li>
+        <a href="/fr/doctorat" data-drupal-link-system-path="node/110">Doctorat</a>
+                  </li>
+                        <li>
+        <a href="/fr/formation-continue" data-drupal-link-system-path="node/179">Formation continue</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="">Innover avec le Pôle Alimentation durable <span class="caret"></span></a>
+                                   <ul class="dropdown-menu">
+                            <li>
+        <a href="/fr/unites" data-drupal-link-system-path="node/112">Unités et thématiques</a>
+                  </li>
+                        <li>
+        <a href="/fr/modalites-de-partenariat" data-drupal-link-system-path="node/114">Modalités de partenariat</a>
+                  </li>
+                        <li>
+        <a href="/fr/chaires-partenariales" data-drupal-link-system-path="node/355">Mécénat et chaires</a>
+                  </li>
+                        <li>
+        <a href="/fr/formation-continue" data-drupal-link-system-path="node/179">Former vos collaborateurs</a>
+                  </li>
+                        <li>
+        <a href="https://institut-agro.jobteaser.com" title="Career Center de l&#039;Institut Agro">Recruter vos futurs talents </a>
+                  </li>
+        </ul>
+  
+            </li>
+        </ul>
+  
+
+
+  
+
+
+              </div>
+                          
+            </div>
+          </div>       
+        </div>
+
+      </div>
+    </header>
+  
+  <main class="main-container js-quickedit-main-content">
+                              <section id="block-cookiesui" class="block block-cookies block-cookies-ui-block clearfix">
+  
+    
+
+        
+<div id="cookiesjsr"></div>
+
+  </section>
+
+<div data-drupal-messages-fallback class="hidden"></div>
+
+ 
+      
+<section class="homepage-news">
+  <div class="container">
+    <div id="views-bootstrap-news-homepage-news" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" data-wrap="1">
+
+        <ol class="carousel-indicators">
+                      <li class="active" data-target="#views-bootstrap-news-homepage-news" data-slide-to="0"></li>
+                      <li class="" data-target="#views-bootstrap-news-homepage-news" data-slide-to="1"></li>
+                      <li class="" data-target="#views-bootstrap-news-homepage-news" data-slide-to="2"></li>
+          </ol>
+  
+    <div class="carousel-inner" role="listbox">
+                <div class="item active">
+          <img src="/sites/alimentation-durable.institut-agro.fr/files/images/actualites/Bandeau-strategie-nationale-alimentation-climat.jpg" width="1140" height="290" alt="Globe terrestre dans une assiette" loading="lazy" typeof="foaf:Image" class="img-responsive" />
+
+
+                  <div class="carousel-caption">
+            <h2>Actualité</h2>
+                              <h3> <a href="https://agriculture.gouv.fr/consultation-publique-projet-de-strategie-nationale-pour-lalimentation-la-nutrition-et-le-climat">Projet de Stratégie nationale pour l’alimentation, la nutrition et le climat</a>
+ </h3>
+                                            <p> <a href="https://agriculture.gouv.fr/consultation-publique-projet-de-strategie-nationale-pour-lalimentation-la-nutrition-et-le-climat">Consultation publique ouverte jusqu&#039;au 4 mai</a>
+ </p>
+                        </div>
+              </div>
+                <div class="item ">
+          <img src="/sites/alimentation-durable.institut-agro.fr/files/images/actualites/justice%20sociale.jpg" width="1140" height="290" alt="distibution alimentaire" loading="lazy" typeof="foaf:Image" class="img-responsive" />
+
+
+                  <div class="carousel-caption">
+            <h2>Actualité</h2>
+                              <h3> <a href="/fr/toutes-les-actualites/justice-sociale-alimentaire">Justice sociale alimentaire</a>
+ </h3>
+                                            <p> <a href="/fr/toutes-les-actualites/justice-sociale-alimentaire">Diagnostic &amp; perspectives portés par nos étudiants en agroéconomie</a>
+ </p>
+                        </div>
+              </div>
+                <div class="item ">
+          <img src="/sites/alimentation-durable.institut-agro.fr/files/images/actualites/Design%20sans%20titre-2.jpg" width="1140" height="290" alt="E3S" loading="lazy" typeof="foaf:Image" class="img-responsive" />
+
+
+                  <div class="carousel-caption">
+            <h2>Actualité</h2>
+                              <h3> <a href="https://e3sensory.eu/13th-e3s-annual-symposium-2025/">13e symposium annuel et assemblée générale de l&#039;E3S 2025</a>
+ </h3>
+                                            <p> <a href="https://e3sensory.eu/13th-e3s-annual-symposium-2025/">Elargir les horizons de la science sensorielle- Inscriptions</a>
+ </p>
+                        </div>
+              </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+ 
+
+
+  
+
+<section id="block-link-to-all-news" class="block block-block-content block-block-content45d90176-4c0e-4776-a53a-cc75bd03cc25 clearfix">
+  
+    
+
+      
+            <section class="divider-no-image">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<p><a class="pull-right" href="/toutes-les-actualites"><span class="btn btn-default btn-savoirplus btn-sm">Toutes les actualités <i class="fa fa-chevron-right"> </i></span></a></p>
+</div>
+</div>
+</div>
+</section>
+
+      
+  </section>
+
+  
+  
+    
+      
+     
+          
+<section class="section-focus">
+  <div class="container">
+    <!-- Focus Section -->
+      <div class="row row-thumbnail">
+        
+      
+
+
+
+
+
+
+
+<div class="paragraph paragraph--type--bp-view paragraph--view-mode--default paragraph--id--98">
+  <div class="paragraph__column">
+        
+      
+              
+  
+        
+        
+	<div class="col-md-8 col-sm-12 col-xs-12 ">
+<div class="homepage-text">
+<h2>Qui sommes-nous ?</h2>
+
+
+
+
+
+
+
+
+<div class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--348">
+  <div class="paragraph__column">
+        
+            <p>Le pôle Alimentation durable de l’Institut Agro coordonne l’ensemble des activités de formation, de recherche et d’expertise dans le domaine de l’alimentation menées au sein des trois écoles de Dijon, Montpellier et Rennes-Angers. Fédérant expertes et experts en science des aliments, génie des procédés, sciences humaines et sociales, nutrition et science des données, le pôle Alimentation durable de l’Institut Agro œuvre à transformer les pratiques alimentaires en intégrant les dimensions écologiques, sociales et économiques.<br />
+Notre ambition : <strong>proposer des solutions concrètes aux enjeux alimentaires d’aujourd’hui et innover pour anticiper les défis de demain.</strong></p>
+
+      
+  </div>
+</div>
+
+</div>
+</div>
+
+
+     
+
+
+
+              <div class="col-md-4 col-sm-12 col-xs-12">
+	<div class="thumbnail thumbnail-contact">
+	<h2>Contact</h2>
+  		
+	   <p><br />
+<strong>Pôle Alimentation durable</strong><br />
+<strong>L'Institut Agro</strong><br />
+Animation et coordination : <br />
+Jonathan Valila et Sylvie Thoby<br />
+<a href="mailto:alimentation-durable@institut-agro.fr">alimentation-durable@institut-agro.fr</a></p>
+
+
+
+  	</div>
+</div>
+
+
+      
+  
+  </div>
+</div>
+
+  
+      </div>
+  </div>
+</section>
+ 
+
+    
+  
+      
+          
+
+<section class="views-element-container block-views-blockquotes-homepage-quotes clearfix" id="block-views-block-homepage-quotes">
+  
+    
+
+      <div class="container">
+  
+        <div class="row">
+      <div class="col-md-offset-2 col-md-8 col-xs-12">
+        
+<div id="views-bootstrap-quotes-homepage-quotes" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" data-wrap="1">
+
+        <ol class="carousel-indicators">
+                      <li class="active" data-target="#views-bootstrap-quotes-homepage-quotes" data-slide-to="0"></li>
+                      <li class="" data-target="#views-bootstrap-quotes-homepage-quotes" data-slide-to="1"></li>
+                      <li class="" data-target="#views-bootstrap-quotes-homepage-quotes" data-slide-to="2"></li>
+                      <li class="" data-target="#views-bootstrap-quotes-homepage-quotes" data-slide-to="3"></li>
+          </ol>
+  
+    <div class="carousel-inner" role="listbox">
+                  <div class="item active">
+          <blockquote>
+            <div class="row">
+              <div class="col-sm-3 text-center">
+                  <a href="/fr/tous-les-temoignages/hamadel-eleve-ingenieur-en-agroalimentaire" hreflang="fr"><img src="/sites/alimentation-durable.institut-agro.fr/files/images/temoignages/img-hamadel.jpg" width="140" height="140" alt="Hamadel" loading="lazy" typeof="foaf:Image" class="img-responsive" />
+</a>
+
+              </div>
+              <div class="col-sm-9">
+                                    <h2>Témoignage</h2>
+                                        <h3><a href="/fr/tous-les-temoignages/hamadel-eleve-ingenieur-en-agroalimentaire" hreflang="fr">Hamadel, élève-ingénieur en agroalimentaire</a></h3>
+                                                            <p><a href="/fr/tous-les-temoignages/hamadel-eleve-ingenieur-en-agroalimentaire" hreflang="fr">Aujourd&#039;hui en 5e année (M2) en spécialisation SAME, Hamadel nous présente son parcours depuis le bac jusqu&#039;à son stage de fin d&#039;études.</a></p>
+                                                  </div>
+            </div>
+          </blockquote>
+        </div>     
+                  <div class="item ">
+          <blockquote>
+            <div class="row">
+              <div class="col-sm-3 text-center">
+                  <a href="/fr/tous-les-temoignages/ambre-jeune-diplomee-ingenieure-en-agroalimentaire" hreflang="fr"><img src="/sites/alimentation-durable.institut-agro.fr/files/images/temoignages/img-ambre-g.jpg" width="140" height="140" alt="Ambre" loading="lazy" typeof="foaf:Image" class="img-responsive" />
+</a>
+
+              </div>
+              <div class="col-sm-9">
+                                    <h2>Témoignage</h2>
+                                        <h3><a href="/fr/tous-les-temoignages/ambre-jeune-diplomee-ingenieure-en-agroalimentaire" hreflang="fr">Ambre, jeune diplômée ingénieure en agroalimentaire</a></h3>
+                                                            <p><a href="/fr/tous-les-temoignages/ambre-jeune-diplomee-ingenieure-en-agroalimentaire" hreflang="fr">Formation &quot;Manager de demain&quot;, stages, projets professionnels, découvrez les raisons pour lesquelles elle a choisi l&#039;Institut Agro</a></p>
+                                                  </div>
+            </div>
+          </blockquote>
+        </div>     
+                  <div class="item ">
+          <blockquote>
+            <div class="row">
+              <div class="col-sm-3 text-center">
+                  <a href="/fr/tous-les-temoignages/julien-ingenieur-en-agroalimentaire-diplome-par-apprentissage" hreflang="fr"><img src="/sites/alimentation-durable.institut-agro.fr/files/images/temoignages/img-julien-t.jpg" width="140" height="140" alt="Julien" loading="lazy" typeof="foaf:Image" class="img-responsive" />
+</a>
+
+              </div>
+              <div class="col-sm-9">
+                                    <h2>Témoignage</h2>
+                                        <h3><a href="/fr/tous-les-temoignages/julien-ingenieur-en-agroalimentaire-diplome-par-apprentissage" hreflang="fr">Julien, ingénieur en agroalimentaire diplômé par apprentissage</a></h3>
+                                                            <p><a href="/fr/tous-les-temoignages/julien-ingenieur-en-agroalimentaire-diplome-par-apprentissage" hreflang="fr">Retour sur son cursus, ses stages et son projet professionnel.</a></p>
+                                                  </div>
+            </div>
+          </blockquote>
+        </div>     
+                  <div class="item ">
+          <blockquote>
+            <div class="row">
+              <div class="col-sm-3 text-center">
+                  <a href="/fr/tous-les-temoignages/amandine-apprentie-ingenieure-en-agroalimentaire" hreflang="fr"><img src="/sites/alimentation-durable.institut-agro.fr/files/images/temoignages/img-amandine-m.jpg" width="140" height="140" alt="Amandine" loading="lazy" typeof="foaf:Image" class="img-responsive" />
+</a>
+
+              </div>
+              <div class="col-sm-9">
+                                    <h2>Témoignage</h2>
+                                        <h3><a href="/fr/tous-les-temoignages/amandine-apprentie-ingenieure-en-agroalimentaire" hreflang="fr">Amandine, apprentie ingénieure en agroalimentaire</a></h3>
+                                                            <p><a href="/fr/tous-les-temoignages/amandine-apprentie-ingenieure-en-agroalimentaire" hreflang="fr">Formation, stages, expérience marquante, conseils aux futurs étudiants, découvrez son parcours.</a></p>
+                                                  </div>
+            </div>
+          </blockquote>
+        </div>     
+      </div>
+
+        <a class="left carousel-control" href="#views-bootstrap-quotes-homepage-quotes" role="button" data-slide="prev">
+      <i class="fa fa-chevron-left chevron-left"></i>
+    </a>
+    <a class="right carousel-control" href="#views-bootstrap-quotes-homepage-quotes" role="button" data-slide="next">
+      <i class="fa fa-chevron-right chevron-right"></i>
+    </a>
+  </div>
+
+      </div>
+    </div>
+     
+</div>
+
+
+  </section>
+
+<section id="block-link-to-all-quotes" class="block block-block-content block-block-contentc9bfd563-e86f-460e-a934-ed4ddeeaf699 clearfix">
+  
+    
+
+      
+            <section class="divider-no-image">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<p><a class="pull-right" href="/tous-les-temoignages"><span class="btn btn-default btn-savoirplus btn-sm">Tous les témoignages <i class="fa fa-chevron-right"> </i></span></a></p>
+</div>
+</div>
+</div>
+</section>
+
+      
+  </section>
+
+	<section id="block-views-block-one-click-items">
+		<div class="container">
+	  		
+	 								<h2>Découvrir l'Institut Agro</h2>
+	  				  		<div class="row">		
+	  								<div class="view view-one-click-items view-id-one_click_items view-display-id-one_click_six_items js-view-dom-id-7ceb90a64e2bef2addd1a3fd2037b17ff2835914420568d3ce2c56a724120eef">
+  
+    
+      
+      <div class="view-content">
+          <div><div class="col-lg-4 col-md-4 col-sm-4 iconbox"><a href="https://www.institut-agro.fr/fr/qui-sommes-nous"><i class="icon-ao-alumni icon-orange"> </i></a>
+<div class="iconlabel"><a class="white" href="https://www.institut-agro.fr/fr/qui-sommes-nous">Qui sommes-nous ?</a></div>
+</div></div>
+    <div><div class="col-lg-4 col-md-4 col-sm-4 iconbox"><a href="https://www.institut-agro.fr/fr/nos-missions"><i class="icon-ao-hand-soil icon-orange"> </i></a>
+<div class="iconlabel"><a class="white" href="https://www.institut-agro.fr/fr/nos-missions">Nos missions</a></div>
+</div></div>
+    <div><div class="col-lg-4 col-md-4 col-sm-4 iconbox"><a href="https://www.institut-agro.fr/fr/ambitions-strategie"><i class="icon-ao-logo icon-orange"> </i></a>
+<div class="iconlabel"><a class="white" href="https://www.institut-agro.fr/fr/ambitions-strategie">Ambitions et Stratégie</a></div>
+</div></div>
+
+    </div>
+  
+          </div>
+
+
+	  				  		</div>
+	  	</div>
+	</section>
+	<section class="divider"></section>
+
+          
+  </main>
+
+      <footer class="footer" role="contentinfo">
+      <div class="container">
+        <div class="row">
+        <div class="col-sm-2 col-md-3 col-lg-2 adresse">
+              <section id="block-footerlogo" class="block block-block-content block-block-content6bbc06ca-99f2-434c-8c94-a5a9f6ed147b clearfix">
+  
+    
+
+      
+            <p><a href="/fr"><img alt="logo IA" class="img-responsive" data-entity-type="" data-entity-uuid="" data-image-style="format_1_1_large_200x200_image_style" src="/files/images/logos/footer/logo-institut-agro-blanc.png" /></a></p>
+
+      
+  </section>
+
+
+
+          </div> 
+          <div class="col-sm-2 col-md-3 col-lg-2 adresse">
+              
+  
+            <p><strong>L'Institut Agro Dijon</strong><br />
+26, bd Docteur Petitjean<br />
+21079 Dijon Cedex</p>
+
+<p><strong>L'Institut Agro Montpellier</strong><br />
+2, place Pierre Viala<br />
+34060 Montpellier</p>
+
+<p><strong>L'Institut Agro Rennes-Angers</strong><br />
+65, rue de Saint-Brieuc<br />
+CS 84215<br />
+35042 Rennes Cedex</p>
+
+      
+
+
+
+
+          </div>
+          <div class="col-sm-2 col-md-2 col-lg-2 menu-footer">
+              <nav role="navigation" aria-labelledby="block-menu-footer-fr-menu" id="block-menu-footer-fr">
+            
+  <h2 class="visually-hidden" id="block-menu-footer-fr-menu">Pied de page fr</h2>
+  
+
+        
+              <ul class="list-unstyled">
+                            <li>
+        <a href="/fr/mentions-legales" data-drupal-link-system-path="node/2">Mentions légales</a>
+                  </li>
+                        <li>
+        <a href="/fr/politique-de-cookies" data-drupal-link-system-path="node/193">Politique de cookies</a>
+                  </li>
+                        <li>
+        <a href="#editCookieSettings">Gérer les cookies</a>
+                  </li>
+                        <li>
+        <a href="/fr/plan-du-site" data-drupal-link-system-path="node/198">Plan du site</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-connexion-menu" id="block-connexion">
+            
+  <h2 class="visually-hidden" id="block-connexion-menu">Connexion</h2>
+  
+
+        
+              <ul class="list-unstyled">
+                            <li>
+        <a href="/fr/caslogin" data-drupal-link-system-path="caslogin">Se connecter</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-6 partners">
+              
+  
+            <div class="row">
+<div class="col-md-4 col-sm-6 col-xs-4">
+<p>Sous tutelle des ministères</p>
+</div>
+
+<div class="col-md-8 col-sm-6 col-xs-8">
+<ul class="list-unstyled list-inline">
+	<li><a href="https://agriculture.gouv.fr/"><img alt="Logo du ministère en charge de l'agriculture" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo_maaf.png" /></a></li>
+	<li><a href="http://www.enseignementsup-recherche.gouv.fr/"><img alt="Logo du ministère de l'enseignement supérieur et de la recherche" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo_menesr.png" /></a></li>
+</ul>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-4 col-sm-6 col-xs-4">
+<p>Membre</p>
+</div>
+
+<div class="col-md-8 col-sm-6 col-xs-8">
+<ul class="list-unstyled list-inline">
+	<li><a href="https://www.cge.asso.fr/"><img alt="Logo CGE" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo-cge.png" /></a></li>
+	<li><a href="http://www.cdefi.fr/"><img alt="Logo CDEFI" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo-cdefi.png" /></a></li>
+	<li><a href="https://www.agreenium.fr/"><img alt="Logo Agreenium" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo-agreenium.png" /></a></li>
+	<li><a href="https://www.euroleague-study.org/en"><img alt="Logo ELLS" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo-ells.png" /></a></li>
+</ul>
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-4 col-sm-6 col-xs-4">
+<p>Labellisé</p>
+</div>
+
+<div class="col-md-8 col-sm-6 col-xs-8">
+<ul class="list-unstyled list-inline">
+	<li><a href="https://cirses.fr/presentation-du-label-ddrs"><img alt="Logo Label DD&amp;RSE" src="https://www.institut-agro-rennes-angers.fr/files/images/logos/footer/logo-label-ddrs.png" /></a></li>
+</ul>
+</div>
+</div>
+
+      
+
+
+
+
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 copyright">
+              
+  
+            <ul class="list-inline">
+	<li><a class="icon" href="https://www.youtube.com/@LInstitutAgro" title="Youtube"><i class="fa fa-youtube-play"> </i></a></li>
+	<li><a class="icon" href="https://www.linkedin.com/company/l-institut-agro/" title="Linkedin"><i class="fa fa-linkedin"> </i></a></li>
+</ul>
+
+      
+
+
+
+
+ 	  		
+            <p>© 2026 - <strong><a href="https://www.institut-agro.fr/fr">L'Institut Agro</a></strong> - Institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement</p>
+
+      
+	
+
+
+
+          </div>
+        </div>
+      </div>
+    </footer>
+   
+
+
+  </div>
+
+    
+    <script src="/sites/alimentation-durable.institut-agro.fr/files/js/js_LoMuIGnLQoEn-DxVoWmqigabjnia_ejs_Me0AQK2F64.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/jfeltkamp/cookiesjsr@1/dist/cookiesjsr-preloader.min.js" defer></script>
+
+    
+  </body>
+</html>

@@ -1,0 +1,572 @@
+
+
+
+    
+        
+    
+
+
+    
+
+    
+
+    
+
+</BOUCLE_nivo>
+    
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Journées de restitution du projet Obsoalim34</title>
+    <meta name="description" content="Deux demi-journ&#233;es organis&#233;es &#224; B&#233;ziers et Montpellier autour des principaux enseignements et des futurs possibles du projet Obsoalim34." />
+        
+	<link rel="canonical" href="https://www.chaireunesco-adm.com/Agenda" />
+
+	
+	<link rel="alternate" type="application/rss+xml" title="Syndiquer cette rubrique" href="spip.php?page=backend&amp;id_rubrique=146" />
+
+
+      <!-- Bootstrap CSS -->
+      <link href="squelettes/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+    
+      <!-- Font Awesome for icons -->
+      <link href="squelettes/css/fontawesome/all.min.css" rel="stylesheet">
+      
+      <!-- Google Fonts -->
+      <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap" rel="stylesheet">
+       -->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap" rel="stylesheet">
+      <link href="squelettes/css/style.css" rel="stylesheet">
+      <link href="squelettes/css/sidebar.css" rel="stylesheet">
+      <link href="squelettes/css/footer.css" rel="stylesheet">
+  
+      <link rel="alternate" type="application/rss+xml" title="Syndiquer tout le site" href="spip.php?page=backend" />
+
+
+
+  
+    
+<link rel="alternate" href="Journees-de-restitution-du-projet-Obsoalim34" hreflang="fr" />
+    
+  
+
+
+<script>
+var mediabox_settings={"auto_detect":true,"ns":"box","tt_img":true,"sel_g":"#documents_portfolio a[type='image\/jpeg'],#documents_portfolio a[type='image\/png'],#documents_portfolio a[type='image\/gif']","sel_c":".mediabox","str_ssStart":"Diaporama","str_ssStop":"Arr\u00eater","str_cur":"{current}\/{total}","str_prev":"Pr\u00e9c\u00e9dent","str_next":"Suivant","str_close":"Fermer","str_loading":"Chargement\u2026","str_petc":"Taper \u2019Echap\u2019 pour fermer","str_dialTitDef":"Boite de dialogue","str_dialTitMed":"Affichage d\u2019un media","splash_url":"","lity":{"skin":"_simple-dark","maxWidth":"90%","maxHeight":"90%","minWidth":"400px","minHeight":"","slideshow_speed":"2500","opacite":"0.9","defaultCaptionState":"expanded"}};
+</script>
+<!-- insert_head_css -->
+<link rel="stylesheet" href="plugins-dist/mediabox/lib/lity/lity.css?1791469266" type="text/css" media="all" />
+<link rel="stylesheet" href="plugins-dist/mediabox/lity/css/lity.mediabox.css?1791469266" type="text/css" media="all" />
+<link rel="stylesheet" href="plugins-dist/mediabox/lity/skins/_simple-dark/lity.css?1791469322" type="text/css" media="all" /><link rel="stylesheet" type="text/css" href="plugins/auto/oembed/v3.5.1/css/oembed.css?1790159342" />
+
+
+
+<link rel="icon" type="image/x-icon" href="favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+
+
+
+<script type="text/javascript" src="js/tarteaucitron/tarteaucitron.min.js"></script>
+
+<script type="text/javascript">
+tarteaucitron.init({
+  "privacyUrl": "https://www.chaireunesco-adm.com/mentions-legales", /* Privacy policy url */
+
+  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+  "cookieName": "tartaucitron", /* Cookie name */
+
+  "orientation": "bottom", /* Banner position (top - bottom) */
+  "showAlertSmall": true, /* Show the small banner on bottom right */
+  "cookieslist": true, /* Show the cookie list */
+
+  "adblocker": false, /* Show a Warning if an adblocker is detected */
+  "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+  "highPrivacy": false, /* Disable auto consent */
+  "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+  "removeCredit": false, /* Remove credit link */
+  "moreInfoLink": true, /* Show more info link */
+  "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+
+  //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
+                  
+  "readmoreLink": "https://www.chaireunesco-adm.com/mentions-legales" /* Change the default readmore link */
+});
+</script>
+
+<script src="squelettes/js/main.js" defer></script> 
+  
+</head>
+<body>
+    
+<header class="main-header">
+    <div class="container">
+        <nav class="navbar navbar-expand-md">
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <a href="./" id="logo-accueil-link">
+                                <img src="squelettes/images/logo-unesco.png" alt="Chaire UNESCO" class="logo-accueil-header col-md-5">
+                            </a>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                                        
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="La-Chaire" data-section="La Chaire|lowercase">La Chaire</a>
+                        <button type="button" class="dropdown-toggle-btn d-md-none" aria-expanded="false" aria-label="Ouvrir le sous-menu"><i class="fas fa-chevron-down"></i></button>
+                        <ul class="dropdown-menu">
+                            
+                            <li><a class="dropdown-item" href="Qui-sommes-nous">Qui sommes-nous&nbsp;?</a></li>
+                            
+                            <li><a class="dropdown-item" href="L-equipe">L&#8217;équipe</a></li>
+                            
+                            <li><a class="dropdown-item" href="Gouvernance-175">Gouvernance</a></li>
+                            
+                            <li><a class="dropdown-item" href="Rapports-d-activites">Rapports d&#8217;activités</a></li>
+                            
+                            <li><a class="dropdown-item" href="Notre-reseau-international">Notre réseau international </a></li>
+                            
+                            <li><a class="dropdown-item" href="Dans-les-medias">Dans les médias</a></li>
+                            
+                            <li><a class="dropdown-item" href="Agenda">Agenda</a></li>
+                            
+                            <li><a class="dropdown-item" href="Actualites">Actualités</a></li>
+                            
+                            <li><a class="dropdown-item" href="Contacter-la-chaire">Nous contacter</a></li>
+                            
+                        </ul>
+                    </li>
+                                        <div class="vr"></div>
+                                        
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="Thematiques" data-section="Thématiques|lowercase">Thématiques</a>
+                        <button type="button" class="dropdown-toggle-btn d-md-none" aria-expanded="false" aria-label="Ouvrir le sous-menu"><i class="fas fa-chevron-down"></i></button>
+                        <ul class="dropdown-menu">
+                            
+                            <li><a class="dropdown-item" href="Durabilite-des-systemes-alimentaires">Durabilité des systèmes alimentaires</a></li>
+                            
+                            <li><a class="dropdown-item" href="Systemes-alimentaires-urbains">Systèmes alimentaires urbains</a></li>
+                            
+                            <li><a class="dropdown-item" href="Solidarites-alimentaires">Solidarités alimentaires</a></li>
+                            
+                        </ul>
+                    </li>
+                                        <div class="vr"></div>
+                                        
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="Formations" data-section="Formations|lowercase">Formations</a>
+                        <button type="button" class="dropdown-toggle-btn d-md-none" aria-expanded="false" aria-label="Ouvrir le sous-menu"><i class="fas fa-chevron-down"></i></button>
+                        <ul class="dropdown-menu">
+                            
+                            <li><a class="dropdown-item" href="Mastere-specialise-R-IPAD">Mastère spécialisé® IPAD</a></li>
+                            
+                            <li><a class="dropdown-item" href="Seminaire-alimentation-durable">Séminaire alimentation durable</a></li>
+                            
+                            <li><a class="dropdown-item" href="Formation-continue">Formation continue</a></li>
+                            
+                            <li><a class="dropdown-item" href="MOOC-Formation-en-ligne">MOOC / Formation en ligne</a></li>
+                            
+                        </ul>
+                    </li>
+                                        <div class="vr"></div>
+                                        
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="Projets" data-section="Projets|lowercase">Projets</a>
+                        <button type="button" class="dropdown-toggle-btn d-md-none" aria-expanded="false" aria-label="Ouvrir le sous-menu"><i class="fas fa-chevron-down"></i></button>
+                        <ul class="dropdown-menu">
+                            
+                            <li><a class="dropdown-item" href="TerrAsol">TerrAsol</a></li>
+                            
+                            <li><a class="dropdown-item" href="Obsoalim-34">Obsoalim 34</a></li>
+                            
+                            <li><a class="dropdown-item" href="AfriFOODlinks-674">AfriFOODlinks</a></li>
+                            
+                            <li><a class="dropdown-item" href="Restauration-scolaire">Restauration scolaire</a></li>
+                            
+                            <li><a class="dropdown-item" href="URBAL-193-193">Urbal</a></li>
+                            
+                            <li><a class="dropdown-item" href="Surfood-Sustainable-Urban-Food-System">Surfood (Sustainable Urban Food System)</a></li>
+                            
+                            <li><a class="dropdown-item" href="Foodscapes-502">Foodscapes</a></li>
+                            
+                            <li><a class="dropdown-item" href="Wecco">Wecco</a></li>
+                            
+                            <li><a class="dropdown-item" href="Solaci-678">Solaci</a></li>
+                            
+                        </ul>
+                    </li>
+                                        <div class="vr"></div>
+                                        
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="Evenements" data-section="Événements|lowercase">Événements</a>
+                        <button type="button" class="dropdown-toggle-btn d-md-none" aria-expanded="false" aria-label="Ouvrir le sous-menu"><i class="fas fa-chevron-down"></i></button>
+                        <ul class="dropdown-menu">
+                            
+                            <li><a class="dropdown-item" href="Colloques-annuels">Colloques annuels</a></li>
+                            
+                            <li><a class="dropdown-item" href="Rencontres-solidarites-alimentaires">Rencontres solidarités alimentaires</a></li>
+                            
+                            <li><a class="dropdown-item" href="JIPAD">JIPAD</a></li>
+                            
+                            <li><a class="dropdown-item" href="Conferences">Conférences</a></li>
+                            
+                            <li><a class="dropdown-item" href="Webinaires">Webinaires</a></li>
+                            
+                        </ul>
+                    </li>
+                                        <div class="vr"></div>
+                                        
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="Ressources-23" data-section="Ressources|lowercase">Ressources</a>
+                        <button type="button" class="dropdown-toggle-btn d-md-none" aria-expanded="false" aria-label="Ouvrir le sous-menu"><i class="fas fa-chevron-down"></i></button>
+                        <ul class="dropdown-menu">
+                            
+                            <li><a class="dropdown-item" href="Une-ecologie-de-l-alimentation-377">Une écologie de l&#8217;alimentation</a></li>
+                            
+                            <li><a class="dropdown-item" href="So-What">So What&nbsp;?</a></li>
+                            
+                            <li><a class="dropdown-item" href="En-Bref">En Bref&nbsp;!</a></li>
+                            
+                            <li><a class="dropdown-item" href="Grand-Angle-546">Grand Angle</a></li>
+                            
+                            <li><a class="dropdown-item" href="Opinions">Opinions</a></li>
+                            
+                            <li><a class="dropdown-item" href="Rapports">Rapports</a></li>
+                            
+                            <li><a class="dropdown-item" href="Ouvrages-684">Ouvrages</a></li>
+                            
+                        </ul>
+                    </li>
+                                        
+                                    </ul>
+            </div>
+
+            
+            
+            
+        </nav>
+    </div>
+
+
+    
+
+    
+        
+            
+        
+    
+
+     
+    <section class="header-image"></section>
+    
+
+</header>
+
+<script>
+(function() {
+    var params = new URLSearchParams(window.location.search);
+    var currentLang = params.get('lang');
+
+    // Mise à jour des boutons de toggle langue
+    var urlFr = new URL(window.location.href);
+    urlFr.searchParams.set('lang', 'fr');
+    urlFr.searchParams.delete('var_mode');
+    document.querySelector('.language-toggle a.lang-fr').href = urlFr.toString();
+
+    var urlEn = new URL(window.location.href);
+    urlEn.searchParams.set('lang', 'en');
+    urlEn.searchParams.delete('var_mode');
+    document.querySelector('.language-toggle a.lang-en').href = urlEn.toString();
+
+    // Si la page est en anglais, ajouter ?lang=en à tous les liens du menu
+    if (currentLang === 'en') {
+        document.querySelectorAll('.navbar-nav a').forEach(function(a) {
+            try {
+                var u = new URL(a.href);
+                u.searchParams.set('lang', 'en');
+                a.href = u.toString();
+            } catch(e) {}
+        });
+    }
+
+    // Menu mobile : le clic sur le chevron déroule le sous-menu (le lien texte garde sa navigation normale)
+    function fermerTousLesMenus() {
+        document.querySelectorAll('.nav-item.dropdown.show').forEach(function(item) {
+            item.classList.remove('show');
+            var b = item.querySelector('.dropdown-toggle-btn');
+            if (b) b.setAttribute('aria-expanded', 'false');
+        });
+    }
+
+    document.querySelectorAll('.nav-item.dropdown > .dropdown-toggle-btn').forEach(function(btn) {
+        btn.addEventListener('click', function(e) {
+            e.stopPropagation();
+            var item = btn.closest('.nav-item.dropdown');
+            var isOpen = item.classList.contains('show');
+            fermerTousLesMenus();
+            if (!isOpen) {
+                item.classList.add('show');
+                btn.setAttribute('aria-expanded', 'true');
+            }
+        });
+    });
+
+    document.addEventListener('click', function(e) {
+        if (!e.target.closest('.nav-item.dropdown')) fermerTousLesMenus();
+    });
+})();
+</script>    <main class="container-fluid p-0" id="defaut">
+    <section class="breadcrumb-section article-breadcrumb">
+    <div class="container py-3">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Accueil</a></li>
+                
+                    <li class="breadcrumb-item"><a href="La-Chaire">La Chaire</a></li>
+                
+                    <li class="breadcrumb-item"><a href="Agenda">Agenda</a></li>
+                
+                <li class="breadcrumb-item active" aria-current="page">Journées de restitution du projet Obsoalim34</li>
+            </ol>
+        </nav>
+    </div>
+</section>
+    <div class="container">
+        <div class="row justify-content-end">
+            <div class="col-xl-9 col-lg-9">
+                <h1 class="page-title-courant mt-5">Journées de restitution du projet Obsoalim34</h1>
+            </div>
+        </div>
+
+        <div class="row justify-content-start">
+
+            <div class="col-lg-3">
+                <div class="sidebar-container">
+                    <div class="sidebar-auteurs">
+                        <div class="sidebar-auteurs-content">
+                            <p><a href="https://framaforms.org/inscription-aux-demi-journees-de-restitution-du-projet-obsoalim-34-1792508481" class="spip_out" rel="external">S&#8217;inscrire</a></p>
+<p><a href="Food-solidarities" class="spip_in" hreflang="en">En savoir plus sur Obsoalim34</a></p>
+<p><a href="Diagnostiquer-la-precarite-alimentaire-en-milieu-rural-une-demarche-qualitative" class="spip_in">Diagnostiquer la précarité alimentaire en milieu rural&nbsp;: une démarche qualitative dans deux territoires pilotes de l’Hérault</a></p>
+<p><a href="Une-approche-territoriale-des-facteurs-de-precarite-alimentaire-utilisant-des" class="spip_in">Une approche territoriale des facteurs de précarité alimentaire utilisant des données en libre accès</a></p>
+                        </div>
+                        <button type="button" class="sidebar-auteurs-toggle" aria-expanded="false">
+                            <span class="label-closed"><span class="text-fr">Voir plus</span><span class="text-en">See more</span></span>
+                            <span class="label-open"><span class="text-fr">Voir moins</span><span class="text-en">See less</span></span>
+                            <i class="fas fa-chevron-down"></i>
+                        </button>
+                    </div>                    
+                </div>
+            </div>
+
+            <div class="col-lg-8">
+                <div class="my-3">
+                    
+                </div>
+
+                <div class="chapo"><p>Deux demi-journées organisées à Béziers et Montpellier autour des principaux enseignements et des futurs possibles du projet Obsoalim34.</p></div>
+
+                <p>Le Département de l&#8217;Hérault et la Chaire vous convient à deux demi-journées de restitution des résultats du projet Obsoalim34.</p>
+<ul class="spip" role="list"><li> Lundi 30 novembre au domaine départemental de Bayssan à Béziers de 14h à 17h</li><li> Lundi 14 décembre au domaine départemental de Pierres Vives à Montpellier de 14h à 17h</li></ul>
+<p>Ces rencontres seront l&#8217;occasion de revenir sur les principales réalisations et les enseignements du projet, à travers la présentation de la synthèse des différentes rencontres inter-acteurs et des témoignages de participants (associations, PAT). Elles permettront également d&#8217;ouvrir une réflexion collective sur les enjeux et les perspectives du projet, à travers des temps d&#8217;échange et des ateliers participatifs.</p>
+<p>&#128221; <a href="https://framaforms.org/inscription-aux-demi-journees-de-restitution-du-projet-obsoalim-34-1792508481" class="spip_out" rel="external">S&#8217;inscrire</a></p>
+<div class='spip_document_6634 spip_document spip_documents spip_document_image spip_documents_center spip_document_center'>
+<figure class="spip_doc_inner">
+
+ <a href="IMG/png/journees_de_restitution_obsoalim.png"  class="spip_doc_lien mediabox" type="image/png">
+		<img src='IMG/png/journees_de_restitution_obsoalim.png' width="1414" height="2000" alt='' /></a>
+</figure>
+</div>
+
+                
+
+                
+
+                
+
+                
+
+                
+
+            </div>
+
+        </div>
+    </div>
+</main>    <!-- <section class="chaire main" style="min-height: 800px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-3 col-md-9 col-sm-offset-3 col-sm-9">
+				                    <p class="arbo"><a href="https://www.chaireunesco-adm.com/?lang=fr">Accueil</a> &gt; <a href="La-Chaire">La Chaire</a> &gt; <a href="Agenda">Agenda</a> &gt; <strong class="on">Journées de restitution du projet Obsoalim34</strong></p>
+                            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-9">
+                <div class="surtitre">&nbsp;</div>
+                <h1>Journées de restitution du projet Obsoalim34</h1>
+                
+                                    
+                            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-8">
+                <div class="textarticle"><p>Le Département de l&#8217;Hérault et la Chaire vous convient à deux demi-journées de restitution des résultats du projet Obsoalim34.</p>
+<ul class="spip" role="list"><li> Lundi 30 novembre au domaine départemental de Bayssan à Béziers de 14h à 17h</li><li> Lundi 14 décembre au domaine départemental de Pierres Vives à Montpellier de 14h à 17h</li></ul>
+<p>Ces rencontres seront l&#8217;occasion de revenir sur les principales réalisations et les enseignements du projet, à travers la présentation de la synthèse des différentes rencontres inter-acteurs et des témoignages de participants (associations, PAT). Elles permettront également d&#8217;ouvrir une réflexion collective sur les enjeux et les perspectives du projet, à travers des temps d&#8217;échange et des ateliers participatifs.</p>
+<p>&#128221; <a href="https://framaforms.org/inscription-aux-demi-journees-de-restitution-du-projet-obsoalim-34-1792508481" rel="external">S&#8217;inscrire</a></p>
+<div class='spip_document_6634 spip_document spip_documents spip_document_image spip_documents_center spip_document_center'>
+<figure class="spip_doc_inner">
+
+ <a href="IMG/png/journees_de_restitution_obsoalim.png"  class="spip_doc_lien mediabox" type="image/png">
+		<img src='local/cache-vignettes/L555xH785/journees_de_restitution_obsoalim-c9d85.png?1792508494' width='555' height='785' alt='' /></a>
+</figure>
+</div></div>
+                
+			    
+			    
+               
+                
+
+                
+                                    
+                            </div>
+            <div class="col-md-2 col-sm-8">
+                <div class="surtitre">&nbsp;</div>
+                <img class="img-responsive" src="local/cache-vignettes/L165xH165/obsoalim_carre_site_web_1_-3-87d30.png?1792508494">
+            </div>
+        </div>
+              
+    </div>
+</section> -->
+<div class="sidebar-overlay">
+    <div class="sidebar-overlay-icons">
+        <a href="https://www.linkedin.com/company/chaire-unesco-alimentations-du-monde/?originalSubdomain=fr" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a><br>
+        <a href="https://vimeo.com/chaireunescoalimentation" target="_blank" rel="noopener"><i class="fab fa-vimeo"></i></a>
+    </div>
+
+    
+    <div class="sidebar-overlay-item">
+        <a href="/Newsletter" class="m-0">
+            <span class="text-fr">INSCRIPTION NEWSLETTER</span>
+        </a>
+    </div>
+    
+
+    
+    
+    <div class="sidebar-overlay-item">
+        <a href="Mastere-specialise-R-IPAD" class="m-0">
+            <span class="text-fr">EN SAVOIR PLUS SUR LE MASTERE IPAD</span>
+        </a>
+    </div>
+    
+    
+
+    
+
+    <div class="sidebar-overlay-search search-container">
+        
+        
+        <a href="spip.php?page=recherche" class="search-icon"><i class="fas fa-search"></i></a>
+        
+        <input type="text" class="search-input" placeholder="Rechercher...">
+    </div>
+</div>
+
+<script>
+(function() {
+    var lang = document.documentElement.lang || 'fr';
+    var input = document.querySelector('.search-input');
+    if (input) input.placeholder = lang === 'en' ? 'Search...' : 'Rechercher...';
+})();
+</script><footer class="main-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-8">
+                <div class="footer-contact">
+                                        <img src="squelettes/images/logo-unesco.png" alt="Chaire UNESCO" class="logo-footer">
+                                        <div class="row">
+                        <div class="col-sm-5 footer-info">
+                            <p>L'Institut Agro Montpellier<br>
+                            Pôle Tropiques et Méditerranée<br>
+                            1101, avenue Agropolis<br>
+                            34090 Montpellier - France<br>
+                            Tél. : +33 (0)4 99 61 22 00</p>
+                        </div>
+                        <div class="col-sm-4 footer-links">
+                            
+                            <a href="Mentions-legales">
+                                <span class="text-fr">Mentions légales</span>
+                                <span class="text-en">Legal notices</span>
+                            </a><br>
+                            
+                            <hr class="hr m-0" />
+                            
+                            <a href="Contacter-la-chaire">Contact</a><br>
+                            
+                            <hr class="hr m-0" />
+                            <a href="/Newsletter">
+                                <span class="text-fr">S'abonner à la Newsletter</span>
+                                <span class="text-en">Subscribe to our Newsletter</span>
+                            </a>
+                            <div class="d-flex gap-2 mt-3">
+                                <a href="https://www.linkedin.com/company/chaire-unesco-alimentations-du-monde/?originalSubdomain=fr" target="_blank" rel="noopener"><i class="fab fa-linkedin fa-xl"></i></a><br>
+                                <a href="https://vimeo.com/chaireunescoalimentation" target="_blank" rel="noopener"><i class="fab fa-vimeo fa-xl"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+            </div>
+            <div class="col-xl-4">
+                <div class="footer-map">
+                    <div class="africa-map-placeholder">
+                        <img src="squelettes/images/africa-map-removebg.png" alt="Carte de l'Afrique" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr id="footer-separator" class="hr"/>
+</footer>
+
+
+
+<footer class="footer-partners">
+    <div class="container">
+        <div class="row mt-2 me-5">
+            <div class="col-6 col-md-2 d-flex justify-content-center logo-partner">
+                <img src="squelettes/images/logo-chaire-unesco.png" alt="partner1" class="">
+            </div>
+            <div class="col-6  col-md-2 d-flex justify-content-center logo-partner">
+                <img src="squelettes/images/logo-agro-mtp.jpg" alt="partner4" class="">
+            </div>
+            <div class="col-6  col-md-2 d-flex justify-content-center logo-partner">
+                <img src="squelettes/images/logo-cirad.jpg" alt="partner2" class="">
+            </div>
+            <div class="col-6 col-md-6 d-flex justify-content-center logo-partner">
+                <img src="squelettes/images/logo-carasso.webp" alt="partner2" class="">
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<!-- Bootstrap JS -->
+<script src="squelettes/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html></body>    
+</html>
+
+
+</BOUCLE_principale>
