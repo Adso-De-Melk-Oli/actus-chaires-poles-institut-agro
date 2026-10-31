@@ -1,0 +1,43 @@
+name: Envoi du digest (essai)
+
+on:
+  workflow_dispatch:
+    inputs:
+      test:
+        description: "Envoyer l'aperçu (data/preview) avec l'objet [Test] — l'envoi quotidien est fait par « Relevé des actus »"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect   # jamais en même temps qu'un relevé
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Envoyer
+        run: node scripts/send.mjs
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MODE: ${{ inputs.test && 'test' || 'daily' }}
+      - name: Noter l'envoi
+        if: ${{ !inputs.test }}
+        run: |
+          git config user.name "actus-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/sent.json 2>/dev/null || true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Digest envoyé ($(date -u +%Y-%m-%d))"
+          git push

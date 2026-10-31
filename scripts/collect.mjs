@@ -1,0 +1,571 @@
+// Collecte les actus et l'agenda des pôles et chaires de l'Institut Agro à Montpellier,
+// puis écrit data/articles.json. Lancé chaque matin par .github/workflows/collect.yml.
+//
+// Règles : on lit les flux RSS (ou l'API WordPress) quand ils existent, sinon les pages
+// Actualités/Agenda ; on respecte robots.txt ; si une source échoue, on garde ses contenus
+// de la veille.
+
+import { sourceProblem } from "./reasons.mjs";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
+import * as cheerio from "cheerio";
+import { XMLParser } from "fast-xml-parser";
+import { parseFrenchDates, ymd } from "./dates.mjs";
+import { buildDigest, parisDay, photoCandidates, SCHOOL_COLORS } from "./digest.mjs";
+import sharp from "sharp";
+import { readdir, unlink } from "node:fs/promises";
+
+const OUT = "data/articles.json";
+const UA = "ActusChairesPolesBot/1.0 (+https://github.com/Adso-De-Melk-Oli/actus-chaires-poles-institut-agro)";
+const DEBUG = process.env.DEBUG === "1";
+const NOW = new Date();
+
+/* ---------- utilitaires ---------- */
+
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+const clean = s => String(s ?? "").replace(/\s+/g, " ").trim();
+function stripHtml(html) {
+  if (!html) return "";
+  const $ = cheerio.load(`<div>${html}</div>`);
+  return clean($("div").first().text());
+}
+function summarize(text, max = 200) {
+  const t = clean(text);
+  if (t.length <= max) return t;
+  const cut = t.slice(0, max);
+  return cut.slice(0, Math.max(cut.lastIndexOf(" "), max - 20)).replace(/[,;:\s]+$/, "") + "…";
+}
+function slugFromUrl(url) {
+  const path = new URL(url).pathname.replace(/\/+$/, "");
+  return path.split("/").pop().toLowerCase().replace(/[^a-z0-9-]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 70) || "x";
+}
+
+const robotsCache = new Map();
+async function allowedByRobots(url) {
+  const u = new URL(url);
+  if (!robotsCache.has(u.origin)) {
+    let rules = [];
+    try {
+      const res = await fetch(u.origin + "/robots.txt", { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(10_000) });
+      if (res.ok) {
+        let applies = false;
+        for (const raw of (await res.text()).split(/\r?\n/)) {
+          const line = raw.replace(/#.*/, "").trim();
+          const [k, ...v] = line.split(":"); const val = v.join(":").trim();
+          if (/^user-agent$/i.test(k)) applies = val === "*" || /actuschairespoles/i.test(val);
+          else if (applies && /^disallow$/i.test(k) && val) rules.push(val);
+        }
+      }
+    } catch { /* robots.txt injoignable : on applique la prudence par défaut ci-dessous */ }
+    robotsCache.set(u.origin, rules);
+  }
+  return !robotsCache.get(u.origin).some(p => u.pathname.startsWith(p));
+}
+
+// une page lue deux fois dans le même relevé (flux partagé par les actus et l'agenda) n'est demandée qu'une fois
+const pageCache = new Map();
+function get(url) {
+  if (!pageCache.has(url)) pageCache.set(url, fetchPage(url).catch(e => { pageCache.delete(url); throw e; }));
+  return pageCache.get(url);
+}
+async function fetchPage(url) {
+  if (!(await allowedByRobots(url))) throw new Error(`robots.txt interdit ${url}`);
+  await sleep(400); // politesse
+  // 20 s maximum par page, et un second essai : un site en panne ne doit pas bloquer les autres
+  let res;
+  for (let attempt = 1; ; attempt++) {
+    try {
+      res = await fetch(url, { headers: { "User-Agent": UA, "Accept-Language": "fr" }, redirect: "follow", signal: AbortSignal.timeout(20_000) });
+      if (res.status >= 500 && attempt < 2) throw new Error(`${res.status}`);
+      break;
+    } catch (e) {
+      if (attempt >= 2) throw new Error(`${url} injoignable (${e.name === "TimeoutError" ? "pas de réponse en 20 s" : e.cause?.code ?? e.message})`);
+      await sleep(5000);
+    }
+  }
+  if (!res.ok) throw new Error(`${res.status} sur ${url}`);
+  const body = await res.text();
+  if (DEBUG && snapshots++ < 40) { // mode diagnostic : copie des pages lues, pour ajuster les règles de lecture
+    await mkdir("debug", { recursive: true });
+    await writeFile(`debug/${String(snapshots).padStart(2, "0")}-${new URL(url).hostname.split(".")[1] ?? "site"}-${slugFromUrl(url)}.html`, `<!-- ${url} -->\n` + body);
+  }
+  return body;
+}
+let snapshots = 0;
+
+/* ---------- nettoyage des textes ---------- */
+
+/** Retire du chapô le titre répété, la signature Drupal (« olivier jeu, 8 Oct 2026 - 07:31 ») et la date de tête. */
+function cleanDesc(text, title = "") {
+  let t = clean(text)
+    .replace(/(?:^|\s)[\p{L}._-]+\s+(?:lun|mar|mer|jeu|ven|sam|dim)\.?,\s+\d{1,2}\s+\p{L}+\.?\s+\d{4}\s+-\s+\d{1,2}:\d{2}/giu, " ")
+    .replace(/L[’']article .*? est apparu en premier sur .*$/i, "");
+  t = clean(t);
+  if (title && t.toLowerCase().startsWith(clean(title).toLowerCase())) t = t.slice(clean(title).length);
+  return clean(t).replace(/^[\s:,;.–—-]+/, "");
+}
+/** « Le jeudi 5 novembre 2026, l'Institut… » → « L'Institut… » */
+function dropLeadingDate(text) {
+  const m = text.match(/^(?:le|du|les|depuis le)?\s*(?:lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)?\s*\d{1,2}(?:er)?(?:\s+\S+){0,6}?\s+\d{4}(?:\s*,?\s*de\s+\d{1,2}h\d{0,2}\s+à\s+\d{1,2}h\d{0,2})?\s*[,.:–-]?\s*/i);
+  const t = m ? text.slice(m[0].length) : text;
+  return t ? t[0].toUpperCase() + t.slice(1) : t;
+}
+const goodSummary = (t, title) => t && t.length >= 40 && t.toLowerCase() !== String(title).toLowerCase();
+
+/** Charge du HTML en séparant les blocs par une espace (sinon « Montpellier</div><div>Campus » devient « MontpellierCampus »). */
+const loadSpaced = html => cheerio.load(String(html).replace(/<br\s*\/?>/gi, " ").replace(/<\/(p|div|li|h[1-6]|span|td|dd|dt|address|a|strong|em)>/gi, "$& "));
+/** Nettoie un lieu : sans « + Google Map », sans doublons, raisonnablement court. */
+function cleanPlace(p) {
+  if (!p) return undefined;
+  let t = clean(cheerio.load(`<p>${p}</p>`)("p").text())
+    .replace(/\bIA\s+(Montpellier|Rennes|Angers|Rennes-Angers|Dijon)\b/g, "Institut Agro $1").replace(/\+?\s*Google\s*Maps?/gi, "").replace(/^(Lieu|Où|Adresse)\s*:?\s*/i, "").replace(/[\s,·-]+$/, "");
+  if (t.length > 90) t = t.slice(0, 90).replace(/[,·-][^,·-]*$/, "");
+  return t.length >= 3 ? t : undefined;
+}
+/** Lit la page d'un contenu : titre, texte, premier paragraphe, lieu. */
+async function detail(url) {
+  const $ = loadSpaced(await get(url));
+  // lu AVANT le nettoyage, qui retire les balises script
+  let ld = {};
+  $('script[type="application/ld+json"]').each((_, sc) => {
+    try {
+      const walk = o => { if (!o || typeof o !== "object") return; if (Array.isArray(o)) return o.forEach(walk);
+        if (/Event$/.test(String(o["@type"])) && o.startDate && !ld.startDate) ld = o; Object.values(o).forEach(walk); };
+      walk(JSON.parse($(sc).html()));
+    } catch {}
+  });
+  const ogImage = $('meta[property="og:image"]').attr("content");
+  // titre : celui du contenu, pas celui du bandeau (« Agenda », « À la une ») ni le slogan du site
+  const stripSite = t => clean(t).replace(/\s+[|–—-]\s+[^|–—]*Institut Agro[^|–—]*$/i, "").replace(/\s+\|\s+.*$/, "");
+  const refTitles = [$('meta[property="og:title"]').attr("content"), $("title").first().text()].filter(Boolean).map(stripSite).filter(t => t.length > 3);
+  const normT = t => clean(t).toLowerCase().replace(/[«»"“”'’]/g, "").replace(/\s+/g, " ");
+  const headings = $("h1, h2").toArray()
+    .filter(h => !/sr-only|visually-hidden|element-invisible/.test($(h).attr("class") || "") && !/^block-|breadcrumb/.test($(h).attr("id") || "") && !$(h).closest("header, nav, footer, [class*=banner], [class*=bandeau], [class*=hero]").length)
+    .map(h => clean($(h).text())).filter(Boolean);
+  const pageTitle = headings.find(h => refTitles.some(r => normT(r) === normT(h))) ?? refTitles[0] ?? headings[0];
+  $("header, footer, nav, script, style, noscript, form, [class*=cookie], [class*=breadcrumb], [class*=share]").remove();
+  const root = $("main").first().length ? $("main").first() : $("body");
+  const h1 = clean(root.find("h1").first().text());
+  const lead = clean(root.find("p").filter((_, p) => clean($(p).text()).length > 60).first().text());
+  const placeEl = clean(root.find("[class*=lieu], [class*=location], [class*=venue], [class*=adresse], [class*=address], [class*=place]").first().text());
+  const text = clean(root.text());
+  const imgOf = v => typeof v === "string" ? v : Array.isArray(v) ? imgOf(v[0]) : v?.url;
+  const firstImg = root.find("img").toArray().map(i => $(i).attr("src") || $(i).attr("data-src")).find(src => src && isPhoto(src));
+  const image = [ogImage, imgOf(ld.image), firstImg].filter(Boolean).map(u => new URL(u, url).toString()).find(isPhoto);
+  const loc = ld.location ? [ld.location.name, [].concat(ld.location.address?.streetAddress ?? [])[0]].filter(Boolean).join(" · ") : undefined;
+  const ldWhen = ld.startDate ? { date: String(ld.startDate).slice(0, 10), ...(ld.endDate && String(ld.endDate).slice(0, 10) !== String(ld.startDate).slice(0, 10) ? { endDate: String(ld.endDate).slice(0, 10) } : {}) } : null;
+  // Drupal (Rennes-Angers) : <time datetime="…">Samedi 24 octobre 2026 - 14:00</time><p>Campus de Rennes</p>
+  const afterTime = clean(root.find("time[datetime]").first().next("p").text());
+  const timePlace = afterTime && afterTime.length < 80 && !/\d{4}/.test(afterTime) ? afterTime : undefined;
+  const domPlace = timePlace ?? (placeEl && placeEl.length < 120 ? placeEl.replace(/^(Lieu|Où|Adresse)\s*:?\s*/i, "") : undefined);
+  return { h1: pageTitle || h1, lead, text, image, ldWhen, place: cleanPlace(loc || domPlace || placeIn(text)) };
+}
+/** Une vraie photo, pas un logo, une icône ou un pixel de suivi. */
+function isPhoto(src) { return /\.(jpe?g|png|webp|avif|gif)(\?|$)/i.test(src) && !/logo|icon|picto|sprite|avatar|placeholder|blank|pixel/i.test(src); }
+
+/* ---------- lecture RSS et API WordPress ---------- */
+
+/** Retire les paramètres de suivi (?utm_source=rss…) qui changeraient l'identité d'un contenu. */
+function untrack(url) {
+  try { const u = new URL(url); for (const k of [...u.searchParams.keys()]) if (/^utm_/i.test(k)) u.searchParams.delete(k); return u.toString(); } catch { return url; }
+}
+
+const xml = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_", processEntities: true, htmlEntities: true });
+const txt = v => typeof v === "object" && v !== null ? (v["#text"] ?? "") : (v ?? "");
+async function rss(url) {
+  const doc = xml.parse(await get(url));
+  const items = doc?.rss?.channel?.item ?? [];
+  return (Array.isArray(items) ? items : [items]).map(it => {
+    const html = String(txt(it["content:encoded"]) || txt(it.description) || "");
+    const media = [].concat(it.enclosure ?? [], it["media:content"] ?? [], it["media:thumbnail"] ?? []).map(m => m?.["@_url"]).find(u => u && isPhoto(u));
+    const inline = (html.match(/<img[^>]+src=["']([^"']+)["']/i) ?? [])[1];
+    const image = [media, inline].filter(Boolean).map(u => { try { return new URL(u, url).toString(); } catch { return null; } }).find(u => u && isPhoto(u));
+    return {
+      title: clean(stripHtml(String(txt(it.title)))),
+      url: untrack(clean(txt(it.link))),
+      pubDate: (it.pubDate || it["dc:date"]) ? new Date(txt(it.pubDate || it["dc:date"])).toISOString() : null,
+      text: stripHtml(html),
+      cats: [].concat(it.category ?? []).map(c => clean(txt(c))).filter(Boolean),
+      image,
+    };
+  }).filter(i => i.title && i.url);
+}
+
+/* ---------- lecture des pages de liste ---------- */
+
+const ABS = (base, href) => new URL(href, base).toString().replace(/[#?].*$/, "");
+/** Liens de détail d'une page de liste, avec le bloc qui les entoure (titre, date, chapô). */
+function listing(html, base, pathRe) {
+  const $ = loadSpaced(html);
+  $("header, footer, nav, script, style, noscript").remove();
+  const seen = new Map();
+  $("a[href]").each((_, a) => {
+    const href = ABS(base, $(a).attr("href"));
+    const path = new URL(href).pathname;
+    if (new URL(href).origin !== new URL(base).origin || !pathRe.test(path)) return;
+    // le plus petit bloc parent qui ne contient qu'un seul contenu
+    let box = $(a);
+    for (let i = 0; i < 6; i++) {
+      const parent = box.parent(); if (!parent.length) break;
+      const others = parent.find("a[href]").toArray().map(x => ABS(base, $(x).attr("href"))).filter(h => pathRe.test(new URL(h).pathname) && h !== href);
+      if (others.length) break;
+      box = parent;
+    }
+    const heading = clean(box.find("h2,h3,h4,.title,[class*=title]").first().text()) || clean($(a).text()) || clean($(a).attr("title"));
+    const boxText = clean(box.text());
+    const teaser = clean(box.find("p,[class*=summary],[class*=chapo],[class*=teaser],[class*=description],[class*=body]").first().text());
+    const thumb = box.find("img").toArray().map(i => $(i).attr("src") || $(i).attr("data-src")).find(src => src && isPhoto(src));
+    const prev = seen.get(href);
+    if (!prev || (heading.length > prev.title.length)) seen.set(href, { url: href, title: heading, text: boxText, teaser, image: thumb ? new URL(thumb, base).toString() : undefined });
+  });
+  return [...seen.values()].filter(x => x.title && x.title.length > 3);
+}
+function dateIn(text) { // date de publication jj/mm/aaaa ou « 12 octobre 2026 »
+  const m = clean(text).match(/(\d{2})\/(\d{2})\/(\d{4})/);
+  if (m) return ymd(+m[3], +m[2], +m[1]);
+  return parseFrenchDates(text)?.date ?? null;
+}
+/** Complète des événements repérés dans une liste ou un flux en lisant leur page. */
+/** notBefore : date de publication du contenu ; un événement daté de plus de 3 jours avant n'en est pas un (date citée en passant). */
+async function events(cands, { titleFromPage = false, notBefore = null } = {}) {
+  const out = [];
+  for (const c of cands) {
+    let d = {};
+    try { d = await detail(c.url); } catch (e) { if (DEBUG) console.warn("détail", c.url, e.message); }
+    const title = (titleFromPage && d.h1) || c.title || d.h1;
+    const when = d.ldWhen ?? parseFrenchDates(c.title ?? "") ?? parseFrenchDates(c.text?.replace(c.title, "") ?? "") ?? parseFrenchDates((d.text ?? "").replace(d.h1 ?? "", ""));
+    if (!title || !when) continue;
+    if (notBefore && (when.endDate ?? when.date) < new Date(new Date(notBefore) - 3 * 864e5).toISOString().slice(0, 10)) continue;
+    const fromList = dropLeadingDate(cleanDesc(c.teaser || c.text || "", title));
+    const fromPage = dropLeadingDate(cleanDesc(d.lead ?? "", title));
+    const summary = goodSummary(fromList, title) ? fromList : goodSummary(fromPage, title) ? fromPage : (fromList !== title ? fromList : "");
+    const remote = isRemote([title, summary, c.place, d.place, c.text, d.lead].filter(Boolean).join(" "));
+    out.push({ kind: "agenda", title, url: c.url, ...when, ...(remote ? { remote: true } : {}), place: cleanPlace(c.place) ?? d.place, image: d.image ?? c.image, summary: summarize(summary) });
+  }
+  return out;
+}
+/** Événement entièrement à distance (webinaire, visio…), pas un événement hybride. */
+function isRemote(text) {
+  const t = clean(text);
+  return /(^|[\s(«"’'])à distance\b|webinaire|webinar|webconférence|visioconférence|100 ?% en ligne|entièrement en ligne/i.test(t)
+    && !/(ou|et) (en )?(streaming|ligne|à distance)|(ou|et) en présentiel|hybride/i.test(t);
+}
+function placeIn(text) {
+  const m = clean(text).match(/(?:Lieu|Où)\s*:?\s*([^|•\n]{3,80}?)(?=\s{2,}|\s(?:Date|Horaire|Tarif|Inscription|Gratuit|Lire|En savoir)|$)/i);
+  return m ? clean(m[1]) : undefined;
+}
+
+/** Articles d'un site WordPress par son API (catégories choisies, image à la une incluse). */
+async function wp(base, categories) {
+  const url = `${base}/wp-json/wp/v2/posts?categories=${categories}&per_page=12&_embed=wp:featuredmedia`;
+  const list = JSON.parse(await get(url));
+  if (!Array.isArray(list)) throw new Error(`réponse inattendue de ${url}`);
+  return list.map(p => ({
+    title: clean(stripHtml(p.title?.rendered)),
+    url: untrack(p.link),
+    pubDate: p.date_gmt ? new Date(p.date_gmt + "Z").toISOString() : p.date ? new Date(p.date).toISOString() : null,
+    text: stripHtml(p.excerpt?.rendered || p.content?.rendered || ""),
+    image: [p._embedded?.["wp:featuredmedia"]?.[0]?.source_url].find(u => u && isPhoto(u)),
+  })).filter(i => i.title && i.url);
+}
+
+/* ---------- actus ou événements ? ---------- */
+
+// un titre d'événement : colloque, webinaire, journée…
+const EVENT_RE = /colloque|s[ée]minaire|webinaire|webinar|journ[ée]es?\b|rencontres?\b|conf[ée]rence|atelier|forum|salon|visite|portes? ouvertes|jpo\b|save the date|[àa] venir|table ronde|symposium|congr[èe]s|festival|soir[ée]e|inauguration|formation .* jour/i;
+const actuOf = i => ({ kind: "actu", title: i.title, url: i.url, date: i.pubDate, image: i.image, summary: summarize(cleanDesc(i.text, i.title)) });
+/** Range les contenus d'un flux : un événement daté (pas avant sa publication) va dans l'agenda, le reste dans les actus.
+ *  isEvent(item) dit si le contenu ressemble à un événement (catégorie, titre). */
+async function split(items, isEvent = i => EVENT_RE.test(i.title)) {
+  const out = [];
+  for (const i of items) {
+    if (isEvent(i)) {
+      const [ev] = await events([{ url: i.url, title: i.title, text: cleanDesc(i.text, i.title), image: i.image }], { notBefore: i.pubDate });
+      if (ev) { out.push(ev); continue; }
+    }
+    out.push(actuOf(i));
+  }
+  return out;
+}
+
+/** Une actu d'une page de liste Drupal des pôles : titre, chapô (sous le titre) et date jj/mm/aaaa. */
+const drupalActu = x => {
+  const rest = clean(x.text.replace(x.title, "").replace(/\b\d{2}\/\d{2}\/\d{4}\b/, ""));
+  return { kind: "actu", title: x.title, url: x.url, date: dateIn(x.text.replace(x.title, "")) ?? dateIn(x.text), image: x.image, summary: summarize(rest.length >= 15 ? rest : "") };
+};
+
+/* ---------- sources ---------- */
+
+const SOURCES = {
+  agrosys: {
+    prefix: "sys",
+    // flux du site : les billets « Evénements AgroSYS » (ou titrés comme un événement) vont dans l'agenda
+    async flux() {
+      return split(await rss("https://agrosys.fr/feed/"), i => i.cats.some(c => /v[ée]nements/i.test(c)) || EVENT_RE.test(i.title));
+    },
+  },
+
+  agrotic: {
+    prefix: "tic",
+    // API WordPress : catégorie « Les actualités » (18) et « Évènements » (8) ; les offres d'emploi sont laissées de côté
+    async actus() { return (await wp("https://www.agrotic.org", 18)).map(actuOf); },
+    // un billet « Évènements » sans date lisible reste une actu
+    async agenda() { return split(await wp("https://www.agrotic.org", 8), () => true); },
+  },
+
+  innovarbo: {
+    prefix: "arb",
+    async flux() { return split(await rss("https://fondation-institut-agro.fr/category/chaire-innovarbo/feed/")); },
+  },
+
+  unesco: {
+    prefix: "adm",
+    // site SPIP : la page Actualités (sans dates : on garde le jour où l'actu est apparue) et la page Agenda (dates en clair)
+    async actus() {
+      const base = "https://www.chaireunesco-adm.com/Actualites";
+      const $ = cheerio.load(await get(base));
+      return $("a.article-titre").toArray().map(a => {
+        const box = $(a).parent();
+        const img = box.parent().find("img").attr("src") || box.find("img").attr("src");
+        return { kind: "actu", title: clean($(a).text()), url: ABS(base, $(a).attr("href")), image: img && isPhoto(img) ? ABS(base, img) : undefined, summary: summarize(clean(box.find("p.pt-2").first().text())) };
+      }).filter(x => x.title).slice(0, 12);
+    },
+    async agenda() {
+      const base = "https://www.chaireunesco-adm.com/Agenda";
+      const $ = cheerio.load(await get(base));
+      const now = parisDay(NOW);
+      const out = [];
+      for (const a of $("a.article-titre").toArray().slice(0, 16)) {
+        const box = $(a).parent();
+        const when = parseFrenchDates(clean(box.find(".article-date").first().text()));
+        if (!when) continue;
+        const img = box.parent().find("img").attr("src") || box.find("img").attr("src");
+        const title = clean($(a).text()), summary = clean(box.find("p.pt-2").first().text());
+        // le lieu n'est donné que dans la page de l'événement : on la lit pour les événements à venir
+        let place;
+        if ((when.endDate ?? when.date) >= now) { try { place = (await detail(ABS(base, $(a).attr("href")))).place; } catch {} }
+        out.push({ kind: "agenda", title, url: ABS(base, $(a).attr("href")), ...when, ...(isRemote(title + " " + summary) ? { remote: true } : {}), place, image: img && isPhoto(img) ? ABS(base, img) : undefined, summary: summarize(summary) });
+      }
+      return out;
+    },
+  },
+
+  eacc: {
+    prefix: "eau",
+    // l'API WordPress est fermée : flux RSS ; colloques et séminaires datés vont dans l'agenda
+    async flux() {
+      return split(await rss("https://chaire-eacc.fr/feed/"), i => i.cats.some(c => /colloque|s[ée]minaire|journ[ée]e/i.test(c)) || EVENT_RE.test(i.title));
+    },
+  },
+
+  masnum: {
+    prefix: "mas",
+    async flux() { return split(await rss("https://lemasnumerique.agrotic.org/feed/")); },
+  },
+
+  vignevin: {
+    prefix: "cvv",
+    // la page Actualités refuse les robots (403) mais le flux RSS du site est ouvert
+    async flux() { return split(await rss("https://www.chaire-vigne-et-vin.fr/feed/")); },
+  },
+
+  polevv: {
+    prefix: "pvv",
+    async actus() {
+      const base = "https://vigne-vin.institut-agro.fr/fr/toutes-les-actualites";
+      return listing(await get(base), base, /^\/fr\/toutes-les-actualites\/[^/]+\/?$/).slice(0, 12)
+        .map(drupalActu);
+    },
+    // l'agenda est une seule page rédigée à la main : une puce par événement (« 5 novembre 2026 I Colloque … »)
+    async agenda() {
+      const base = "https://vigne-vin.institut-agro.fr/fr/agenda";
+      const $ = cheerio.load(String(await get(base)).replace(/<br\s*\/?>/gi, "\n"));
+      const out = [];
+      $("main li, article li, .content li").each((_, li) => {
+        if ($(li).parents("li").length || $(li).closest("nav, header, footer").length) return;
+        const raw = $(li).text().split("\n").map(clean).filter(Boolean);
+        if (!raw.length) return;
+        const when = parseFrenchDates(raw[0]);
+        if (!when) return;
+        // « 7 au 10 décembre 2026 I Colloque international Vinid’OCC - Corum, Montpellier » : en-tête après la date,
+        // découpé en morceaux (nom de l'événement, organisateur, lieu) ; le premier passage en gras est le sous-titre
+        const M = "(?:janv|f[ée]vr|mars|avr|mai|juin|juil|ao[uû]t|sept|oct|nov|d[ée]c)\\p{L}*\\.?";
+        const dateHead = new RegExp(`^\\s*(?:du\\s+)?\\d{1,2}(?:er)?(?:\\s*(?:au|-|–)\\s*\\d{1,2}(?:er)?)?(?:\\s+${M})?(?:\\s*(?:au|-|–)\\s*\\d{1,2}(?:er)?\\s+${M})?(?:\\s+\\d{4})?`, "iu");
+        const label = clean(raw[0].replace(dateHead, "")).replace(/^[\s|I–—-]+/, "");
+        const segs = label.split(/\s+I\s+|\s+[–—-]\s+|[–—-]\s+/).map(t => clean(t).replace(/^[«"“]\s*|\s*[»"”.,]$/g, "")).filter(t => t && !/^https?:/i.test(t));
+        const isUrl = t => /^https?:|^www\./i.test(t);
+        const bold = $(li).find("strong, b").toArray().map(x => clean($(x).text()).replace(/^[-–\s]*[«"“]\s*|\s*[»"”]$/g, "")).find(t => t.length > 8 && !isUrl(t) && !/^(pour en savoir plus|programme|inscriptions?)/i.test(t));
+        const organizer = t => /^(chaire|centre|l[’'\s]*institut|universit|inrae|projet)/i.test(t);
+        const named = segs.find(t => !organizer(t)) ;
+        const eventy = t => t && (EVENT_RE.test(t) || /jpo|meeting|r[ée]union|summer school|congr|assembl/i.test(t));
+        let title = eventy(segs[0]) ? segs[0] : bold ?? named ?? segs[0];
+        if (title && (title.match(/"/g) ?? []).length % 2) title = title.replace(/"/g, "");
+        if (!title || title.length < 4) return;
+        const placeGuess = segs.length > 1 ? segs[segs.length - 1] : undefined;
+        const lines = raw.slice(1).filter(l => !isUrl(l) && !/^(pour en savoir plus|programme et inscriptions|inscriptions)/i.test(l));
+        const summary = [bold && bold !== title ? bold : "", ...lines.filter(l => !bold || !l.includes(bold))].filter(Boolean).join(" · ");
+        const slug = (when.date + "-" + title).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 70);
+        out.push({ kind: "agenda", title, url: `${base}#${slug}`, ...when, ...(isRemote(raw.join(" ")) ? { remote: true } : {}), place: cleanPlace(placeGuess && placeGuess !== title && placeGuess !== bold && placeGuess.length < 70 && !organizer(placeGuess) && !eventy(placeGuess) ? placeGuess : placeIn(raw.join(" "))), summary: summarize(summary), noImage: true });
+      });
+      return out;
+    },
+  },
+
+  polead: {
+    prefix: "pad",
+    async actus() {
+      const base = "https://alimentation-durable.institut-agro.fr/fr/toutes-les-actualites";
+      return listing(await get(base), base, /^\/fr\/toutes-les-actualites\/[^/]+\/?$/).slice(0, 12)
+        .map(drupalActu);
+    },
+  },
+};
+
+/* ---------- fusion et écriture ---------- */
+
+let previous = { articles: [] };
+let sent = {};
+try { sent = JSON.parse(await readFile("data/sent.json", "utf8")); } catch {}
+try { previous = JSON.parse(await readFile(OUT, "utf8")); } catch {}
+
+// aperçu seul (PREVIEW_ONLY=1) : aucun site n'est relevé, data/articles.json et le vrai digest restent intacts ;
+// PREVIEW_FRESH=id1,id2 marque ces contenus comme nouveaux pour la démonstration
+if (process.env.PREVIEW_ONLY === "1" && process.env.PREVIEW_AT) {
+  const at = new Date(process.env.PREVIEW_AT);
+  const fresh = new Set((process.env.PREVIEW_FRESH || "").split(",").map(x => x.trim()).filter(Boolean));
+  const data = { sources: Object.fromEntries(Object.keys(previous.sources ?? {}).map(k => [k, { ...previous.sources[k], ok: true }])),
+    articles: previous.articles.map(a => fresh.has(a.id) ? { ...a, firstSeen: new Date(at - 12 * 3600e3).toISOString() } : a) };
+  const pv = buildDigest(data, at, { ...await makeThumbs(data, at, "data/preview/thumbs"), logo: "assets/logo-email.png" });
+  await writeFile("data/preview/digest.json", JSON.stringify(pv, null, 1) + "\n");
+  console.log(`Aperçu du ${pv.forDate} : ${pv.subject} (${pv.images.length} photos)`);
+  process.exit(0);
+}
+
+// un contenu = une adresse (il peut passer des actus à l'agenda quand sa date est enfin trouvée, sans être doublé)
+const key = a => a.url;
+const byKey = new Map(previous.articles.map(a => [key(a), a]));
+const status = {};
+
+for (const [name, src] of Object.entries(SOURCES)) {
+  status[name] = { ok: true, actus: 0, agenda: 0, errors: [] };
+  // « flux » : un seul flux qui mêle actus et événements ; sinon une lecture pour les actus, une pour l'agenda
+  for (const kind of src.flux ? ["flux"] : ["actus", "agenda"].filter(k => src[k])) {
+    try {
+      const items = (await src[kind]()).filter(i => i.title && i.url);
+      if (!items.length && !(kind === "agenda" && src.optionalAgenda)) throw new Error("aucun contenu trouvé (la page a peut-être changé)");
+      // nouvelle source : son historique rejoint le site mais n'est pas annoncé comme « nouveau » dans le digest
+      const firstImport = !previous.articles.some(a => a.source === name);
+      for (const it of items) {
+        const k = key(it); const old = byKey.get(k);
+        const id = old?.id ?? `${src.prefix}-${it.kind === "agenda" ? "ag-" : ""}${slugFromUrl(it.url)}`;
+        const fresh = Object.fromEntries(Object.entries(it).filter(([, v]) => v !== undefined && v !== ""));
+        // un résumé ou un lieu déjà connus sont conservés : ils ont pu être relus à la main
+        const merged = { ...old, ...fresh, id, source: name, summary: old?.summary || fresh.summary || "", firstSeen: old?.firstSeen ?? NOW.toISOString(), ...(!old && firstImport ? { seed: true } : {}) };
+        // actu sans date (page Actualités de la Chaire UNESCO) : le jour où elle est apparue, sauf au premier relevé
+        // de la source, où toutes apparaîtraient « aujourd'hui » : elles restent alors « date non communiquée »
+        if (!merged.date && merged.kind === "actu" && !merged.seed) merged.date = merged.firstSeen;
+        byKey.set(k, merged);
+      }
+      status[name].actus += items.filter(i => i.kind === "actu").length;
+      status[name].agenda += items.filter(i => i.kind === "agenda").length;
+      if (DEBUG) console.log(`\n[${name}/${kind}] ${items.length}`, JSON.stringify(items.slice(0, 3), null, 1));
+    } catch (e) {
+      status[name].ok = false;
+      status[name].errors.push(`${kind === "flux" ? "actus" : kind} : ${e.message}`);
+      console.warn(`⚠ ${name}/${kind} : ${e.message}`);
+    }
+  }
+}
+
+// visuels : pour les contenus sans image (flux RSS), on lit l'image de partage de leur page, une seule fois
+let lookups = 0;
+for (const a of byKey.values()) {
+  if (a.image || a.noImage || lookups >= 60) continue;
+  lookups++;
+  try { const d = await detail(a.url); if (d.image) a.image = d.image; else a.noImage = true; }
+  catch (e) { if (DEBUG) console.warn("image", a.url, e.message); }
+}
+
+// purge : actus de plus de 12 mois, événements terminés depuis plus de 6 mois
+const limitActu = new Date(NOW); limitActu.setFullYear(limitActu.getFullYear() - 1);
+const limitEvent = new Date(NOW); limitEvent.setMonth(limitEvent.getMonth() - 6);
+// les chaires publient peu : les 6 actus les plus récentes de chaque source restent, même anciennes
+const keep = new Set();
+for (const s of Object.keys(SOURCES)) [...byKey.values()].filter(a => a.source === s && a.kind === "actu")
+  .sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? ""))).slice(0, 6).forEach(a => keep.add(a));
+const articles = [...byKey.values()].filter(a => {
+  if (!a.date || keep.has(a)) return true;
+  const d = new Date((a.endDate || a.date).length === 10 ? (a.endDate || a.date) + "T12:00:00Z" : (a.endDate || a.date));
+  return a.kind === "agenda" ? d >= limitEvent : d >= limitActu;
+}).sort((a, b) => String(b.date ?? "").localeCompare(String(a.date ?? "")));
+
+const counts = {}; for (const a of articles) counts[a.source] = (counts[a.source] || 0) + 1;
+for (const s of Object.keys(status)) {
+  status[s].count = counts[s] || 0;
+  // phrase lisible par tous (site, application) ; les détails techniques restent dans errors
+  if (!status[s].ok) status[s].problem = sourceProblem(status[s].errors);
+  // jours de relevé consécutifs en échec (plusieurs relevés le même jour comptent pour un)
+  const prev = previous.sources?.[s] ?? {}; const day = parisDay(NOW);
+  if (status[s].ok) status[s].failDays = 0;
+  else {
+    const already = prev.lastFailDay === day;
+    status[s].failDays = already ? (prev.failDays || 1) : (prev.failDays || 0) + 1;
+    status[s].lastFailDay = day;
+    status[s].failingSince = status[s].failDays > 1 || already ? (prev.failingSince ?? day) : day;
+  }
+}
+
+await mkdir("data", { recursive: true });
+await writeFile(OUT, JSON.stringify({ updatedAt: NOW.toISOString(), sources: status, articles }, null, 1) + "\n");
+console.log(`\n${articles.length} contenus écrits dans ${OUT}`);
+// vignettes JPEG légères des contenus mis en avant dans le digest (jointes à l'e-mail)
+async function makeThumbs(data, at, dir, snt = {}) {
+  await mkdir(dir, { recursive: true });
+  const thumbs = {};
+  for (const a of photoCandidates(data, at, snt)) {
+    try {
+      const res = await fetch(a.image, { headers: { "User-Agent": UA }, signal: AbortSignal.timeout(20_000) });
+      if (!res.ok) throw new Error(res.status);
+      const path = `${dir}/${a.id}.jpg`;
+      await sharp(Buffer.from(await res.arrayBuffer())).resize(180, 120, { fit: "cover", position: "attention" }).jpeg({ quality: 60, mozjpeg: true }).toFile(path);
+      thumbs[a.id] = path;
+    } catch (e) { console.warn(`vignette ${a.id} : ${e.message}`); }
+  }
+  // vignettes de remplacement, une par école, pour les contenus sans photo
+  for (const [src, { label, color }] of Object.entries(SCHOOL_COLORS)) {
+    const path = `${dir}/_ph-${src}.jpg`;
+    try { await sharp(Buffer.from(placeholderSvg(label, color))).jpeg({ quality: 75, mozjpeg: true }).toFile(path); thumbs[`ph:${src}`] = path; }
+    catch (e) { console.warn(`vignette de remplacement ${src} : ${e.message}`); }
+  }
+  for (const f of await readdir(dir)) if (!Object.values(thumbs).includes(`${dir}/${f}`)) await unlink(`${dir}/${f}`);
+  return thumbs;
+}
+/** Vignette de remplacement 180 × 120 : couleur de la source, cercles en filigrane, nom court. */
+function placeholderSvg(label, color) {
+  const pole = /^Pôle/.test(label);
+  const name = label.replace(/^(Chaire|Pôle)\s+(partenariale\s+|d'entreprises\s+)?/i, "").replace(/^Eau, Agriculture.*$/, "EACC").replace(/^UNESCO.*$/, "UNESCO");
+  const eyebrow = pole ? "PÔLE" : /^Chaire/.test(label) ? "CHAIRE" : "INSTITUT AGRO";
+  const esc = t => t.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/'/g, "&#39;");
+  const size = name.length > 16 ? 15 : name.length > 11 ? 18 : 23;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 180 120">
+  <rect width="180" height="120" fill="${color}"/>
+  <circle cx="158" cy="18" r="46" fill="#ffffff" fill-opacity=".12"/>
+  <circle cx="150" cy="104" r="26" fill="#ffffff" fill-opacity=".08"/>
+  <circle cx="22" cy="118" r="34" fill="#000000" fill-opacity=".08"/>
+  <text x="14" y="62" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="8.5" font-weight="700" letter-spacing="1.2" fill="#ffffff" fill-opacity=".8">${esc(eyebrow)}</text>
+  <text x="14" y="86" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="${size}" font-weight="700" fill="#ffffff">${esc(name)}</text>
+</svg>`;
+}
+// photos jointes seulement si l'e-mail est envoyé par GitHub (secrets GMAIL_USER / GMAIL_APP_PASSWORD) :
+// l'envoi par l'outil Gmail de Claude ne permet pas de joindre les images de façon fiable
+const thumbs = process.env.GMAIL_USER ? { ...await makeThumbs({ sources: status, articles }, NOW, "data/thumbs", sent), logo: "assets/logo-email.png" } : {};
+const digest = buildDigest({ sources: status, articles }, NOW, thumbs, sent);
+// aperçu : PREVIEW_AT=2026-11-05T05:20:00Z prépare le digest de cette date dans data/preview/, sans toucher au vrai
+if (process.env.PREVIEW_AT) {
+  const at = new Date(process.env.PREVIEW_AT);
+  const pv = buildDigest({ sources: status, articles }, at, await makeThumbs({ sources: status, articles }, at, "data/preview/thumbs"));
+  await writeFile("data/preview/digest.json", JSON.stringify(pv, null, 1) + "\n");
+  console.log(`Aperçu du ${pv.forDate} : ${pv.subject} (${pv.images.length} photos)`);
+}
+await writeFile("data/digest.json", JSON.stringify(digest, null, 1) + "\n");
+console.log(`Digest du ${digest.forDate} : ${digest.subject}${digest.alert ? "\nAlerte : " + digest.alert.subject : ""}`);
+for (const [s, v] of Object.entries(status)) console.log(`  ${v.ok ? "✓" : "✗"} ${s} : ${v.actus} actus, ${v.agenda} événements relevés, ${v.count} en base${v.errors.length ? " — " + v.errors.join(" ; ") : ""}`);
