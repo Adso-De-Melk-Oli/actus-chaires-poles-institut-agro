@@ -41,3 +41,11 @@ npm test          # lecture des dates
 npm run collect   # met à jour data/articles.json
 npx serve .       # puis ouvrir http://localhost:3000
 ```
+
+## Application Android « Institut Agro Pôles & Chaires »
+
+Le dossier `android/` contient l'application jumelle de « L'Institut Agro en actualités » (Kotlin, Jetpack Compose, Material 3), avec la même icône : fil d'actus, agenda (liste et vue Mois), recherche, filtres Pôles / Chaires et par source, notifications (nouvelles publications des pôles et chaires suivis ; événements du jour vers 7 h 15 en semaine), événements suivis avec rappel la veille et une semaine avant, mention « Nouveau », widgets « À venir » et « Dernières actus », mise à jour directe depuis les Réglages. Elle lit `data/articles.json` sur le site et garde une copie hors ligne. Elle s'installe à côté de l'application jumelle (identifiant `io.github.adsodemelkoli.chairespoles`).
+
+- **Compilation** : workflow « Application Android », à chaque modification du dossier `android/`. Tests et captures d'écran (Paparazzi) publiés dans la branche `android-build`.
+- **Installation** : l'APK signé est publié dans la release « android » du dépôt (`InstitutAgroPolesChaires.apk`).
+- **Signature** : même clé que l'application jumelle (`android/release.p12`, chiffrée), mot de passe dans le secret `ANDROID_KEYSTORE_PASSWORD` de ce dépôt. Sans ce secret, seul un APK de test est construit (branche `android-build`).

@@ -35,7 +35,9 @@ function summarize(text, max = 200) {
   return cut.slice(0, Math.max(cut.lastIndexOf(" "), max - 20)).replace(/[,;:\s]+$/, "") + "…";
 }
 function slugFromUrl(url) {
-  const path = new URL(url).pathname.replace(/\/+$/, "");
+  // une adresse avec ancre (agenda du Pôle Vigne et Vin : une page, une ancre par événement) : l'ancre fait l'identité
+  const u = new URL(url);
+  const path = u.hash.length > 1 ? decodeURIComponent(u.hash.slice(1)) : u.pathname.replace(/\/+$/, "");
   return path.split("/").pop().toLowerCase().replace(/[^a-z0-9-]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 70) || "x";
 }
 
@@ -456,7 +458,8 @@ for (const [name, src] of Object.entries(SOURCES)) {
       const firstImport = !previous.articles.some(a => a.source === name);
       for (const it of items) {
         const k = key(it); const old = byKey.get(k);
-        const id = old?.id ?? `${src.prefix}-${it.kind === "agenda" ? "ag-" : ""}${slugFromUrl(it.url)}`;
+        // (« pvv-ag-agenda » : identifiant commun à tous les événements du Pôle Vigne et Vin avant la prise en compte de l'ancre)
+        const id = (old?.id !== "pvv-ag-agenda" && old?.id) || `${src.prefix}-${it.kind === "agenda" ? "ag-" : ""}${slugFromUrl(it.url)}`;
         const fresh = Object.fromEntries(Object.entries(it).filter(([, v]) => v !== undefined && v !== ""));
         // un résumé ou un lieu déjà connus sont conservés : ils ont pu être relus à la main
         const merged = { ...old, ...fresh, id, source: name, summary: old?.summary || fresh.summary || "", firstSeen: old?.firstSeen ?? NOW.toISOString(), ...(!old && firstImport ? { seed: true } : {}) };

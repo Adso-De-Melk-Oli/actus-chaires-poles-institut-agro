@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Institut Agro Pôles &amp; Chaires</string>
+    <string name="widget_name">Agenda Pôles &amp; Chaires</string>
+    <string name="widget_description">Les prochains événements des pôles et chaires de l\'Institut Agro à Montpellier</string>
+    <string name="news_widget_name">Dernières actus Pôles &amp; Chaires</string>
+    <string name="news_widget_description">Les dernières actus des pôles et chaires de l\'Institut Agro à Montpellier</string>
+</resources>
