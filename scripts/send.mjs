@@ -30,8 +30,11 @@ const fail = msg => { console.log(`::error title=Envoi du digest::${msg}`); proc
 if (!GMAIL_USER || !GMAIL_APP_PASSWORD) fail(`Secret ${!GMAIL_USER ? "GMAIL_USER" : "GMAIL_APP_PASSWORD"} absent ou vide : vérifier son nom dans Settings → Secrets and variables → Actions.`);
 
 try {
-  const file = TEST ? "data/preview/digest.json" : "data/digest.json";
+  // essai : l'aperçu préparé à la demande (data/preview), sinon le digest du jour tel qu'il partirait
+  let file = TEST ? "data/preview/digest.json" : "data/digest.json";
+  if (TEST) { try { await readFile(file); } catch { file = "data/digest.json"; } }
   const digest = JSON.parse(await readFile(file, "utf8"));
+  console.log(`Digest lu : ${file}`);
   let sent = {};
   try { sent = JSON.parse(await readFile("data/sent.json", "utf8")); } catch {}
 
