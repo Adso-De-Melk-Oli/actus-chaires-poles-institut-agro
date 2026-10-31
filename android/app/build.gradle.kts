@@ -6,7 +6,7 @@ plugins {
     id("app.cash.paparazzi")
 }
 
-// Signature : clé stockée chiffrée dans le dépôt (android/release.p12), mot de passe dans le secret
+// Signature : clé propre à cette application, stockée chiffrée dans le dépôt (android/release.p12), mot de passe dans le secret
 // GitHub ANDROID_KEYSTORE_PASSWORD. Sans mot de passe, l'APK de publication n'est pas construit.
 val keystorePassword: String? = System.getenv("ANDROID_KEYSTORE_PASSWORD")?.takeIf { it.isNotBlank() }
 val versionCodeFromCi = System.getenv("GITHUB_RUN_NUMBER")?.toIntOrNull() ?: 1

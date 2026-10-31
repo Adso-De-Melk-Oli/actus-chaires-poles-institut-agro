@@ -48,4 +48,4 @@ Le dossier `android/` contient l'application jumelle de « L'Institut Agro en ac
 
 - **Compilation** : workflow « Application Android », à chaque modification du dossier `android/`. Tests et captures d'écran (Paparazzi) publiés dans la branche `android-build`.
 - **Installation** : l'APK signé est publié dans la release « android » du dépôt (`InstitutAgroPolesChaires.apk`).
-- **Signature** : même clé que l'application jumelle (`android/release.p12`, chiffrée), mot de passe dans le secret `ANDROID_KEYSTORE_PASSWORD` de ce dépôt. Sans ce secret, seul un APK de test est construit (branche `android-build`).
+- **Signature** : clé propre à cette application (`android/release.p12`, chiffrée), mot de passe dans le secret `ANDROID_KEYSTORE_PASSWORD` de ce dépôt. Sans ce secret, seul un APK de test est construit (branche `android-build`).
