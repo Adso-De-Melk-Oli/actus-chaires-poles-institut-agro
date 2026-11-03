@@ -31,6 +31,7 @@ jobs:
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}   # collègues destinataires des digests avec nouveautés
           MODE: ${{ inputs.test && 'test' || 'daily' }}
       - name: Noter l'envoi
         if: ${{ !inputs.test }}

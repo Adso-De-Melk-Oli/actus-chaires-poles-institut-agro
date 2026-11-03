@@ -4,15 +4,18 @@
 //   node scripts/send.mjs            → envoi du jour : seulement si le digest est celui d'aujourd'hui,
 //                                      qu'il est 7 h passées à Paris et qu'il n'a pas déjà été envoyé
 //   MODE=test node scripts/send.mjs  → envoie l'aperçu (data/preview/digest.json), objet préfixé [Test]
-//   Digest, essais et alertes ne partent qu'à une seule adresse : olivier.piau@supagro.fr.
+//   Digest avec des nouveautés : olivier.piau@supagro.fr + les adresses du secret DIGEST_TO.
+//   Digest « rien de nouveau », essais et alertes : olivier.piau@supagro.fr seul.
 
 import { readFile, writeFile } from "node:fs/promises";
 import nodemailer from "nodemailer";
 import { parisDay } from "./digest.mjs";
 
-// un seul destinataire, volontairement fixé ici (pas de secret DIGEST_TO comme dans le site jumeau)
+// destinataires supplémentaires du digest : secret DIGEST_TO (adresses séparées par des virgules), pour ne pas
+// publier les adresses des collègues dans ce dépôt public ; l'administrateur est toujours destinataire
 const ADMIN = "olivier.piau@supagro.fr";
-const DIGEST_TO = [ADMIN];
+const EMAIL = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
+const DIGEST_TO = [...new Set([ADMIN, ...(process.env.DIGEST_TO || "").split(/[,;\s]+/).map(x => x.trim().toLowerCase()).filter(x => EMAIL.test(x))])];
 const { GMAIL_USER, GMAIL_APP_PASSWORD } = process.env;
 const TEST = process.env.MODE === "test";
 const now = new Date();

@@ -24,7 +24,7 @@ Les actualités et l'agenda des pôles et chaires de l'Institut Agro à Montpell
 
 ## Digest du matin
 
-Chaque jour ouvré, à partir de 7 h, un digest part **uniquement à olivier.piau@supagro.fr** (adresse fixée dans `scripts/send.mjs`) : nouveautés depuis le précédent envoi rangées par pôle et chaire, événements du jour et des 7 prochains jours. Envoi par Gmail, photos jointes ; secrets `GMAIL_USER` et `GMAIL_APP_PASSWORD` (Settings → Secrets and variables → Actions).
+Chaque jour ouvré, à partir de 7 h, un digest part à olivier.piau@supagro.fr et, quand il contient des nouveautés, aux adresses du secret `DIGEST_TO` (séparées par des virgules ; gardées hors de ce dépôt public). Le digest « rien de nouveau », les essais et les alertes ne vont qu'à olivier.piau@supagro.fr : nouveautés depuis le précédent envoi rangées par pôle et chaire, événements du jour et des 7 prochains jours. Envoi par Gmail, photos jointes ; secrets `GMAIL_USER` et `GMAIL_APP_PASSWORD` (Settings → Secrets and variables → Actions).
 
 - **`data/sent.json`** garde le dernier envoi : le digest suivant reprend là où il s'arrête.
 - **Alerte** quand une source est en échec deux jours de relevé de suite, puis un rappel par semaine.
