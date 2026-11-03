@@ -1,13 +1,18 @@
 {
- "updatedAt": "2026-11-02T05:36:21.559Z",
+ "updatedAt": "2026-11-03T05:36:16.457Z",
  "sources": {
   "agrosys": {
-   "ok": true,
-   "actus": 9,
-   "agenda": 1,
-   "errors": [],
+   "ok": false,
+   "actus": 0,
+   "agenda": 0,
+   "errors": [
+    "actus : https://agrosys.fr/feed/ injoignable (UND_ERR_CONNECT_TIMEOUT)"
+   ],
    "count": 10,
-   "failDays": 0
+   "problem": "ses actus n'ont pas pu être lues : le site n'a pas répondu à temps",
+   "failDays": 1,
+   "lastFailDay": "2026-11-03",
+   "failingSince": "2026-11-03"
   },
   "agrotic": {
    "ok": true,
@@ -26,20 +31,31 @@
    "failDays": 0
   },
   "unesco": {
-   "ok": true,
-   "actus": 6,
-   "agenda": 4,
-   "errors": [],
+   "ok": false,
+   "actus": 0,
+   "agenda": 0,
+   "errors": [
+    "actus : https://www.chaireunesco-adm.com/Actualites injoignable (UND_ERR_CONNECT_TIMEOUT)",
+    "agenda : https://www.chaireunesco-adm.com/Agenda injoignable (UND_ERR_CONNECT_TIMEOUT)"
+   ],
    "count": 10,
-   "failDays": 0
+   "problem": "le site n'a pas répondu à temps",
+   "failDays": 1,
+   "lastFailDay": "2026-11-03",
+   "failingSince": "2026-11-03"
   },
   "eacc": {
-   "ok": true,
-   "actus": 7,
-   "agenda": 2,
-   "errors": [],
+   "ok": false,
+   "actus": 0,
+   "agenda": 0,
+   "errors": [
+    "actus : https://chaire-eacc.fr/feed/ injoignable (UND_ERR_CONNECT_TIMEOUT)"
+   ],
    "count": 7,
-   "failDays": 0
+   "problem": "ses actus n'ont pas pu être lues : le site n'a pas répondu à temps",
+   "failDays": 1,
+   "lastFailDay": "2026-11-03",
+   "failingSince": "2026-11-03"
   },
   "masnum": {
    "ok": true,
@@ -50,12 +66,17 @@
    "failDays": 0
   },
   "vignevin": {
-   "ok": true,
-   "actus": 9,
-   "agenda": 1,
-   "errors": [],
+   "ok": false,
+   "actus": 0,
+   "agenda": 0,
+   "errors": [
+    "actus : https://www.chaire-vigne-et-vin.fr/feed/ injoignable (UND_ERR_CONNECT_TIMEOUT)"
+   ],
    "count": 10,
-   "failDays": 0
+   "problem": "ses actus n'ont pas pu être lues : le site n'a pas répondu à temps",
+   "failDays": 1,
+   "lastFailDay": "2026-11-03",
+   "failingSince": "2026-11-03"
   },
   "polevv": {
    "ok": true,
