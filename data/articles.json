@@ -1,25 +1,20 @@
 {
- "updatedAt": "2026-11-03T05:36:16.457Z",
+ "updatedAt": "2026-11-04T05:36:35.392Z",
  "sources": {
   "agrosys": {
-   "ok": false,
-   "actus": 0,
-   "agenda": 0,
-   "errors": [
-    "actus : https://agrosys.fr/feed/ injoignable (UND_ERR_CONNECT_TIMEOUT)"
-   ],
+   "ok": true,
+   "actus": 9,
+   "agenda": 1,
+   "errors": [],
    "count": 10,
-   "problem": "ses actus n'ont pas pu être lues : le site n'a pas répondu à temps",
-   "failDays": 1,
-   "lastFailDay": "2026-11-03",
-   "failingSince": "2026-11-03"
+   "failDays": 0
   },
   "agrotic": {
    "ok": true,
    "actus": 16,
    "agenda": 8,
    "errors": [],
-   "count": 24,
+   "count": 26,
    "failDays": 0
   },
   "innovarbo": {
@@ -35,27 +30,22 @@
    "actus": 0,
    "agenda": 0,
    "errors": [
-    "actus : https://www.chaireunesco-adm.com/Actualites injoignable (UND_ERR_CONNECT_TIMEOUT)",
-    "agenda : https://www.chaireunesco-adm.com/Agenda injoignable (UND_ERR_CONNECT_TIMEOUT)"
+    "actus : 502 sur https://www.chaireunesco-adm.com/Actualites",
+    "agenda : 502 sur https://www.chaireunesco-adm.com/Agenda"
    ],
    "count": 10,
-   "problem": "le site n'a pas répondu à temps",
-   "failDays": 1,
-   "lastFailDay": "2026-11-03",
+   "problem": "le site est en panne ou en maintenance",
+   "failDays": 2,
+   "lastFailDay": "2026-11-04",
    "failingSince": "2026-11-03"
   },
   "eacc": {
-   "ok": false,
-   "actus": 0,
-   "agenda": 0,
-   "errors": [
-    "actus : https://chaire-eacc.fr/feed/ injoignable (UND_ERR_CONNECT_TIMEOUT)"
-   ],
+   "ok": true,
+   "actus": 7,
+   "agenda": 2,
+   "errors": [],
    "count": 7,
-   "problem": "ses actus n'ont pas pu être lues : le site n'a pas répondu à temps",
-   "failDays": 1,
-   "lastFailDay": "2026-11-03",
-   "failingSince": "2026-11-03"
+   "failDays": 0
   },
   "masnum": {
    "ok": true,
@@ -66,17 +56,12 @@
    "failDays": 0
   },
   "vignevin": {
-   "ok": false,
-   "actus": 0,
-   "agenda": 0,
-   "errors": [
-    "actus : https://www.chaire-vigne-et-vin.fr/feed/ injoignable (UND_ERR_CONNECT_TIMEOUT)"
-   ],
+   "ok": true,
+   "actus": 9,
+   "agenda": 1,
+   "errors": [],
    "count": 10,
-   "problem": "ses actus n'ont pas pu être lues : le site n'a pas répondu à temps",
-   "failDays": 1,
-   "lastFailDay": "2026-11-03",
-   "failingSince": "2026-11-03"
+   "failDays": 0
   },
   "polevv": {
    "ok": true,
@@ -275,6 +260,17 @@
    "seed": true
   },
   {
+   "kind": "actu",
+   "title": "Cet automne, le projet ARCHIPELL vous donne rendez-vous pour 4 webinaires en ligne sur le numérique en agriculture",
+   "url": "https://www.agrotic.org/evenements/cet-automne-le-projet-archipell-vous-donne-rendez-vous-pour-4-webinaires-en-ligne-sur-le-numerique-en-agriculture/",
+   "date": "2026-11-03T15:43:57.000Z",
+   "image": "https://www.agrotic.org/wp-content/uploads/2026/03/VF-couleur-H-baseline.png",
+   "summary": "Le projet ARCHIPELL a pour ambition de démultiplier les usages du numérique éprouvés auprès des exploitants agricoles et de leurs conseillers, au service de la transition agroécologique. Pour…",
+   "id": "tic-cet-automne-le-projet-archipell-vous-donne-rendez-vous-pour-4-webinair",
+   "source": "agrotic",
+   "firstSeen": "2026-11-04T05:36:35.392Z"
+  },
+  {
    "kind": "agenda",
    "title": "Webinaire : l’alimentation comme porte d’accès aux droits",
    "url": "https://www.chaireunesco-adm.com/Webinaire-l-alimentation-comme-porte-d-acces-aux-droits",
@@ -286,6 +282,17 @@
    "source": "unesco",
    "firstSeen": "2026-10-31T08:54:49.141Z",
    "seed": true
+  },
+  {
+   "kind": "actu",
+   "title": "TabPFN : un modéle de fondation pour les données tabulaires",
+   "url": "https://www.agrotic.org/les-actualites/tabpfn-un-modele-de-fondation-pour-les-donnees-tabulaires/",
+   "date": "2026-10-30T09:43:38.000Z",
+   "image": "https://www.agrotic.org/wp-content/uploads/2026/10/Image_TAB_Pfn.png",
+   "summary": "En 2025, une équipe de l’université de Freiburg en Allemagne présentait TabPFN ; un modéle de fondation pour les données tabulaires, dans un article scientifique publié dans la prestigieuse revue…",
+   "id": "tic-tabpfn-un-modele-de-fondation-pour-les-donnees-tabulaires",
+   "source": "agrotic",
+   "firstSeen": "2026-11-04T05:36:35.392Z"
   },
   {
    "kind": "actu",
