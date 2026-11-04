@@ -1,7 +1,12 @@
 {
- "digestFor": "2026-11-03",
- "sentAt": "2026-11-03T06:00:02.395Z",
- "subject": "Pôles & Chaires · mardi 3 novembre · rien de nouveau",
- "windowTo": "2026-11-03T06:00:00.000Z",
- "alerts": {}
+ "digestFor": "2026-11-04",
+ "sentAt": "2026-11-04T06:00:03.052Z",
+ "subject": "Pôles & Chaires · mercredi 4 novembre · 2 actus",
+ "windowTo": "2026-11-04T06:00:00.000Z",
+ "alerts": {
+  "unesco": {
+   "since": "2026-11-03",
+   "at": "2026-11-04"
+  }
+ }
 }
