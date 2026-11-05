@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T05:36:35.392Z",
+ "updatedAt": "2026-11-05T05:36:20.180Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -26,18 +26,12 @@
    "failDays": 0
   },
   "unesco": {
-   "ok": false,
-   "actus": 0,
-   "agenda": 0,
-   "errors": [
-    "actus : 502 sur https://www.chaireunesco-adm.com/Actualites",
-    "agenda : 502 sur https://www.chaireunesco-adm.com/Agenda"
-   ],
+   "ok": true,
+   "actus": 6,
+   "agenda": 3,
+   "errors": [],
    "count": 10,
-   "problem": "le site est en panne ou en maintenance",
-   "failDays": 2,
-   "lastFailDay": "2026-11-04",
-   "failingSince": "2026-11-03"
+   "failDays": 0
   },
   "eacc": {
    "ok": true,
@@ -68,7 +62,7 @@
    "actus": 4,
    "agenda": 38,
    "errors": [],
-   "count": 18,
+   "count": 20,
    "failDays": 0
   },
   "polead": {
@@ -320,6 +314,17 @@
   },
   {
    "kind": "actu",
+   "title": "15 octobre 2026 | Concours Vignerons et Terroirs d’Avenir",
+   "url": "https://vigne-vin.institut-agro.fr/fr/toutes-les-actualites/15-octobre-2026-concours-vignerons-et-terroirs-davenir",
+   "date": "2026-10-26",
+   "image": "https://vigne-vin.institut-agro.fr/sites/vigne-vin.institut-agro.fr/files/images/actualites/bandeaux-pole-vigne-vin%20-11%C2%B0%20CVTA%202026%20copie.jpg",
+   "summary": "80 000 € pour soutenir les jeunes vignerons : candidatez dès maintenant",
+   "id": "pvv-15-octobre-2026-concours-vignerons-et-terroirs-davenir",
+   "source": "polevv",
+   "firstSeen": "2026-11-05T05:36:20.180Z"
+  },
+  {
+   "kind": "actu",
    "title": "AgreenCulture signe un partenariat avec la mairie de Toulouse pour un site d’expérimentation sur la robotique",
    "url": "https://www.agrotic.org/les-actualites/agreenculture-signe-un-partenariat-avec-la-mairie-de-toulouse-pour-un-site-dexperimentation-sur-la-robotique/",
    "date": "2026-10-23T09:52:41.000Z",
@@ -367,6 +372,17 @@
    "summary": "",
    "firstSeen": "2026-10-31T08:54:49.141Z",
    "seed": true
+  },
+  {
+   "kind": "actu",
+   "title": "150° anniversaire de la collection ampélographique de Vassal-Montpellier",
+   "url": "https://vigne-vin.institut-agro.fr/fr/toutes-les-actualites/150deg-anniversaire-de-la-collection-ampelographique-de-vassal-montpellier",
+   "date": "2026-10-21",
+   "image": "https://vigne-vin.institut-agro.fr/sites/vigne-vin.institut-agro.fr/files/images/actualites/bandeaux-pole-vigne-vin%20-%20Retour%20des%20150%20%C3%A8%20anniv%20de%20Vassal%20copie_0.jpg",
+   "summary": "Retour sur une aventure scientifique et humaine exceptionnelle",
+   "id": "pvv-150deg-anniversaire-de-la-collection-ampelographique-de-vassal-montpel",
+   "source": "polevv",
+   "firstSeen": "2026-11-05T05:36:20.180Z"
   },
   {
    "kind": "agenda",
