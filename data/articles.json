@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T05:36:20.180Z",
+ "updatedAt": "2026-11-06T05:36:02.001Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -432,7 +432,7 @@
    "source": "agrosys",
    "firstSeen": "2026-10-31T08:54:49.141Z",
    "seed": true,
-   "image": "https://agrosys.fr/wp-content/uploads/sites/13/2026/10/Image1-compressed.png"
+   "image": "https://agrosys.fr/wp-content/uploads/sites/13/2026/11/Infographie-Stage-Tour-du-Valat_page-0001-212x300.jpg"
   },
   {
    "kind": "agenda",
