@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T05:36:02.001Z",
+ "updatedAt": "2026-11-09T05:36:35.117Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -62,7 +62,7 @@
    "actus": 4,
    "agenda": 38,
    "errors": [],
-   "count": 20,
+   "count": 19,
    "failDays": 0
   },
   "polead": {
@@ -1014,19 +1014,6 @@
    "summary": "La Sécurité au travail avec Surus connect En test sur le Mas. Nous venons de recevoir le boitier Surus Connect pour un test sur toute la saison. Ce boitier se glisse dans la poche et déclenche des…",
    "id": "mas-securite-au-travail-surus-connect",
    "source": "masnum",
-   "firstSeen": "2026-10-31T08:54:49.141Z",
-   "seed": true
-  },
-  {
-   "kind": "agenda",
-   "title": "VES ANNUAL MEETING",
-   "url": "https://vigne-vin.institut-agro.fr/fr/agenda#2026-05-05-ves-annual-meeting",
-   "date": "2026-05-05",
-   "endDate": "2026-05-08",
-   "summary": "Universidad Politécnica de Madrid I Espagne · Assemblée générale - Sciences meeting - visite technique",
-   "noImage": true,
-   "id": "pvv-ag-2026-05-05-ves-annual-meeting",
-   "source": "polevv",
    "firstSeen": "2026-10-31T08:54:49.141Z",
    "seed": true
   },
