@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T05:35:46.247Z",
+ "updatedAt": "2026-11-11T05:35:29.204Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -14,7 +14,7 @@
    "actus": 16,
    "agenda": 8,
    "errors": [],
-   "count": 26,
+   "count": 27,
    "failDays": 0
   },
   "innovarbo": {
@@ -28,9 +28,9 @@
   "unesco": {
    "ok": true,
    "actus": 6,
-   "agenda": 3,
+   "agenda": 4,
    "errors": [],
-   "count": 10,
+   "count": 11,
    "failDays": 0
   },
   "eacc": {
@@ -165,6 +165,18 @@
   },
   {
    "kind": "agenda",
+   "title": "Webinaire - Lutte contre la précarité alimentaire et santé",
+   "url": "https://www.chaireunesco-adm.com/Webinaire-Lutte-contre-la-precarite-alimentaire-et-sante-2856",
+   "date": "2026-12-08",
+   "remote": true,
+   "summary": "L’alimentation est un véritable levier de santé publique, à la croisée de la lutte contre la précarité et de la réduction des inégalités sociales de santé. Comment s’en saisir concrètement pour faire…",
+   "id": "adm-ag-webinaire-lutte-contre-la-precarite-alimentaire-et-sante-2856",
+   "source": "unesco",
+   "firstSeen": "2026-11-11T05:35:29.204Z",
+   "noImage": true
+  },
+  {
+   "kind": "agenda",
    "title": "Colloque international Vinid’OCC",
    "url": "https://vigne-vin.institut-agro.fr/fr/agenda#2026-12-07-colloque-international-vinid-occ",
    "date": "2026-12-07",
@@ -215,6 +227,17 @@
    "firstSeen": "2026-10-31T08:54:49.141Z",
    "seed": true,
    "image": "https://www.chaireunesco-adm.com/IMG/png/affiche_appel_a_contributions.png?1790159043"
+  },
+  {
+   "kind": "actu",
+   "title": "MS4Agri : un projet européen pour faire rouler les robots agricoles sans GNSS",
+   "url": "https://www.agrotic.org/uncategorized/ms4agri-un-projet-europeen-pour-faire-rouler-les-robots-agricoles-sans-gnss/",
+   "date": "2026-11-10T16:15:07.000Z",
+   "image": "https://www.agrotic.org/wp-content/uploads/2026/11/Picture-3-ms4.png",
+   "summary": "Le projet MS4Agri, soutenu par l’Agence spatiale européenne (ESA), a officiellement démarré en octobre 2026. Son objectif : améliorer la navigation autonome des machines agricoles dans les…",
+   "id": "tic-ms4agri-un-projet-europeen-pour-faire-rouler-les-robots-agricoles-sans",
+   "source": "agrotic",
+   "firstSeen": "2026-11-11T05:35:29.204Z"
   },
   {
    "kind": "agenda",
