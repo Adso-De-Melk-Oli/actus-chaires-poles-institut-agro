@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T05:35:56.695Z",
+ "updatedAt": "2026-11-13T05:36:19.832Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -14,7 +14,7 @@
    "actus": 16,
    "agenda": 8,
    "errors": [],
-   "count": 27,
+   "count": 28,
    "failDays": 0
   },
   "innovarbo": {
@@ -227,6 +227,17 @@
    "firstSeen": "2026-10-31T08:54:49.141Z",
    "seed": true,
    "image": "https://www.chaireunesco-adm.com/IMG/png/affiche_appel_a_contributions.png?1790159043"
+  },
+  {
+   "kind": "actu",
+   "title": "Naïo lance SANKA, son nouveau robot agricole autonome",
+   "url": "https://www.agrotic.org/les-actualites/naio-lance-sanka-son-nouveau-robot-agricole-autonome/",
+   "date": "2026-11-12T14:45:55.000Z",
+   "image": "https://www.agrotic.org/wp-content/uploads/2026/11/Image2.png",
+   "summary": "Présenté au salon EIMA (Exposition internationale des machines pour l’agriculture et le jardinage) 2026 à Bologne, SANKA est un robot à chenilles 100 % électrique, conçu pour « rendre la robotique…",
+   "id": "tic-naio-lance-sanka-son-nouveau-robot-agricole-autonome",
+   "source": "agrotic",
+   "firstSeen": "2026-11-13T05:36:19.832Z"
   },
   {
    "kind": "actu",
@@ -1219,7 +1230,7 @@
   },
   {
    "kind": "actu",
-   "title": "Participez aux 3e Rencontres sciences-société pour des solidarités alimentaires",
+   "title": "Rencontres sciences-société pour des solidarités alimentaires : suivez-nous en streaming !",
    "url": "https://www.chaireunesco-adm.com/Participez-aux-3e-Rencontres-sciences-societe-pour-des-solidarites-alimentaires",
    "summary": "Un événement pour explorer les thématiques qui mobilisent actuellement les acteur.ice.s des solidarités alimentaires et impulser le développement d’espaces de collaboration. Rendez-vous les 19 et 20…",
    "id": "adm-participez-aux-3e-rencontres-sciences-societe-pour-des-solidarites-ali",
