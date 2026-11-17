@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T05:35:51.909Z",
+ "updatedAt": "2026-11-17T05:35:56.072Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -14,7 +14,7 @@
    "actus": 16,
    "agenda": 8,
    "errors": [],
-   "count": 28,
+   "count": 29,
    "failDays": 0
   },
   "innovarbo": {
@@ -249,6 +249,17 @@
    "id": "tic-ms4agri-un-projet-europeen-pour-faire-rouler-les-robots-agricoles-sans",
    "source": "agrotic",
    "firstSeen": "2026-11-11T05:35:29.204Z"
+  },
+  {
+   "kind": "actu",
+   "title": "MS4Agri : un projet européen pour faire rouler les robots agricoles sans GNSS",
+   "url": "https://www.agrotic.org/les-actualites/ms4agri-un-projet-europeen-pour-faire-rouler-les-robots-agricoles-sans-gnss/",
+   "date": "2026-11-10T16:15:07.000Z",
+   "image": "https://www.agrotic.org/wp-content/uploads/2026/11/Picture-3-ms4.png",
+   "summary": "Le projet MS4Agri, soutenu par l’Agence spatiale européenne (ESA), a officiellement démarré en octobre 2026. Son objectif : améliorer la navigation autonome des machines agricoles dans les…",
+   "id": "tic-ms4agri-un-projet-europeen-pour-faire-rouler-les-robots-agricoles-sans",
+   "source": "agrotic",
+   "firstSeen": "2026-11-17T05:35:56.072Z"
   },
   {
    "kind": "agenda",
