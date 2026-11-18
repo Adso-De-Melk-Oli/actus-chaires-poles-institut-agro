@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T05:35:56.072Z",
+ "updatedAt": "2026-11-18T05:35:49.435Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -28,9 +28,9 @@
   "unesco": {
    "ok": true,
    "actus": 6,
-   "agenda": 4,
+   "agenda": 5,
    "errors": [],
-   "count": 11,
+   "count": 12,
    "failDays": 0
   },
   "eacc": {
@@ -201,6 +201,18 @@
    "firstSeen": "2026-10-31T08:54:49.141Z",
    "seed": true,
    "image": "https://www.chaireunesco-adm.com/IMG/png/journees_de_restitution_obsoalim.png"
+  },
+  {
+   "kind": "agenda",
+   "title": "Séminaire souverainetés et solidarités alimentaires en outre-mer et dans l’Océan indien",
+   "url": "https://www.chaireunesco-adm.com/Seminaire-souverainetes-et-solidarites-alimentaires-en-outre-mer-et-dans-l",
+   "date": "2026-11-23",
+   "endDate": "2026-11-24",
+   "summary": "Comment renforcer la souveraineté alimentaire des territoires insulaires ? Comment mieux valoriser les ressources locales, préserver les savoirs et savoir-faire traditionnels et développer de…",
+   "id": "adm-ag-seminaire-souverainetes-et-solidarites-alimentaires-en-outre-mer-et-da",
+   "source": "unesco",
+   "firstSeen": "2026-11-18T05:35:49.435Z",
+   "image": "https://www.chaireunesco-adm.com/IMG/png/vignette_or-alim.png?1794931931"
   },
   {
    "kind": "agenda",
