@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T05:35:49.435Z",
+ "updatedAt": "2026-11-19T05:36:21.469Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -58,20 +58,31 @@
    "failDays": 0
   },
   "polevv": {
-   "ok": true,
-   "actus": 4,
-   "agenda": 38,
-   "errors": [],
+   "ok": false,
+   "actus": 0,
+   "agenda": 0,
+   "errors": [
+    "actus : https://vigne-vin.institut-agro.fr/fr/toutes-les-actualites injoignable (UND_ERR_CONNECT_TIMEOUT)",
+    "agenda : https://vigne-vin.institut-agro.fr/fr/agenda injoignable (UND_ERR_CONNECT_TIMEOUT)"
+   ],
    "count": 19,
-   "failDays": 0
+   "problem": "le site n'a pas répondu à temps",
+   "failDays": 1,
+   "lastFailDay": "2026-11-19",
+   "failingSince": "2026-11-19"
   },
   "polead": {
-   "ok": true,
-   "actus": 2,
+   "ok": false,
+   "actus": 0,
    "agenda": 0,
-   "errors": [],
+   "errors": [
+    "actus : https://alimentation-durable.institut-agro.fr/fr/toutes-les-actualites injoignable (UND_ERR_CONNECT_TIMEOUT)"
+   ],
    "count": 2,
-   "failDays": 0
+   "problem": "ses actus n'ont pas pu être lues : le site n'a pas répondu à temps",
+   "failDays": 1,
+   "lastFailDay": "2026-11-19",
+   "failingSince": "2026-11-19"
   }
  },
  "articles": [
