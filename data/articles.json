@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T05:36:21.469Z",
+ "updatedAt": "2026-11-20T13:02:12.740Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -11,10 +11,10 @@
   },
   "agrotic": {
    "ok": true,
-   "actus": 16,
-   "agenda": 8,
+   "actus": 17,
+   "agenda": 7,
    "errors": [],
-   "count": 29,
+   "count": 30,
    "failDays": 0
   },
   "innovarbo": {
@@ -28,7 +28,7 @@
   "unesco": {
    "ok": true,
    "actus": 6,
-   "agenda": 5,
+   "agenda": 4,
    "errors": [],
    "count": 12,
    "failDays": 0
@@ -58,31 +58,20 @@
    "failDays": 0
   },
   "polevv": {
-   "ok": false,
-   "actus": 0,
-   "agenda": 0,
-   "errors": [
-    "actus : https://vigne-vin.institut-agro.fr/fr/toutes-les-actualites injoignable (UND_ERR_CONNECT_TIMEOUT)",
-    "agenda : https://vigne-vin.institut-agro.fr/fr/agenda injoignable (UND_ERR_CONNECT_TIMEOUT)"
-   ],
+   "ok": true,
+   "actus": 4,
+   "agenda": 38,
+   "errors": [],
    "count": 19,
-   "problem": "le site n'a pas répondu à temps",
-   "failDays": 1,
-   "lastFailDay": "2026-11-19",
-   "failingSince": "2026-11-19"
+   "failDays": 0
   },
   "polead": {
-   "ok": false,
-   "actus": 0,
+   "ok": true,
+   "actus": 2,
    "agenda": 0,
-   "errors": [
-    "actus : https://alimentation-durable.institut-agro.fr/fr/toutes-les-actualites injoignable (UND_ERR_CONNECT_TIMEOUT)"
-   ],
+   "errors": [],
    "count": 2,
-   "problem": "ses actus n'ont pas pu être lues : le site n'a pas répondu à temps",
-   "failDays": 1,
-   "lastFailDay": "2026-11-19",
-   "failingSince": "2026-11-19"
+   "failDays": 0
   }
  },
  "articles": [
@@ -223,7 +212,18 @@
    "id": "adm-ag-seminaire-souverainetes-et-solidarites-alimentaires-en-outre-mer-et-da",
    "source": "unesco",
    "firstSeen": "2026-11-18T05:35:49.435Z",
-   "image": "https://www.chaireunesco-adm.com/IMG/png/vignette_or-alim.png?1794931931"
+   "image": "https://www.chaireunesco-adm.com/local/cache-vignettes/L215xH300/vignette_or-alim-1a6e1.png"
+  },
+  {
+   "kind": "actu",
+   "title": "Journée Portes Ouvertes au Mas numérique !",
+   "url": "https://www.agrotic.org/evenements/portes-ouvertes-mas-numerique/",
+   "date": "2026-11-19T12:52:13.000Z",
+   "image": "https://www.agrotic.org/wp-content/uploads/2026/11/20230922_134041-scaled.jpg",
+   "summary": "Les outils numériques en vigne vous questionnent? Partageons nos expériences! Cette visite du Mas organisée dans le cadre des Vinidays est dédiée aux professionnels de la viticulture. Inscription via…",
+   "id": "tic-portes-ouvertes-mas-numerique",
+   "source": "agrotic",
+   "firstSeen": "2026-11-20T13:02:12.740Z"
   },
   {
    "kind": "agenda",
