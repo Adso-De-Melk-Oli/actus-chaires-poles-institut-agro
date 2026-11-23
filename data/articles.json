@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T13:02:12.740Z",
+ "updatedAt": "2026-11-23T05:36:10.344Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -62,7 +62,7 @@
    "actus": 4,
    "agenda": 38,
    "errors": [],
-   "count": 19,
+   "count": 18,
    "failDays": 0
   },
   "polead": {
@@ -1009,19 +1009,6 @@
    "summary": "Le prix doctoral 2026 de la chaire d’entreprises vigne et vin a été remis à François Clavero Sa thèse s’intitule « Étude de la dégradation de pesticides par procédé de Lumière Pulsée combinant une…",
    "id": "cvv-effluents-viticoles-degradation-des-pesticides-par-lumiere-pulsee",
    "source": "vignevin",
-   "firstSeen": "2026-10-31T08:54:49.141Z",
-   "seed": true
-  },
-  {
-   "kind": "agenda",
-   "title": "OENOVITI International Symposium and General Assembly",
-   "url": "https://vigne-vin.institut-agro.fr/fr/agenda#2026-05-20-oenoviti-international-symposium-and-general-assembly",
-   "date": "2026-05-20",
-   "endDate": "2026-05-22",
-   "summary": "Wine sector future, wine tourism digitalization, and sustainable wine consumption: challenges, evolution and prospects\". · University of Porto, Faculty of Sciences - Porto - Portugal",
-   "noImage": true,
-   "id": "pvv-ag-2026-05-20-oenoviti-international-symposium-and-general-assembly",
-   "source": "polevv",
    "firstSeen": "2026-10-31T08:54:49.141Z",
    "seed": true
   },
