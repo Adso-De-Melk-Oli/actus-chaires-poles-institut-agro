@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T05:36:10.344Z",
+ "updatedAt": "2026-11-24T05:35:51.650Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -28,9 +28,9 @@
   "unesco": {
    "ok": true,
    "actus": 6,
-   "agenda": 4,
+   "agenda": 5,
    "errors": [],
-   "count": 12,
+   "count": 13,
    "failDays": 0
   },
   "eacc": {
@@ -201,6 +201,17 @@
    "firstSeen": "2026-10-31T08:54:49.141Z",
    "seed": true,
    "image": "https://www.chaireunesco-adm.com/IMG/png/journees_de_restitution_obsoalim.png"
+  },
+  {
+   "kind": "agenda",
+   "title": "Ciné-débat : comment l’agrochimie a tué les insectes",
+   "url": "https://www.chaireunesco-adm.com/Cine-debat-comment-l-agrochimie-a-tue-les-insectes",
+   "date": "2026-11-26",
+   "summary": "Un événement organisé dans le cadre du festival Alimenterre, avec nos partenaires du projet Faim d’agir.",
+   "id": "adm-ag-cine-debat-comment-l-agrochimie-a-tue-les-insectes",
+   "source": "unesco",
+   "firstSeen": "2026-11-24T05:35:51.650Z",
+   "image": "https://www.chaireunesco-adm.com/IMG/png/affiche_cine-debat_option_1.png"
   },
   {
    "kind": "agenda",
@@ -1218,7 +1229,7 @@
   },
   {
    "kind": "actu",
-   "title": "Les enjeux contemporains de l’alimentation en 4 sessions de formation",
+   "title": "Les enjeux contemporains de l’alimentation : 4 sessions de formation disponibles en replay !",
    "url": "https://www.chaireunesco-adm.com/Les-enjeux-contemporains-de-l-alimentation-en-4-sessions",
    "image": "https://www.chaireunesco-adm.com/local/cache-vignettes/L400xH400/seminaire_2026_kiwi_carre-3-1fe6b.png",
    "summary": "Enjeux et pistes pour une alimentation durable, Europe agroécologique, numérique, nouvelles formes de solidarités alimentaires...Un événement gratuit et ouvert à tous, à suivre au CIRAD ou en ligne.",
