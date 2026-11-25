@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T05:35:51.650Z",
+ "updatedAt": "2026-11-25T05:35:50.937Z",
  "sources": {
   "agrosys": {
    "ok": true,
@@ -28,9 +28,9 @@
   "unesco": {
    "ok": true,
    "actus": 6,
-   "agenda": 5,
+   "agenda": 3,
    "errors": [],
-   "count": 13,
+   "count": 14,
    "failDays": 0
   },
   "eacc": {
@@ -177,6 +177,18 @@
   },
   {
    "kind": "agenda",
+   "title": "Webinaire - Lutte contre la précarité alimentaire et santé",
+   "url": "https://www.chaireunesco-adm.com/Webinaire-Lutte-contre-la-precarite-alimentaire-et-sante",
+   "date": "2026-12-08",
+   "remote": true,
+   "summary": "L’alimentation est un véritable levier de santé publique, à la croisée de la lutte contre la précarité et de la réduction des inégalités sociales de santé. Comment s’en saisir concrètement pour faire…",
+   "id": "adm-ag-webinaire-lutte-contre-la-precarite-alimentaire-et-sante",
+   "source": "unesco",
+   "firstSeen": "2026-11-25T05:35:50.937Z",
+   "noImage": true
+  },
+  {
+   "kind": "agenda",
    "title": "Colloque international Vinid’OCC",
    "url": "https://vigne-vin.institut-agro.fr/fr/agenda#2026-12-07-colloque-international-vinid-occ",
    "date": "2026-12-07",
@@ -200,7 +212,7 @@
    "source": "unesco",
    "firstSeen": "2026-10-31T08:54:49.141Z",
    "seed": true,
-   "image": "https://www.chaireunesco-adm.com/IMG/png/journees_de_restitution_obsoalim.png"
+   "image": "https://www.chaireunesco-adm.com/local/cache-vignettes/L300xH300/obsoalim_carre_site_web_1_-3-455b2.png"
   },
   {
    "kind": "agenda",
